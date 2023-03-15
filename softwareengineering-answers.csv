@@ -1,0 +1,1001 @@
+Question_ID,Answer_Score,Author_Name,Author_ID,Author_Rep,Number_Of_Comments,Answer_Accepted
+444100,0,Invalid Name,Invalid ID,0,0,False
+444098,4,candied_orange,131624,165,2,False
+444097,0,Invalid Name,Invalid ID,0,0,False
+444094,0,Invalid Name,Invalid ID,0,0,False
+444093,0,Invalid Name,Invalid ID,0,0,False
+444085,1,user253751,115557,4374,0,False
+444084,0,Invalid Name,Invalid ID,0,0,False
+444082,5,Ewan,177980,67800,1,True
+444079,0,Invalid Name,Invalid ID,0,0,False
+444073,0,Invalid Name,Invalid ID,0,0,False
+444069,0,Invalid Name,Invalid ID,0,0,False
+444066,68,S.Robins,39178,1908,5,False
+444060,20,John Bollinger,270313,199,1,False
+444049,11,Robert Harvey,1204,198000,1,False
+444048,4,vman,427115,78500,0,False
+444045,1,Imre Tömösvári,427126,11,0,False
+444036,5,Michael Moreno,374851,1443,0,True
+444030,5,Hans-Martin Mosner,235743,39,1,True
+444028,3,yokus,405033,67800,4,True
+444027,0,Invalid Name,Invalid ID,0,0,False
+444024,5,Stefan Billiet,96340,1052,6,False
+444012,3,candied_orange,131624,96500,2,False
+444008,6,user253751,115557,33,0,True
+444007,5,Flater,106566,151,1,True
+444005,5,Erik Eidt,63202,32700,2,False
+444003,0,Invalid Name,Invalid ID,0,0,False
+444000,2,deamon,63946,193000,2,False
+443993,3,amon,60357,1003,0,False
+443992,4,koppor,52607,71800,3,True
+443982,9,ayowhatthedogdoin,426976,40100,1,True
+443980,4,candied_orange,131624,157,2,False
+443977,0,Joe,7111,0,0,False
+443971,4,Ewan,177980,67800,0,False
+443966,0,Invalid Name,Invalid ID,0,0,False
+443962,2,john doe,242572,193000,2,False
+443961,2,Sebastian Sotto M.,366014,141,3,True
+443960,1,Jon Raynor,28696,10800,0,False
+443941,34,J_H,283352,387,5,False
+443938,2,J_H,283352,1443,1,True
+443936,0,Invalid Name,Invalid ID,0,0,False
+443932,0,Invalid Name,Invalid ID,0,0,False
+443931,2,AncientSwordRage,42685,193000,0,False
+443929,0,Invalid Name,Invalid ID,0,0,False
+443924,0,Invalid Name,Invalid ID,0,0,False
+443921,3,Flater,106566,220,1,False
+443919,1,Sebastian Redl,78254,14700,0,False
+443917,1,obanadingyo,426827,1443,0,True
+443916,4,B-Rad,127028,31200,0,True
+443911,4,Philip Kendall,136413,19100,0,False
+443910,0,don,415411,0,0,False
+443908,0,Invalid Name,Invalid ID,0,0,False
+443905,4,candied_orange,131624,165,2,False
+443904,0,Invalid Name,Invalid ID,0,0,True
+443901,0,Invalid Name,Invalid ID,0,0,False
+443899,0,Invalid Name,Invalid ID,0,0,False
+443897,1,user253751,115557,4374,0,False
+443887,0,Invalid Name,Invalid ID,0,0,False
+443885,5,Ewan,177980,67800,1,False
+443884,0,Invalid Name,Invalid ID,0,0,False
+443880,0,Invalid Name,Invalid ID,0,0,True
+443873,0,Invalid Name,Invalid ID,0,0,True
+443865,68,S.Robins,39178,1908,5,False
+443861,20,John Bollinger,270313,199,1,True
+443859,11,Robert Harvey,1204,198000,1,True
+443851,4,vman,427115,78500,0,False
+443848,1,Imre Tömösvári,427126,11,0,False
+443842,5,Michael Moreno,374851,1443,0,False
+443840,5,Hans-Martin Mosner,235743,39,1,False
+443832,3,yokus,405033,67800,4,True
+443829,0,Invalid Name,Invalid ID,0,0,False
+443828,5,Stefan Billiet,96340,1052,6,False
+443827,3,candied_orange,131624,96500,2,False
+443817,6,user253751,115557,33,0,False
+443815,5,Flater,106566,151,1,True
+443814,5,Erik Eidt,63202,32700,2,False
+443813,0,Invalid Name,Invalid ID,0,0,True
+443810,2,deamon,63946,193000,2,False
+443804,3,amon,60357,1003,0,True
+443799,4,koppor,52607,71800,3,True
+443797,9,ayowhatthedogdoin,426976,40100,1,False
+443796,4,candied_orange,131624,157,2,True
+443784,0,Joe,7111,0,0,True
+443783,4,Ewan,177980,67800,0,False
+443782,0,Invalid Name,Invalid ID,0,0,True
+443780,2,john doe,242572,193000,2,True
+443778,2,Sebastian Sotto M.,366014,141,3,False
+443775,1,Jon Raynor,28696,10800,0,False
+443774,34,J_H,283352,387,5,True
+443771,2,J_H,283352,1443,1,True
+443757,0,Invalid Name,Invalid ID,0,0,False
+443756,0,Invalid Name,Invalid ID,0,0,True
+443751,2,AncientSwordRage,42685,193000,0,False
+443746,0,Invalid Name,Invalid ID,0,0,True
+443735,0,Invalid Name,Invalid ID,0,0,False
+443733,3,Flater,106566,220,1,False
+443732,1,Sebastian Redl,78254,14700,0,True
+443729,1,obanadingyo,426827,1443,0,False
+443726,4,B-Rad,127028,31200,0,False
+443719,4,Philip Kendall,136413,19100,0,False
+443713,0,don,415411,0,0,True
+443709,0,Invalid Name,Invalid ID,0,0,False
+443706,4,candied_orange,131624,165,2,False
+443690,0,Invalid Name,Invalid ID,0,0,False
+443689,0,Invalid Name,Invalid ID,0,0,False
+443688,0,Invalid Name,Invalid ID,0,0,True
+443684,1,user253751,115557,4374,0,False
+443677,0,Invalid Name,Invalid ID,0,0,True
+443675,5,Ewan,177980,67800,1,False
+443670,0,Invalid Name,Invalid ID,0,0,True
+443667,0,Invalid Name,Invalid ID,0,0,False
+443653,0,Invalid Name,Invalid ID,0,0,False
+443649,68,S.Robins,39178,1908,5,True
+443646,20,John Bollinger,270313,199,1,True
+443639,11,Robert Harvey,1204,198000,1,False
+443637,4,vman,427115,78500,0,True
+443630,1,Imre Tömösvári,427126,11,0,True
+443625,5,Michael Moreno,374851,1443,0,False
+443615,5,Hans-Martin Mosner,235743,39,1,False
+443613,3,yokus,405033,67800,4,True
+443608,0,Invalid Name,Invalid ID,0,0,False
+443603,5,Stefan Billiet,96340,1052,6,True
+443601,3,candied_orange,131624,96500,2,True
+443589,6,user253751,115557,33,0,False
+443587,5,Flater,106566,151,1,True
+443585,5,Erik Eidt,63202,32700,2,True
+443584,0,Invalid Name,Invalid ID,0,0,False
+443581,2,deamon,63946,193000,2,False
+443575,3,amon,60357,1003,0,False
+443574,4,koppor,52607,71800,3,True
+443572,9,ayowhatthedogdoin,426976,40100,1,False
+443569,4,candied_orange,131624,157,2,False
+443564,0,Joe,7111,0,0,False
+443556,4,Ewan,177980,67800,0,False
+443542,0,Invalid Name,Invalid ID,0,0,False
+443531,2,john doe,242572,193000,2,False
+443530,2,Sebastian Sotto M.,366014,141,3,True
+443529,1,Jon Raynor,28696,10800,0,False
+443527,34,J_H,283352,387,5,False
+443514,2,J_H,283352,1443,1,True
+443502,0,Invalid Name,Invalid ID,0,0,True
+443498,0,Invalid Name,Invalid ID,0,0,True
+443497,2,AncientSwordRage,42685,193000,0,True
+443494,0,Invalid Name,Invalid ID,0,0,False
+443490,0,Invalid Name,Invalid ID,0,0,True
+443489,3,Flater,106566,220,1,False
+443486,1,Sebastian Redl,78254,14700,0,True
+443479,1,obanadingyo,426827,1443,0,True
+443464,4,B-Rad,127028,31200,0,True
+443463,4,Philip Kendall,136413,19100,0,True
+443462,0,don,415411,0,0,False
+443460,0,Invalid Name,Invalid ID,0,0,False
+443457,4,candied_orange,131624,165,2,False
+443444,0,Invalid Name,Invalid ID,0,0,False
+443442,0,Invalid Name,Invalid ID,0,0,False
+443439,0,Invalid Name,Invalid ID,0,0,False
+443435,1,user253751,115557,4374,0,True
+443432,0,Invalid Name,Invalid ID,0,0,True
+443426,5,Ewan,177980,67800,1,False
+443423,0,Invalid Name,Invalid ID,0,0,False
+443416,0,Invalid Name,Invalid ID,0,0,True
+443406,0,Invalid Name,Invalid ID,0,0,True
+443405,68,S.Robins,39178,1908,5,False
+443399,20,John Bollinger,270313,199,1,False
+443397,11,Robert Harvey,1204,198000,1,False
+443394,4,vman,427115,78500,0,True
+443387,1,Imre Tömösvári,427126,11,0,True
+443386,5,Michael Moreno,374851,1443,0,True
+443379,5,Hans-Martin Mosner,235743,39,1,True
+443370,3,yokus,405033,67800,4,False
+443367,0,Invalid Name,Invalid ID,0,0,False
+443359,5,Stefan Billiet,96340,1052,6,False
+443358,3,candied_orange,131624,96500,2,False
+443354,6,user253751,115557,33,0,True
+443348,5,Flater,106566,151,1,False
+443347,5,Erik Eidt,63202,32700,2,True
+443345,0,Invalid Name,Invalid ID,0,0,False
+443342,2,deamon,63946,193000,2,True
+443341,3,amon,60357,1003,0,False
+443335,4,koppor,52607,71800,3,True
+443332,9,ayowhatthedogdoin,426976,40100,1,False
+443329,4,candied_orange,131624,157,2,False
+443328,0,Joe,7111,0,0,True
+443327,4,Ewan,177980,67800,0,False
+443321,0,Invalid Name,Invalid ID,0,0,False
+443319,2,john doe,242572,193000,2,True
+443316,2,Sebastian Sotto M.,366014,141,3,True
+443312,1,Jon Raynor,28696,10800,0,False
+443309,34,J_H,283352,387,5,False
+443306,2,J_H,283352,1443,1,False
+443304,0,Invalid Name,Invalid ID,0,0,False
+443296,0,Invalid Name,Invalid ID,0,0,True
+443295,2,AncientSwordRage,42685,193000,0,False
+443294,0,Invalid Name,Invalid ID,0,0,False
+443292,0,Invalid Name,Invalid ID,0,0,False
+443287,3,Flater,106566,220,1,False
+443284,1,Sebastian Redl,78254,14700,0,False
+443281,1,obanadingyo,426827,1443,0,False
+443274,4,B-Rad,127028,31200,0,False
+443271,4,Philip Kendall,136413,19100,0,True
+443270,0,don,415411,0,0,True
+443267,0,Invalid Name,Invalid ID,0,0,True
+443264,4,candied_orange,131624,165,2,True
+443259,0,Invalid Name,Invalid ID,0,0,False
+443256,0,Invalid Name,Invalid ID,0,0,False
+443255,0,Invalid Name,Invalid ID,0,0,False
+443252,1,user253751,115557,4374,0,False
+443249,0,Invalid Name,Invalid ID,0,0,True
+443247,5,Ewan,177980,67800,1,False
+443244,0,Invalid Name,Invalid ID,0,0,True
+443230,0,Invalid Name,Invalid ID,0,0,False
+443222,0,Invalid Name,Invalid ID,0,0,False
+443221,68,S.Robins,39178,1908,5,True
+443210,20,John Bollinger,270313,199,1,False
+443204,11,Robert Harvey,1204,198000,1,True
+443203,4,vman,427115,78500,0,False
+443196,1,Imre Tömösvári,427126,11,0,True
+443189,5,Michael Moreno,374851,1443,0,False
+443173,5,Hans-Martin Mosner,235743,39,1,False
+443168,3,yokus,405033,67800,4,False
+443166,0,Invalid Name,Invalid ID,0,0,False
+443164,5,Stefan Billiet,96340,1052,6,False
+443159,3,candied_orange,131624,96500,2,True
+443158,6,user253751,115557,33,0,True
+443154,5,Flater,106566,151,1,False
+443148,5,Erik Eidt,63202,32700,2,False
+443142,0,Invalid Name,Invalid ID,0,0,True
+443139,2,deamon,63946,193000,2,False
+443127,3,amon,60357,1003,0,False
+443126,4,koppor,52607,71800,3,True
+443125,9,ayowhatthedogdoin,426976,40100,1,False
+443113,4,candied_orange,131624,157,2,True
+443108,0,Joe,7111,0,0,True
+443105,4,Ewan,177980,67800,0,False
+443098,0,Invalid Name,Invalid ID,0,0,False
+443097,2,john doe,242572,193000,2,True
+443088,2,Sebastian Sotto M.,366014,141,3,True
+443081,1,Jon Raynor,28696,10800,0,False
+443077,34,J_H,283352,387,5,True
+443073,2,J_H,283352,1443,1,True
+443066,0,Invalid Name,Invalid ID,0,0,True
+443057,0,Invalid Name,Invalid ID,0,0,True
+443051,2,AncientSwordRage,42685,193000,0,False
+443044,0,Invalid Name,Invalid ID,0,0,False
+443043,0,Invalid Name,Invalid ID,0,0,False
+443036,3,Flater,106566,220,1,True
+443035,1,Sebastian Redl,78254,14700,0,False
+443028,1,obanadingyo,426827,1443,0,False
+443023,4,B-Rad,127028,31200,0,False
+443015,4,Philip Kendall,136413,19100,0,True
+443012,0,don,415411,0,0,True
+443006,0,Invalid Name,Invalid ID,0,0,False
+443002,4,candied_orange,131624,165,2,True
+442995,0,Invalid Name,Invalid ID,0,0,True
+442992,0,Invalid Name,Invalid ID,0,0,False
+442986,0,Invalid Name,Invalid ID,0,0,True
+442985,1,user253751,115557,4374,0,False
+442984,0,Invalid Name,Invalid ID,0,0,False
+442982,5,Ewan,177980,67800,1,False
+442975,0,Invalid Name,Invalid ID,0,0,True
+442973,0,Invalid Name,Invalid ID,0,0,False
+442970,0,Invalid Name,Invalid ID,0,0,False
+442967,68,S.Robins,39178,1908,5,True
+442966,20,John Bollinger,270313,199,1,False
+442965,11,Robert Harvey,1204,198000,1,False
+442964,4,vman,427115,78500,0,False
+442959,1,Imre Tömösvári,427126,11,0,True
+442953,5,Michael Moreno,374851,1443,0,False
+442951,5,Hans-Martin Mosner,235743,39,1,True
+442947,3,yokus,405033,67800,4,False
+442946,0,Invalid Name,Invalid ID,0,0,False
+442938,5,Stefan Billiet,96340,1052,6,False
+442935,3,candied_orange,131624,96500,2,False
+442934,6,user253751,115557,33,0,True
+442918,5,Flater,106566,151,1,False
+442910,5,Erik Eidt,63202,32700,2,False
+442907,0,Invalid Name,Invalid ID,0,0,True
+442898,2,deamon,63946,193000,2,True
+442892,3,amon,60357,1003,0,False
+442884,4,koppor,52607,71800,3,True
+442878,9,ayowhatthedogdoin,426976,40100,1,True
+442852,4,candied_orange,131624,157,2,False
+442849,0,Joe,7111,0,0,False
+442847,4,Ewan,177980,67800,0,False
+442845,0,Invalid Name,Invalid ID,0,0,False
+442839,2,john doe,242572,193000,2,False
+442838,2,Sebastian Sotto M.,366014,141,3,False
+442834,1,Jon Raynor,28696,10800,0,False
+442830,34,J_H,283352,387,5,False
+442827,2,J_H,283352,1443,1,False
+442823,0,Invalid Name,Invalid ID,0,0,True
+442819,0,Invalid Name,Invalid ID,0,0,False
+442818,2,AncientSwordRage,42685,193000,0,False
+442812,0,Invalid Name,Invalid ID,0,0,False
+442809,0,Invalid Name,Invalid ID,0,0,True
+442802,3,Flater,106566,220,1,True
+442798,1,Sebastian Redl,78254,14700,0,False
+442794,1,obanadingyo,426827,1443,0,False
+442792,4,B-Rad,127028,31200,0,False
+442788,4,Philip Kendall,136413,19100,0,False
+442782,0,don,415411,0,0,True
+442777,0,Invalid Name,Invalid ID,0,0,True
+442773,4,candied_orange,131624,165,2,False
+442772,0,Invalid Name,Invalid ID,0,0,False
+442768,0,Invalid Name,Invalid ID,0,0,False
+442767,0,Invalid Name,Invalid ID,0,0,False
+442759,1,user253751,115557,4374,0,True
+442752,0,Invalid Name,Invalid ID,0,0,False
+442749,5,Ewan,177980,67800,1,False
+442740,0,Invalid Name,Invalid ID,0,0,False
+442739,0,Invalid Name,Invalid ID,0,0,False
+442736,0,Invalid Name,Invalid ID,0,0,True
+442731,68,S.Robins,39178,1908,5,True
+442730,20,John Bollinger,270313,199,1,False
+442729,11,Robert Harvey,1204,198000,1,False
+442728,4,vman,427115,78500,0,True
+442725,1,Imre Tömösvári,427126,11,0,False
+442715,5,Michael Moreno,374851,1443,0,False
+442714,5,Hans-Martin Mosner,235743,39,1,False
+442708,3,yokus,405033,67800,4,True
+442699,0,Invalid Name,Invalid ID,0,0,False
+442693,5,Stefan Billiet,96340,1052,6,False
+442688,3,candied_orange,131624,96500,2,False
+442681,6,user253751,115557,33,0,True
+442680,5,Flater,106566,151,1,False
+442668,5,Erik Eidt,63202,32700,2,True
+442667,0,Invalid Name,Invalid ID,0,0,False
+442664,2,deamon,63946,193000,2,False
+442652,3,amon,60357,1003,0,True
+442648,4,koppor,52607,71800,3,False
+442643,9,ayowhatthedogdoin,426976,40100,1,False
+442640,4,candied_orange,131624,157,2,False
+442637,0,Joe,7111,0,0,False
+442632,4,Ewan,177980,67800,0,False
+442626,0,Invalid Name,Invalid ID,0,0,False
+442620,2,john doe,242572,193000,2,False
+442606,2,Sebastian Sotto M.,366014,141,3,False
+442604,1,Jon Raynor,28696,10800,0,False
+442602,34,J_H,283352,387,5,True
+442594,2,J_H,283352,1443,1,False
+442591,0,Invalid Name,Invalid ID,0,0,False
+442588,0,Invalid Name,Invalid ID,0,0,True
+442583,2,AncientSwordRage,42685,193000,0,True
+442581,0,Invalid Name,Invalid ID,0,0,False
+442573,0,Invalid Name,Invalid ID,0,0,False
+442571,3,Flater,106566,220,1,True
+442569,1,Sebastian Redl,78254,14700,0,False
+442560,1,obanadingyo,426827,1443,0,True
+442559,4,B-Rad,127028,31200,0,True
+442556,4,Philip Kendall,136413,19100,0,True
+442554,0,don,415411,0,0,False
+442551,0,Invalid Name,Invalid ID,0,0,False
+442550,4,candied_orange,131624,165,2,False
+442548,0,Invalid Name,Invalid ID,0,0,False
+442542,0,Invalid Name,Invalid ID,0,0,False
+442535,0,Invalid Name,Invalid ID,0,0,True
+442532,1,user253751,115557,4374,0,False
+442524,0,Invalid Name,Invalid ID,0,0,False
+442521,5,Ewan,177980,67800,1,True
+442518,0,Invalid Name,Invalid ID,0,0,False
+442514,0,Invalid Name,Invalid ID,0,0,True
+442508,0,Invalid Name,Invalid ID,0,0,False
+442507,68,S.Robins,39178,1908,5,False
+442504,20,John Bollinger,270313,199,1,False
+442497,11,Robert Harvey,1204,198000,1,True
+442495,4,vman,427115,78500,0,False
+442480,1,Imre Tömösvári,427126,11,0,False
+442477,5,Michael Moreno,374851,1443,0,False
+442476,5,Hans-Martin Mosner,235743,39,1,False
+442472,3,yokus,405033,67800,4,False
+442469,0,Invalid Name,Invalid ID,0,0,True
+442465,5,Stefan Billiet,96340,1052,6,False
+442463,3,candied_orange,131624,96500,2,True
+442458,6,user253751,115557,33,0,True
+442454,5,Flater,106566,151,1,True
+442453,5,Erik Eidt,63202,32700,2,False
+442452,0,Invalid Name,Invalid ID,0,0,False
+442450,2,deamon,63946,193000,2,False
+442448,3,amon,60357,1003,0,False
+442439,4,koppor,52607,71800,3,True
+442437,9,ayowhatthedogdoin,426976,40100,1,False
+442432,4,candied_orange,131624,157,2,False
+442423,0,Joe,7111,0,0,False
+442419,4,Ewan,177980,67800,0,True
+442417,0,Invalid Name,Invalid ID,0,0,True
+442413,2,john doe,242572,193000,2,True
+442407,2,Sebastian Sotto M.,366014,141,3,False
+442397,1,Jon Raynor,28696,10800,0,False
+442393,34,J_H,283352,387,5,True
+442392,2,J_H,283352,1443,1,True
+442390,0,Invalid Name,Invalid ID,0,0,False
+442388,0,Invalid Name,Invalid ID,0,0,False
+442385,2,AncientSwordRage,42685,193000,0,False
+442379,0,Invalid Name,Invalid ID,0,0,False
+442375,0,Invalid Name,Invalid ID,0,0,True
+442371,3,Flater,106566,220,1,False
+442370,1,Sebastian Redl,78254,14700,0,False
+442369,1,obanadingyo,426827,1443,0,False
+442357,4,B-Rad,127028,31200,0,False
+442355,4,Philip Kendall,136413,19100,0,True
+442354,0,don,415411,0,0,False
+442353,0,Invalid Name,Invalid ID,0,0,False
+442350,4,candied_orange,131624,165,2,False
+442349,0,Invalid Name,Invalid ID,0,0,False
+442348,0,Invalid Name,Invalid ID,0,0,False
+442344,0,Invalid Name,Invalid ID,0,0,True
+442343,1,user253751,115557,4374,0,False
+442339,0,Invalid Name,Invalid ID,0,0,False
+442334,5,Ewan,177980,67800,1,True
+442333,0,Invalid Name,Invalid ID,0,0,False
+442331,0,Invalid Name,Invalid ID,0,0,False
+442327,0,Invalid Name,Invalid ID,0,0,False
+442322,68,S.Robins,39178,1908,5,True
+442313,20,John Bollinger,270313,199,1,True
+442309,11,Robert Harvey,1204,198000,1,True
+442307,4,vman,427115,78500,0,True
+442305,1,Imre Tömösvári,427126,11,0,False
+442300,5,Michael Moreno,374851,1443,0,True
+442297,5,Hans-Martin Mosner,235743,39,1,True
+442295,3,yokus,405033,67800,4,False
+442287,0,Invalid Name,Invalid ID,0,0,False
+442285,5,Stefan Billiet,96340,1052,6,False
+442283,3,candied_orange,131624,96500,2,False
+442279,6,user253751,115557,33,0,True
+442276,5,Flater,106566,151,1,True
+442274,5,Erik Eidt,63202,32700,2,True
+442272,0,Invalid Name,Invalid ID,0,0,False
+442269,2,deamon,63946,193000,2,True
+442268,3,amon,60357,1003,0,True
+442266,4,koppor,52607,71800,3,True
+442257,9,ayowhatthedogdoin,426976,40100,1,True
+442252,4,candied_orange,131624,157,2,True
+442250,0,Joe,7111,0,0,True
+442249,4,Ewan,177980,67800,0,True
+442246,0,Invalid Name,Invalid ID,0,0,True
+442235,2,john doe,242572,193000,2,False
+442231,2,Sebastian Sotto M.,366014,141,3,False
+442230,1,Jon Raynor,28696,10800,0,False
+442226,34,J_H,283352,387,5,True
+442220,2,J_H,283352,1443,1,False
+442217,0,Invalid Name,Invalid ID,0,0,False
+442216,0,Invalid Name,Invalid ID,0,0,False
+442207,2,AncientSwordRage,42685,193000,0,True
+442203,0,Invalid Name,Invalid ID,0,0,False
+442200,0,Invalid Name,Invalid ID,0,0,True
+442199,3,Flater,106566,220,1,True
+442193,1,Sebastian Redl,78254,14700,0,True
+442191,1,obanadingyo,426827,1443,0,False
+442180,4,B-Rad,127028,31200,0,True
+442178,4,Philip Kendall,136413,19100,0,False
+442172,0,don,415411,0,0,False
+442167,0,Invalid Name,Invalid ID,0,0,False
+442166,4,candied_orange,131624,165,2,False
+442165,0,Invalid Name,Invalid ID,0,0,True
+442160,0,Invalid Name,Invalid ID,0,0,False
+442159,0,Invalid Name,Invalid ID,0,0,False
+442158,1,user253751,115557,4374,0,False
+442155,0,Invalid Name,Invalid ID,0,0,True
+442151,5,Ewan,177980,67800,1,False
+442149,0,Invalid Name,Invalid ID,0,0,True
+442144,0,Invalid Name,Invalid ID,0,0,True
+442142,0,Invalid Name,Invalid ID,0,0,True
+442141,68,S.Robins,39178,1908,5,False
+442140,20,John Bollinger,270313,199,1,False
+442134,11,Robert Harvey,1204,198000,1,False
+442130,4,vman,427115,78500,0,False
+442126,1,Imre Tömösvári,427126,11,0,False
+442123,5,Michael Moreno,374851,1443,0,False
+442121,5,Hans-Martin Mosner,235743,39,1,True
+442109,3,yokus,405033,67800,4,True
+442107,0,Invalid Name,Invalid ID,0,0,False
+442092,5,Stefan Billiet,96340,1052,6,False
+442086,3,candied_orange,131624,96500,2,True
+442082,6,user253751,115557,33,0,False
+442080,5,Flater,106566,151,1,True
+442076,5,Erik Eidt,63202,32700,2,False
+442075,0,Invalid Name,Invalid ID,0,0,False
+442074,2,deamon,63946,193000,2,True
+442071,3,amon,60357,1003,0,False
+442070,4,koppor,52607,71800,3,False
+442065,9,ayowhatthedogdoin,426976,40100,1,False
+442062,4,candied_orange,131624,157,2,True
+442056,0,Joe,7111,0,0,False
+442055,4,Ewan,177980,67800,0,False
+442050,0,Invalid Name,Invalid ID,0,0,False
+442048,2,john doe,242572,193000,2,False
+442047,2,Sebastian Sotto M.,366014,141,3,False
+442046,1,Jon Raynor,28696,10800,0,False
+442040,34,J_H,283352,387,5,False
+442038,2,J_H,283352,1443,1,False
+442037,0,Invalid Name,Invalid ID,0,0,True
+442033,0,Invalid Name,Invalid ID,0,0,False
+442032,2,AncientSwordRage,42685,193000,0,True
+442029,0,Invalid Name,Invalid ID,0,0,True
+442026,0,Invalid Name,Invalid ID,0,0,False
+442023,3,Flater,106566,220,1,True
+442020,1,Sebastian Redl,78254,14700,0,False
+442017,1,obanadingyo,426827,1443,0,False
+442016,4,B-Rad,127028,31200,0,False
+442011,4,Philip Kendall,136413,19100,0,True
+442007,0,don,415411,0,0,True
+442005,0,Invalid Name,Invalid ID,0,0,False
+442001,4,candied_orange,131624,165,2,True
+441994,0,Invalid Name,Invalid ID,0,0,True
+441993,0,Invalid Name,Invalid ID,0,0,False
+441991,0,Invalid Name,Invalid ID,0,0,False
+441989,1,user253751,115557,4374,0,False
+441985,0,Invalid Name,Invalid ID,0,0,False
+441983,5,Ewan,177980,67800,1,True
+441979,0,Invalid Name,Invalid ID,0,0,False
+441975,0,Invalid Name,Invalid ID,0,0,False
+441972,0,Invalid Name,Invalid ID,0,0,False
+441971,68,S.Robins,39178,1908,5,False
+441962,20,John Bollinger,270313,199,1,False
+441956,11,Robert Harvey,1204,198000,1,True
+441946,4,vman,427115,78500,0,False
+441943,1,Imre Tömösvári,427126,11,0,False
+441939,5,Michael Moreno,374851,1443,0,False
+441937,5,Hans-Martin Mosner,235743,39,1,False
+441932,3,yokus,405033,67800,4,True
+441927,0,Invalid Name,Invalid ID,0,0,False
+441923,5,Stefan Billiet,96340,1052,6,False
+441918,3,candied_orange,131624,96500,2,False
+441916,6,user253751,115557,33,0,False
+441901,5,Flater,106566,151,1,True
+441900,5,Erik Eidt,63202,32700,2,True
+441894,0,Invalid Name,Invalid ID,0,0,False
+441891,2,deamon,63946,193000,2,True
+441890,3,amon,60357,1003,0,True
+441889,4,koppor,52607,71800,3,False
+441871,9,ayowhatthedogdoin,426976,40100,1,False
+441868,4,candied_orange,131624,157,2,True
+441865,0,Joe,7111,0,0,True
+441863,4,Ewan,177980,67800,0,False
+441860,0,Invalid Name,Invalid ID,0,0,True
+441856,2,john doe,242572,193000,2,True
+441853,2,Sebastian Sotto M.,366014,141,3,False
+441838,1,Jon Raynor,28696,10800,0,False
+441837,34,J_H,283352,387,5,False
+441835,2,J_H,283352,1443,1,False
+441834,0,Invalid Name,Invalid ID,0,0,False
+441832,0,Invalid Name,Invalid ID,0,0,False
+441825,2,AncientSwordRage,42685,193000,0,True
+441823,0,Invalid Name,Invalid ID,0,0,False
+441822,0,Invalid Name,Invalid ID,0,0,False
+441820,3,Flater,106566,220,1,True
+441815,1,Sebastian Redl,78254,14700,0,True
+441808,1,obanadingyo,426827,1443,0,False
+441807,4,B-Rad,127028,31200,0,False
+441804,4,Philip Kendall,136413,19100,0,False
+441801,0,don,415411,0,0,False
+441798,0,Invalid Name,Invalid ID,0,0,False
+441795,4,candied_orange,131624,165,2,False
+441810,0,Invalid Name,Invalid ID,0,0,True
+441791,0,Invalid Name,Invalid ID,0,0,False
+441788,0,Invalid Name,Invalid ID,0,0,False
+441779,1,user253751,115557,4374,0,True
+441775,0,Invalid Name,Invalid ID,0,0,False
+441771,5,Ewan,177980,67800,1,True
+441768,0,Invalid Name,Invalid ID,0,0,True
+441762,0,Invalid Name,Invalid ID,0,0,True
+441753,0,Invalid Name,Invalid ID,0,0,True
+441751,68,S.Robins,39178,1908,5,False
+441745,20,John Bollinger,270313,199,1,False
+441742,11,Robert Harvey,1204,198000,1,False
+441741,4,vman,427115,78500,0,False
+441739,1,Imre Tömösvári,427126,11,0,False
+441738,5,Michael Moreno,374851,1443,0,False
+441737,5,Hans-Martin Mosner,235743,39,1,True
+441734,3,yokus,405033,67800,4,True
+441733,0,Invalid Name,Invalid ID,0,0,False
+441730,5,Stefan Billiet,96340,1052,6,False
+441727,3,candied_orange,131624,96500,2,False
+441726,6,user253751,115557,33,0,False
+441724,5,Flater,106566,151,1,False
+441721,5,Erik Eidt,63202,32700,2,False
+441720,0,Invalid Name,Invalid ID,0,0,False
+441707,2,deamon,63946,193000,2,False
+441698,3,amon,60357,1003,0,False
+441697,4,koppor,52607,71800,3,False
+441694,9,ayowhatthedogdoin,426976,40100,1,False
+441689,4,candied_orange,131624,157,2,False
+441685,0,Joe,7111,0,0,True
+441674,4,Ewan,177980,67800,0,False
+441670,0,Invalid Name,Invalid ID,0,0,True
+441658,2,john doe,242572,193000,2,False
+441657,2,Sebastian Sotto M.,366014,141,3,False
+441652,1,Jon Raynor,28696,10800,0,True
+441647,34,J_H,283352,387,5,True
+441645,2,J_H,283352,1443,1,True
+441629,0,Invalid Name,Invalid ID,0,0,False
+441627,0,Invalid Name,Invalid ID,0,0,True
+441626,2,AncientSwordRage,42685,193000,0,False
+441618,0,Invalid Name,Invalid ID,0,0,True
+441617,0,Invalid Name,Invalid ID,0,0,False
+441614,3,Flater,106566,220,1,False
+441613,1,Sebastian Redl,78254,14700,0,False
+441609,1,obanadingyo,426827,1443,0,True
+441607,4,B-Rad,127028,31200,0,True
+441603,4,Philip Kendall,136413,19100,0,True
+441602,0,don,415411,0,0,False
+441601,0,Invalid Name,Invalid ID,0,0,False
+441599,4,candied_orange,131624,165,2,False
+441597,0,Invalid Name,Invalid ID,0,0,False
+441588,0,Invalid Name,Invalid ID,0,0,False
+441581,0,Invalid Name,Invalid ID,0,0,False
+441578,1,user253751,115557,4374,0,True
+441575,0,Invalid Name,Invalid ID,0,0,True
+441572,5,Ewan,177980,67800,1,True
+441569,0,Invalid Name,Invalid ID,0,0,False
+441568,0,Invalid Name,Invalid ID,0,0,False
+441566,0,Invalid Name,Invalid ID,0,0,False
+441565,68,S.Robins,39178,1908,5,False
+441557,20,John Bollinger,270313,199,1,False
+441556,11,Robert Harvey,1204,198000,1,False
+441555,4,vman,427115,78500,0,False
+441544,1,Imre Tömösvári,427126,11,0,True
+441543,5,Michael Moreno,374851,1443,0,False
+441542,5,Hans-Martin Mosner,235743,39,1,False
+441539,3,yokus,405033,67800,4,False
+441515,0,Invalid Name,Invalid ID,0,0,True
+441513,5,Stefan Billiet,96340,1052,6,True
+441512,3,candied_orange,131624,96500,2,False
+441505,6,user253751,115557,33,0,True
+441504,5,Flater,106566,151,1,True
+441500,5,Erik Eidt,63202,32700,2,True
+441499,0,Invalid Name,Invalid ID,0,0,True
+441498,2,deamon,63946,193000,2,True
+441496,3,amon,60357,1003,0,False
+441487,4,koppor,52607,71800,3,False
+441478,9,ayowhatthedogdoin,426976,40100,1,False
+441474,4,candied_orange,131624,157,2,True
+441473,0,Joe,7111,0,0,False
+441471,4,Ewan,177980,67800,0,False
+441467,0,Invalid Name,Invalid ID,0,0,False
+441466,2,john doe,242572,193000,2,False
+441464,2,Sebastian Sotto M.,366014,141,3,False
+441462,1,Jon Raynor,28696,10800,0,True
+441457,34,J_H,283352,387,5,False
+441455,2,J_H,283352,1443,1,False
+441454,0,Invalid Name,Invalid ID,0,0,False
+441447,0,Invalid Name,Invalid ID,0,0,False
+441445,2,AncientSwordRage,42685,193000,0,True
+441444,0,Invalid Name,Invalid ID,0,0,False
+441442,0,Invalid Name,Invalid ID,0,0,False
+441440,3,Flater,106566,220,1,True
+441437,1,Sebastian Redl,78254,14700,0,False
+441426,1,obanadingyo,426827,1443,0,False
+441420,4,B-Rad,127028,31200,0,False
+441414,4,Philip Kendall,136413,19100,0,True
+441403,0,don,415411,0,0,False
+441399,0,Invalid Name,Invalid ID,0,0,False
+441390,4,candied_orange,131624,165,2,True
+441384,0,Invalid Name,Invalid ID,0,0,False
+441383,0,Invalid Name,Invalid ID,0,0,True
+441377,0,Invalid Name,Invalid ID,0,0,False
+441375,1,user253751,115557,4374,0,False
+441373,0,Invalid Name,Invalid ID,0,0,True
+441356,5,Ewan,177980,67800,1,False
+441354,0,Invalid Name,Invalid ID,0,0,False
+441352,0,Invalid Name,Invalid ID,0,0,False
+441348,0,Invalid Name,Invalid ID,0,0,True
+441341,68,S.Robins,39178,1908,5,True
+441337,20,John Bollinger,270313,199,1,False
+441332,11,Robert Harvey,1204,198000,1,True
+441324,4,vman,427115,78500,0,True
+441318,1,Imre Tömösvári,427126,11,0,False
+441314,5,Michael Moreno,374851,1443,0,False
+441312,5,Hans-Martin Mosner,235743,39,1,True
+441310,3,yokus,405033,67800,4,True
+441306,0,Invalid Name,Invalid ID,0,0,False
+441302,5,Stefan Billiet,96340,1052,6,False
+441301,3,candied_orange,131624,96500,2,False
+441293,6,user253751,115557,33,0,True
+441290,5,Flater,106566,151,1,True
+441289,5,Erik Eidt,63202,32700,2,True
+441283,0,Invalid Name,Invalid ID,0,0,True
+441282,2,deamon,63946,193000,2,False
+441280,3,amon,60357,1003,0,True
+441278,4,koppor,52607,71800,3,False
+441277,9,ayowhatthedogdoin,426976,40100,1,True
+441268,4,candied_orange,131624,157,2,False
+441263,0,Joe,7111,0,0,True
+441257,4,Ewan,177980,67800,0,False
+441251,0,Invalid Name,Invalid ID,0,0,False
+441247,2,john doe,242572,193000,2,True
+441245,2,Sebastian Sotto M.,366014,141,3,False
+441243,1,Jon Raynor,28696,10800,0,True
+441230,34,J_H,283352,387,5,True
+441223,2,J_H,283352,1443,1,False
+441222,0,Invalid Name,Invalid ID,0,0,False
+441214,0,Invalid Name,Invalid ID,0,0,True
+441212,2,AncientSwordRage,42685,193000,0,False
+441205,0,Invalid Name,Invalid ID,0,0,True
+441198,0,Invalid Name,Invalid ID,0,0,True
+441195,3,Flater,106566,220,1,False
+441188,1,Sebastian Redl,78254,14700,0,False
+441184,1,obanadingyo,426827,1443,0,False
+441182,4,B-Rad,127028,31200,0,True
+441181,4,Philip Kendall,136413,19100,0,False
+441174,0,don,415411,0,0,True
+441171,0,Invalid Name,Invalid ID,0,0,True
+441168,4,candied_orange,131624,165,2,False
+441167,0,Invalid Name,Invalid ID,0,0,True
+441157,0,Invalid Name,Invalid ID,0,0,True
+441152,0,Invalid Name,Invalid ID,0,0,False
+441151,1,user253751,115557,4374,0,False
+441146,0,Invalid Name,Invalid ID,0,0,True
+441141,5,Ewan,177980,67800,1,False
+441140,0,Invalid Name,Invalid ID,0,0,False
+441139,0,Invalid Name,Invalid ID,0,0,True
+441135,0,Invalid Name,Invalid ID,0,0,False
+441134,68,S.Robins,39178,1908,5,True
+441132,20,John Bollinger,270313,199,1,False
+441125,11,Robert Harvey,1204,198000,1,True
+441123,4,vman,427115,78500,0,True
+441122,1,Imre Tömösvári,427126,11,0,True
+441115,5,Michael Moreno,374851,1443,0,True
+441114,5,Hans-Martin Mosner,235743,39,1,True
+441107,3,yokus,405033,67800,4,False
+441103,0,Invalid Name,Invalid ID,0,0,False
+441102,5,Stefan Billiet,96340,1052,6,True
+441097,3,candied_orange,131624,96500,2,False
+441091,6,user253751,115557,33,0,False
+441085,5,Flater,106566,151,1,True
+441082,5,Erik Eidt,63202,32700,2,False
+441079,0,Invalid Name,Invalid ID,0,0,False
+441075,2,deamon,63946,193000,2,False
+441065,3,amon,60357,1003,0,True
+441053,4,koppor,52607,71800,3,False
+441035,9,ayowhatthedogdoin,426976,40100,1,False
+441034,4,candied_orange,131624,157,2,False
+441028,0,Joe,7111,0,0,True
+441023,4,Ewan,177980,67800,0,True
+441021,0,Invalid Name,Invalid ID,0,0,False
+441009,2,john doe,242572,193000,2,False
+441006,2,Sebastian Sotto M.,366014,141,3,False
+441001,1,Jon Raynor,28696,10800,0,False
+440990,34,J_H,283352,387,5,True
+440987,2,J_H,283352,1443,1,False
+440981,0,Invalid Name,Invalid ID,0,0,False
+440980,0,Invalid Name,Invalid ID,0,0,False
+440977,2,AncientSwordRage,42685,193000,0,False
+440973,0,Invalid Name,Invalid ID,0,0,True
+440969,0,Invalid Name,Invalid ID,0,0,True
+440966,3,Flater,106566,220,1,True
+440959,1,Sebastian Redl,78254,14700,0,True
+440949,1,obanadingyo,426827,1443,0,False
+440948,4,B-Rad,127028,31200,0,True
+440933,4,Philip Kendall,136413,19100,0,True
+440932,0,don,415411,0,0,True
+440920,0,Invalid Name,Invalid ID,0,0,True
+440917,4,candied_orange,131624,165,2,True
+440914,0,Invalid Name,Invalid ID,0,0,False
+440910,0,Invalid Name,Invalid ID,0,0,False
+440905,0,Invalid Name,Invalid ID,0,0,True
+440897,1,user253751,115557,4374,0,True
+440891,0,Invalid Name,Invalid ID,0,0,True
+440887,5,Ewan,177980,67800,1,False
+440886,0,Invalid Name,Invalid ID,0,0,True
+440863,0,Invalid Name,Invalid ID,0,0,True
+440858,0,Invalid Name,Invalid ID,0,0,False
+440856,68,S.Robins,39178,1908,5,False
+440854,20,John Bollinger,270313,199,1,False
+440851,11,Robert Harvey,1204,198000,1,True
+440847,4,vman,427115,78500,0,True
+440845,1,Imre Tömösvári,427126,11,0,False
+440839,5,Michael Moreno,374851,1443,0,False
+440818,5,Hans-Martin Mosner,235743,39,1,False
+440816,3,yokus,405033,67800,4,True
+440813,0,Invalid Name,Invalid ID,0,0,False
+440811,5,Stefan Billiet,96340,1052,6,False
+440807,3,candied_orange,131624,96500,2,False
+440798,6,user253751,115557,33,0,False
+440796,5,Flater,106566,151,1,False
+440791,5,Erik Eidt,63202,32700,2,False
+440789,0,Invalid Name,Invalid ID,0,0,False
+440787,2,deamon,63946,193000,2,False
+440778,3,amon,60357,1003,0,False
+440772,4,koppor,52607,71800,3,True
+440757,9,ayowhatthedogdoin,426976,40100,1,True
+440750,4,candied_orange,131624,157,2,True
+440749,0,Joe,7111,0,0,False
+440739,4,Ewan,177980,67800,0,True
+440736,0,Invalid Name,Invalid ID,0,0,True
+440735,2,john doe,242572,193000,2,False
+440719,2,Sebastian Sotto M.,366014,141,3,False
+440718,1,Jon Raynor,28696,10800,0,True
+440716,34,J_H,283352,387,5,False
+440709,2,J_H,283352,1443,1,True
+440708,0,Invalid Name,Invalid ID,0,0,False
+440699,0,Invalid Name,Invalid ID,0,0,True
+440688,2,AncientSwordRage,42685,193000,0,True
+440678,0,Invalid Name,Invalid ID,0,0,False
+440667,0,Invalid Name,Invalid ID,0,0,False
+440663,3,Flater,106566,220,1,True
+440657,1,Sebastian Redl,78254,14700,0,True
+440656,1,obanadingyo,426827,1443,0,True
+440646,4,B-Rad,127028,31200,0,True
+440641,4,Philip Kendall,136413,19100,0,False
+440637,0,don,415411,0,0,True
+440629,0,Invalid Name,Invalid ID,0,0,False
+440626,4,candied_orange,131624,165,2,True
+440625,0,Invalid Name,Invalid ID,0,0,False
+440619,0,Invalid Name,Invalid ID,0,0,True
+440610,0,Invalid Name,Invalid ID,0,0,True
+440605,1,user253751,115557,4374,0,False
+440604,0,Invalid Name,Invalid ID,0,0,True
+440595,5,Ewan,177980,67800,1,False
+440591,0,Invalid Name,Invalid ID,0,0,True
+440588,0,Invalid Name,Invalid ID,0,0,False
+440586,0,Invalid Name,Invalid ID,0,0,True
+440585,68,S.Robins,39178,1908,5,False
+440579,20,John Bollinger,270313,199,1,True
+440568,11,Robert Harvey,1204,198000,1,True
+440555,4,vman,427115,78500,0,True
+440541,1,Imre Tömösvári,427126,11,0,False
+440527,5,Michael Moreno,374851,1443,0,False
+440521,5,Hans-Martin Mosner,235743,39,1,True
+440519,3,yokus,405033,67800,4,False
+440511,0,Invalid Name,Invalid ID,0,0,False
+440509,5,Stefan Billiet,96340,1052,6,True
+440505,3,candied_orange,131624,96500,2,False
+440493,6,user253751,115557,33,0,True
+440475,5,Flater,106566,151,1,True
+440474,5,Erik Eidt,63202,32700,2,True
+440471,0,Invalid Name,Invalid ID,0,0,True
+440470,2,deamon,63946,193000,2,False
+440464,3,amon,60357,1003,0,True
+440463,4,koppor,52607,71800,3,False
+440460,9,ayowhatthedogdoin,426976,40100,1,True
+440455,4,candied_orange,131624,157,2,False
+440447,0,Joe,7111,0,0,False
+440445,4,Ewan,177980,67800,0,False
+440444,0,Invalid Name,Invalid ID,0,0,False
+440443,2,john doe,242572,193000,2,False
+440440,2,Sebastian Sotto M.,366014,141,3,True
+440430,1,Jon Raynor,28696,10800,0,True
+440408,34,J_H,283352,387,5,False
+440405,2,J_H,283352,1443,1,True
+440403,0,Invalid Name,Invalid ID,0,0,False
+440402,0,Invalid Name,Invalid ID,0,0,False
+440396,2,AncientSwordRage,42685,193000,0,False
+440391,0,Invalid Name,Invalid ID,0,0,True
+440390,0,Invalid Name,Invalid ID,0,0,False
+440386,3,Flater,106566,220,1,False
+440375,1,Sebastian Redl,78254,14700,0,True
+440363,1,obanadingyo,426827,1443,0,True
+440362,4,B-Rad,127028,31200,0,True
+440352,4,Philip Kendall,136413,19100,0,False
+440346,0,don,415411,0,0,True
+440337,0,Invalid Name,Invalid ID,0,0,True
+440330,4,candied_orange,131624,165,2,True
+440324,0,Invalid Name,Invalid ID,0,0,True
+440320,0,Invalid Name,Invalid ID,0,0,False
+440314,0,Invalid Name,Invalid ID,0,0,True
+440310,1,user253751,115557,4374,0,False
+440304,0,Invalid Name,Invalid ID,0,0,False
+440303,5,Ewan,177980,67800,1,False
+440299,0,Invalid Name,Invalid ID,0,0,False
+440293,0,Invalid Name,Invalid ID,0,0,True
+440290,0,Invalid Name,Invalid ID,0,0,False
+440287,68,S.Robins,39178,1908,5,True
+440277,20,John Bollinger,270313,199,1,True
+440274,11,Robert Harvey,1204,198000,1,False
+440273,4,vman,427115,78500,0,True
+440262,1,Imre Tömösvári,427126,11,0,True
+440257,5,Michael Moreno,374851,1443,0,True
+440254,5,Hans-Martin Mosner,235743,39,1,True
+440252,3,yokus,405033,67800,4,False
+440250,0,Invalid Name,Invalid ID,0,0,True
+440246,5,Stefan Billiet,96340,1052,6,True
+440245,3,candied_orange,131624,96500,2,False
+440244,6,user253751,115557,33,0,False
+440242,5,Flater,106566,151,1,True
+440240,5,Erik Eidt,63202,32700,2,False
+440236,0,Invalid Name,Invalid ID,0,0,True
+440229,2,deamon,63946,193000,2,False
+440228,3,amon,60357,1003,0,False
+440226,4,koppor,52607,71800,3,True
+440220,9,ayowhatthedogdoin,426976,40100,1,True
+440219,4,candied_orange,131624,157,2,False
+440211,0,Joe,7111,0,0,True
+440208,4,Ewan,177980,67800,0,True
+440207,0,Invalid Name,Invalid ID,0,0,True
+440206,2,john doe,242572,193000,2,False
+440205,2,Sebastian Sotto M.,366014,141,3,False
+440202,1,Jon Raynor,28696,10800,0,False
+440198,34,J_H,283352,387,5,True
+440194,2,J_H,283352,1443,1,False
+440189,0,Invalid Name,Invalid ID,0,0,True
+440183,0,Invalid Name,Invalid ID,0,0,False
+440182,2,AncientSwordRage,42685,193000,0,False
+440175,0,Invalid Name,Invalid ID,0,0,True
+440172,0,Invalid Name,Invalid ID,0,0,False
+440171,3,Flater,106566,220,1,True
+440170,1,Sebastian Redl,78254,14700,0,True
+440166,1,obanadingyo,426827,1443,0,False
+440159,4,B-Rad,127028,31200,0,True
+440155,4,Philip Kendall,136413,19100,0,True
+440147,0,don,415411,0,0,False
+440138,0,Invalid Name,Invalid ID,0,0,True
+440130,4,candied_orange,131624,165,2,True
+440122,0,Invalid Name,Invalid ID,0,0,True
+440120,0,Invalid Name,Invalid ID,0,0,True
+440116,0,Invalid Name,Invalid ID,0,0,False
+440113,1,user253751,115557,4374,0,False
+440105,0,Invalid Name,Invalid ID,0,0,False
+440103,5,Ewan,177980,67800,1,False
+440101,0,Invalid Name,Invalid ID,0,0,False
+440099,0,Invalid Name,Invalid ID,0,0,True
+440093,0,Invalid Name,Invalid ID,0,0,False
+440087,68,S.Robins,39178,1908,5,True
+440082,20,John Bollinger,270313,199,1,True
+440080,11,Robert Harvey,1204,198000,1,True
+440078,4,vman,427115,78500,0,True
+440071,1,Imre Tömösvári,427126,11,0,False
+440069,5,Michael Moreno,374851,1443,0,True
+440065,5,Hans-Martin Mosner,235743,39,1,True
+440063,3,yokus,405033,67800,4,True
+440061,0,Invalid Name,Invalid ID,0,0,False
+440056,5,Stefan Billiet,96340,1052,6,True
+440046,3,candied_orange,131624,96500,2,False
+440043,6,user253751,115557,33,0,False
+440041,5,Flater,106566,151,1,False
+440040,5,Erik Eidt,63202,32700,2,False
+440032,0,Invalid Name,Invalid ID,0,0,True
+440028,2,deamon,63946,193000,2,False
+440025,3,amon,60357,1003,0,True
+440022,4,koppor,52607,71800,3,False
+440018,9,ayowhatthedogdoin,426976,40100,1,True
+440004,4,candied_orange,131624,157,2,True
+439993,0,Joe,7111,0,0,False
+439991,4,Ewan,177980,67800,0,False
+439985,0,Invalid Name,Invalid ID,0,0,False
+439977,2,john doe,242572,193000,2,True
+439976,2,Sebastian Sotto M.,366014,141,3,False
+439974,1,Jon Raynor,28696,10800,0,True
+439970,34,J_H,283352,387,5,True
+439968,2,J_H,283352,1443,1,False
+439967,0,Invalid Name,Invalid ID,0,0,True
+439960,0,Invalid Name,Invalid ID,0,0,False
+439957,2,AncientSwordRage,42685,193000,0,False
+439954,0,Invalid Name,Invalid ID,0,0,True
+439953,0,Invalid Name,Invalid ID,0,0,True
+439951,3,Flater,106566,220,1,False
+439950,1,Sebastian Redl,78254,14700,0,False
+439949,1,obanadingyo,426827,1443,0,False
+439948,4,B-Rad,127028,31200,0,False
+439945,4,Philip Kendall,136413,19100,0,False
+439940,0,don,415411,0,0,False
+439936,0,Invalid Name,Invalid ID,0,0,True
+439925,4,candied_orange,131624,165,2,True
+439919,0,Invalid Name,Invalid ID,0,0,False
+439908,0,Invalid Name,Invalid ID,0,0,False
+439905,0,Invalid Name,Invalid ID,0,0,True
+439904,1,user253751,115557,4374,0,True
+439894,0,Invalid Name,Invalid ID,0,0,False
+439893,5,Ewan,177980,67800,1,True
+439892,0,Invalid Name,Invalid ID,0,0,True
+439889,0,Invalid Name,Invalid ID,0,0,True
+439888,0,Invalid Name,Invalid ID,0,0,True
+439884,68,S.Robins,39178,1908,5,False
+439878,20,John Bollinger,270313,199,1,True
+439876,11,Robert Harvey,1204,198000,1,False
+439874,4,vman,427115,78500,0,True
+439871,1,Imre Tömösvári,427126,11,0,True
+439869,5,Michael Moreno,374851,1443,0,False
+439866,5,Hans-Martin Mosner,235743,39,1,False
+439864,3,yokus,405033,67800,4,False
+439863,0,Invalid Name,Invalid ID,0,0,False
+439861,5,Stefan Billiet,96340,1052,6,False
+439858,3,candied_orange,131624,96500,2,False
+439856,6,user253751,115557,33,0,True
+439854,5,Flater,106566,151,1,False
+439843,5,Erik Eidt,63202,32700,2,True
+439835,0,Invalid Name,Invalid ID,0,0,False
+439832,2,deamon,63946,193000,2,False
+439831,3,amon,60357,1003,0,True
+439827,4,koppor,52607,71800,3,True
+439819,9,ayowhatthedogdoin,426976,40100,1,True
+439816,4,candied_orange,131624,157,2,False
+439815,0,Joe,7111,0,0,False
+439814,4,Ewan,177980,67800,0,False
+439812,0,Invalid Name,Invalid ID,0,0,True
+439808,2,john doe,242572,193000,2,False
+439806,2,Sebastian Sotto M.,366014,141,3,False
+439800,1,Jon Raynor,28696,10800,0,True
+439796,34,J_H,283352,387,5,True
+439793,2,J_H,283352,1443,1,False
+439787,0,Invalid Name,Invalid ID,0,0,True
+439783,0,Invalid Name,Invalid ID,0,0,True
+439782,2,AncientSwordRage,42685,193000,0,True
+439777,0,Invalid Name,Invalid ID,0,0,False
+439770,0,Invalid Name,Invalid ID,0,0,True
+439767,3,Flater,106566,220,1,False
+439763,1,Sebastian Redl,78254,14700,0,True
+439761,1,obanadingyo,426827,1443,0,True
+439759,4,B-Rad,127028,31200,0,False
+439751,4,Philip Kendall,136413,19100,0,True
+439749,0,don,415411,0,0,True

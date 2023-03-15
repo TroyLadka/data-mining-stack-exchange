@@ -1,0 +1,1001 @@
+Question_Title,Question_ID,Author_Name,Author_ID,Author_Rep,Question_Post_Time,Question_Score,Number_Of_Views,Number_Of_Answers,Number_Of_Comments,"Edited,","Answer_Accepted,",Tags,Question_Closed
+How to design entities to keep up with the depth of JSON objects?,444100,Szyszka947,427267,9,2023-02-22 19:14:01,0,31,0,6,False,False,"['c#', 'database-design', 'relational-database', 'entity', 'efcore']",False
+What's the correct way to do pair programming?,444098,antonpug,40885,165,2023-02-22 18:19:41,1,77,2,3,True,False,"['coding-style', 'teamwork', 'pair-programming']",False
+Are there any guidelines for calculating hardware requirements in a containerized environment?,444097,svz,98079,317,2023-02-22 17:46:51,0,25,0,4,False,False,"['design', 'architecture', 'requirements', 'hardware', 'system-requirements']",False
+Signal to start FSM with React,444094,Archimedes Trajano,42195,691,2023-02-22 14:05:16,-1,22,0,1,False,False,"['typescript', 'reactjs']",False
+Data Security Process; Requesting Guidance & Feedback,444093,Reahreic,316602,101,2023-02-22 13:27:46,0,13,0,0,False,False,"['security', 'development-process', 'cryptography']",False
+Reducing Microservices Calls [closed],444085,user7340,362776,130,2023-02-22 00:29:33,-3,44,2,10,False,False,"['design', 'microservices', 'batch']",True
+I'm adding Windows Home support to my client application. How can I perform automated testing?,444084,data princess,332471,139,2023-02-21 23:12:51,3,50,0,7,False,False,"['testing', 'continuous-integration', 'windows']",False
+Preventing POST requests from being lost when database connection is lost,444082,Benjamin McKay,427223,41,2023-02-21 19:52:31,3,121,2,4,False,True,"['database', 'database-design']",False
+Service Policy Management [closed],444079,stk1234,417719,95,2023-02-21 15:42:35,-3,38,0,0,False,False,"['microservices', 'github']",True
+Want to make app using MySQL separate from any OS configuration [closed],444073,user3029680,324794,1,2023-02-21 00:40:33,-3,47,0,2,False,False,"['c#', 'mysql', 'visual-studio']",True
+Module Federation (dynamic federation) without compile-time knowledge of MFEs? [closed],444069,Michael Ziluck,411943,97,2023-02-20 18:08:20,-2,17,0,2,False,False,"['angular', 'webpack']",True
+OOP: Why is adding behaviour through inheritance considered bad? [duplicate],444066,PieterV,422276,185,2023-02-20 16:16:11,-1,74,0,17,True,False,"['object-oriented', 'inheritance', 'language-agnostic']",False
+"Do test-driven and behavior-driven development belong to the ""verification"" category?",444060,BenjyTec,390718,199,2023-02-20 08:58:25,9,3000,5,2,True,False,"['tdd', 'bdd', 'verification']",False
+Is this approach to website design adequate or am i making a mistake?,444049,Ismael Párica,427117,49,2023-02-19 15:48:43,3,1000,2,4,False,False,"['design', 'websites', 'crud']",False
+Does Scrum prescribe work item statuses and their meanings?,444048,vman,427115,107,2023-02-19 15:26:28,-1,169,4,10,True,False,"['agile', 'scrum', 'azure-devops']",False
+Sending and receiving results from microservices,444045,CrazyProgrammist,420823,101,2023-02-19 07:48:37,0,53,1,0,False,False,"['python', 'redis']",False
+Storing multiple instances on a Singleton?,444036,Michael Moreno,374851,121,2023-02-18 13:04:50,1,111,1,1,True,True,"['design-patterns', 'object-oriented', 'python', 'singleton']",False
+What is the best way to make an if statement condition itself conditional?,444030,Rushkie,427080,39,2023-02-18 02:19:06,2,517,5,6,True,True,"['readability', 'logical-operator']",False
+When does a REST API stops being one in terms of state management?,444028,yokus,405033,9,2023-02-17 22:51:48,-1,103,1,0,True,True,"['rest', 'state', 'redis', 'spring-boot']",False
+"What is the best way to set up an express app, a router, and a connection to a database? [closed]",444027,713sean,426304,27,2023-02-17 21:59:18,-2,25,0,0,False,False,"['programming-practices', 'sql-server', 'project-structure']",True
+In a layered backend architecture is the repository/manager part still relevant? [duplicate],444024,Dany Y,58318,133,2023-02-17 14:21:49,0,25,0,3,True,False,"['architecture', 'layers', 'backend']",False
+Selecting a large set of information from a database,444012,alaboudi,306975,193,2023-02-16 20:58:07,1,104,3,1,False,False,"['architecture', 'node.js', 'large-scale-project', 'mongo']",False
+Custom #pragma directives,444008,SteveG,427022,33,2023-02-16 18:02:02,0,130,1,2,True,True,"['c++', 'c', 'compiler']",False
+Wrapper class for min/max clamping and validation,444007,Cédric Moers,378840,151,2023-02-16 17:03:22,1,86,1,1,True,True,"['object-oriented-design', 'validation', 'wrapper']",False
+"In DDD, is the root aggregate who has to expose the methods to tell if a child entity can be create or update?",444005,Álvaro García,412921,287,2023-02-16 16:38:53,1,68,2,1,False,False,['domain-driven-design'],False
+"""Select All"" in Table is now sending too much data to Server via API - Alternative Ways to Send to Server?",444003,bluedevil2k,426966,101,2023-02-16 14:56:47,0,52,0,2,False,False,"['architecture', 'javascript', 'reactjs', 'stream-processing', 'apache-kafka']",False
+Avoiding modification of multiple aggregate roots in one transaction,444000,deamon,63946,864,2023-02-16 13:37:37,2,67,1,1,True,False,"['domain-driven-design', 'aggregate']",False
+How to use Github Copilot for business software evolution (if possible at all)?,443993,TomR,229289,1003,2023-02-16 10:18:43,-3,110,1,1,True,False,"['github', 'code-generation']",False
+Arrow head for a reply message in UML Sequence Diagram,443992,koppor,52607,507,2023-02-16 09:38:56,3,68,2,0,True,True,"['uml', 'sequence-diagram']",False
+What would be a good metric of quality of a single bug fix?,443982,ayowhatthedogdoin,426976,47,2023-02-15 23:13:12,2,228,3,3,True,True,"['code-quality', 'issue-tracking', 'metrics']",False
+What is a professional format for blackbox debugging someone else’s app and submitting a report to them?,443980,John Smith,401974,157,2023-02-15 22:04:54,1,104,1,5,True,False,"['issue-tracking', 'bug-report']",False
+Is there a common name for a 'proxy' document that's stored in a search index? [closed],443977,Joe,7111,229,2023-02-15 11:45:17,0,56,0,6,True,False,"['search', 'search-engine']",True
+Should story points be re-estimated when rolling un-finished stories into next sprint?,443971,Mr. Boy,104623,231,2023-02-15 09:40:01,2,139,4,2,False,False,"['agile', 'user-story', 'sprint', 'azure-devops']",False
+Any Existing Framework for Determining Sequence of Tables to Update Based on a Set Schema of Variables that can Change? [closed],443966,StingRay21,426920,105,2023-02-14 19:34:20,-2,27,0,1,False,False,"['java', 'database', 'frameworks', 'oracle']",True
+Should I use my View Model to Test my Views in SwiftUI?,443962,john doe,242572,141,2023-02-14 16:51:53,0,82,1,5,True,False,"['unit-testing', 'testing', 'ios']",False
+Aggregating responses from several services with reversed proxy (API gateway): where to place code?,443961,Maxim Zabolotskikh,351542,141,2023-02-14 15:50:47,1,71,1,3,True,True,"['microservices', 'web-api', 'api-gateway']",False
+How to deal with mixing models between services?,443960,JRhodes,426912,19,2023-02-14 15:34:52,1,53,1,2,False,False,"['rest', 'architectural-patterns', 'services']",False
+"Should serialization and deserialization be ""atomic"" transactions?",443941,Patrick Wright,400494,387,2023-02-13 17:13:17,16,5000,10,10,True,False,['serialization'],False
+Is in my case role based access better than permissions?,443938,manimerz,426864,21,2023-02-13 15:25:18,1,121,3,0,False,True,"['design', 'design-patterns', 'refactoring', 'engineering', 'permissions']",False
+One api or a way to share backend [closed],443936,JTuc,426860,21,2023-02-13 14:25:08,1,39,0,3,False,False,"['architecture', '.net']",True
+How to come up with artifacts for an application [closed],443932,chaitanya dama,426852,1,2023-02-13 11:32:30,-3,27,0,2,False,False,"['design', 'architecture']",True
+How to design a database wherein multiple tags(string) are to be associated with an id per user?,443931,AncientSwordRage,42685,1033,2023-02-13 10:59:00,0,49,1,0,True,False,"['database', 'database-design', 'eav-model']",False
+Refactoring: where should master data reside?,443929,user15110545,426849,11,2023-02-13 09:53:11,0,45,0,0,False,False,"['design', 'java', 'refactoring']",False
+"What are my options for creating an easily distributable, self-managed web application? [closed]",443924,Sal,386482,125,2023-02-13 00:49:35,-2,57,0,1,False,False,"['open-source', 'docker', 'distribution']",True
+How to apply TDD to very high level functionality?,443921,charlieshades,187165,220,2023-02-12 21:28:39,3,334,7,3,True,False,"['testing', 'tdd', 'methodology']",False
+Is it an acceptable pattern to put derived classes inside an abstract base class in Java?,443919,micheal65536,214338,209,2023-02-12 19:03:12,1,77,1,2,False,False,"['java', 'design-patterns', 'inheritance', 'patterns-and-practices', 'project-structure']",False
+File I/O - How HDD or SSD works with OS file system? [closed],443917,obanadingyo,426827,113,2023-02-12 18:14:09,1,124,3,0,True,True,"['file-systems', 'io']",True
+Where do unit tests stop and integration tests begin according to the classical school of unit testing?,443916,B-Rad,127028,183,2023-02-12 16:19:14,1,112,2,4,True,True,"['unit-testing', 'testing', 'tdd', 'integration-tests']",False
+Scheduling Algorithm that Maximizes Gaps Between Participants’ Appearances,443911,Daniel Rozeboom,426808,19,2023-02-12 03:06:46,1,98,2,0,False,False,"['algorithms', 'scheduling']",False
+"REST API design - Categorised response objects - All, Sub, Dub movies paged response",443910,don,415411,1,2023-02-11 19:59:54,0,57,0,1,True,False,"['design', 'design-patterns', 'architecture', 'web-development', 'rest']",False
+How to write maintainable unit tests using classical style of unit testing,443908,dbird,426795,127,2023-02-11 15:52:54,1,119,1,6,False,False,"['unit-testing', 'testing', 'mocking']",False
+Implementing custom per-instance note/status in recurring calendar events,443905,Maciej Pszczolinski,343027,412,2023-02-11 13:01:20,0,11,0,3,True,False,['modeling'],False
+Where to control optimistic concurrency in a domain-driven design (DDD) application?,443904,Álvaro García,412921,287,2023-02-11 10:51:27,1,89,2,4,False,True,"['c#', 'concurrency']",False
+How can a web application distinguish between sessions from trusted and non-trusted devices?,443901,Alexey Romanov,33636,1467,2023-02-11 09:28:50,0,40,1,1,False,False,"['web-development', 'web-applications', 'authentication']",False
+"Handling competing requests for the same ""id"" in different Kubernetes PODs",443899,Carlos Rodrigues,406161,3,2023-02-11 03:39:07,0,18,0,0,False,False,"['concurrency', 'distributed-system', 'kubernetes']",False
+Are indirect implicit type declerations dangerous?,443897,Uroš Jarc,426780,109,2023-02-10 23:58:30,0,81,1,10,False,False,"['programming-languages', 'compiler']",False
+load testing - spike vs stress to determine performance,443887,juztcode,362043,139,2023-02-10 07:33:24,0,45,1,7,False,False,"['data', 'load-testing']",False
+Dispatching different events in consistent order to event handlers in c++,443885,Wei Qiu,111932,181,2023-02-10 04:49:06,0,36,0,4,False,False,"['design', 'c++', 'event-sourcing']",False
+How do I re-use code in an Azure release pipeline?,443884,John Wu,115084,25600,2023-02-09 22:54:53,0,27,0,0,False,False,"['azure', 'devops']",False
+Seperate related repos or create a single repo for the whole project? [duplicate],443880,Hilow,426726,11,2023-02-09 18:42:37,0,64,2,2,False,True,['github'],False
+Is it secured to accept and execute user provided CURL commands,443873,Youans,92003,411,2023-02-09 09:48:51,0,148,1,2,False,True,"['design', 'java', 'architecture', 'security', 'linux']",False
+Structure and usage of complex React components,443865,Pavel Štěrba,116766,301,2023-02-08 09:40:34,0,28,0,17,True,False,"['composition', 'reactjs', 'react']",False
+Specification pattern and maintaining domain logic inside entity,443861,user1796516,147864,33,2023-02-08 07:54:16,1,129,1,2,True,True,"['design-patterns', 'object-oriented', 'domain-driven-design', 'specifications']",False
+Business Rule Engine - Postgresql [closed],443859,Senthil,426654,13,2023-02-08 07:03:41,0,85,1,4,False,True,"['mongodb', 'postgres', 'business-rules', 'elasticsearch', 'rules-engine']",True
+Queue for tasks and notifications,443851,Markus Knappen Johansson,360411,166,2023-02-07 21:14:40,0,38,1,10,True,False,"['message-queue', 'queueing']",False
+Is it code smell to make an abstract child class override a parent method which only calls its own abstract method,443848,Cave Johnson,209349,73,2023-02-07 19:47:13,0,92,2,0,False,False,"['php', 'language-agnostic', 'abstract-class']",False
+Using Repository Pattern with .NET Entity Framework with a single Get method with optional parameters for each table include,443842,Veverke,177832,371,2023-02-07 14:08:32,0,83,3,1,True,False,"['architectural-patterns', 'entity-framework', 'repository-pattern']",False
+Unit testing with dependency on Word COM objects: Wrappers & interfaces vs document as an embedded resource,443840,Peter,381069,111,2023-02-07 13:12:01,0,59,0,6,True,False,"['unit-testing', 'dependencies']",False
+How can lossless compression ever exist?,443832,Mercury,426615,465,2023-02-07 09:16:20,29,15000,7,0,True,True,"['algorithms', 'theory', 'compression']",False
+How can I secure the backend in a meaningful way when users log in via OAuth2 in the frontend?,443829,samjaf,426005,121,2023-02-07 07:57:31,0,36,0,0,False,False,"['rest', 'authentication', 'oauth2']",False
+How to link many large strings in a maintainable way,443828,scidhuv,426611,29,2023-02-07 07:47:30,1,141,3,3,True,False,['strings'],False
+How to Represent actions in a UML state diagram that may be executed from a base state or as a result of another action from that state,443827,Ben Jaguar Marshall,58903,101,2023-02-07 07:09:10,0,42,1,1,False,False,"['uml', 'diagrams', 'finite-state-machine']",False
+How to refactor parallel inheritance tree?,443817,nrob,426589,109,2023-02-06 14:28:27,0,73,1,2,True,False,"['design', 'design-patterns', 'php', 'inheritance', 'hierarchy']",False
+Is adding functions to a namespace/module after imports an anti-pattern?,443815,MYK,410059,303,2023-02-06 14:12:29,1,164,3,1,True,True,['python'],False
+How should I design a data flow diagram between two systems with integrations using REST API and webhooks?,443814,efaitchjay,426587,9,2023-02-06 13:21:33,-1,21,0,1,False,False,"['rest', 'api', 'diagrams', 'integration', 'data-flow-diagram']",False
+How should I approach the development of an app with an parallel independent library?,443813,ImZac,426579,21,2023-02-06 13:11:40,1,84,1,2,False,True,"['web-development', 'web-applications', 'libraries']",False
+Howto design a Rest-Client in c# the right way?,443810,Michael,426578,9,2023-02-06 10:06:28,0,76,0,1,True,False,"['c#', 'architecture', 'rest']",False
+How to manage immutable objects (specifically Java records),443804,Chris,289163,133,2023-02-05 22:13:50,2,303,1,1,True,True,"['java', 'immutability']",False
+Manage multiple projects in the same DDD subcontext,443799,Kiske1,426556,111,2023-02-05 17:33:29,0,51,1,0,True,True,"['domain-driven-design', 'legacy']",False
+Are there any drawbacks to partial application?,443797,kaan_a,307447,155,2023-02-05 15:52:06,0,109,1,3,True,False,"['design-patterns', 'functional-programming', 'state']",False
+Why do we need middleware in FASTapi?,443796,filtertips,426551,117,2023-02-05 15:09:03,-1,61,1,5,True,True,"['api', 'middleware']",False
+Generating grid shell coordinates,443784,xytor,425534,111,2023-02-04 18:16:26,0,49,1,6,True,True,['algorithms'],False
+Is KAOS goal modeling used in the industry?,443783,Bharel,220193,137,2023-02-04 17:53:59,-1,105,1,2,False,False,"['requirements', 'modeling']",False
+stress testing an application and failing at database connection,443782,juztcode,362043,139,2023-02-04 17:35:57,2,130,1,1,False,True,"['postgres', 'tcp']",False
+Where do most development teams compile and run their code to test it? [closed],443780,netcloud45,426532,13,2023-02-04 16:29:03,-2,160,1,5,True,True,"['software', 'team']",True
+What is the recommended approach for loading a Java Keystore from memory in a SpringBoot application running in a Docker container?,443778,goodspeed,44047,167,2023-02-04 14:40:17,-1,36,1,3,True,False,"['java', 'docker', 'spring-boot']",False
+How to achieve high performance routing to Kinesis streams?,443775,Regyn,374484,157,2023-02-04 14:06:02,0,26,0,2,False,False,"['aws', 'stream-processing']",False
+"How to seamlessly interact with a message broker when the underlying system (SQS, RabbitMQ) can change depending on the environment?",443774,kant312,189545,111,2023-02-04 13:19:37,0,46,1,10,True,True,"['interfaces', 'message-queue', 'abstraction', 'hexagonal-architecture']",False
+Global objects vs free functions C++?,443771,SomethingBetter,424194,33,2023-02-04 08:54:55,3,256,5,0,False,True,['c++'],False
+Best practice for updating object fields (with values calculated in methods),443757,Lord Cat,205676,139,2023-02-03 13:37:18,1,59,2,3,False,False,"['object-oriented', 'code-quality', 'clean-code']",False
+"Is it a bad practice to include fields on DELETE requests that will enforce them, but only in on certain environments? [closed]",443756,fedest,363053,119,2023-02-03 13:33:09,0,116,3,2,False,True,"['api-design', 'web-api']",True
+"Speed up implementation of ""log transform"" on 2D image",443751,kwsp,365292,129,2023-02-03 02:17:25,2,123,0,0,True,False,"['c++', 'performance']",False
+Is there any advantage of pushing branches to GitHub without an associated PR?,443746,Pedro Delfino,389411,129,2023-02-02 17:32:00,-1,261,2,0,False,True,"['git', 'github', 'branching', 'pull-requests']",False
+Architecture review for desktop application with distributed components,443735,Varunkumar Manohar,426425,119,2023-02-01 21:50:34,1,88,1,1,False,False,"['architectural-patterns', 'desktop-application']",False
+can partial optimized Bozosort improve speed of sorting?,443733,Nick,164942,295,2023-02-01 18:01:10,2,144,1,3,True,False,"['algorithms', 'sorting']",False
+What is the correct way to deal with Pull Request updates concerning an interface with a Continuous Integration script: rebase or merge?,443732,Pedro Delfino,389411,129,2023-02-01 18:00:30,0,78,1,2,False,True,"['git', 'continuous-integration', 'github', 'merging', 'pull-requests']",False
+Microservices Pattern - Downstream Services Registering Themselves with an Upstream Orchestrator?,443729,underzealous-apricot,426407,21,2023-02-01 16:16:07,1,101,1,0,True,False,"['microservices', 'architectural-patterns']",False
+Reuse and sharing with primitives,443726,Matthijs Steen,426405,119,2023-02-01 14:12:17,1,104,0,4,True,False,['patterns-and-practices'],False
+Dependency injection in legacy code,443719,Ruslan,426312,9,2023-02-01 09:47:08,0,152,4,0,False,False,"['c++', 'unit-testing', 'dependency-injection']",False
+A feature branch on top of another feature branch (dealing with PRs),443713,mgNobody,266348,119,2023-02-01 03:50:00,0,83,2,1,True,True,"['git', 'github', 'gitflow']",False
+Most efficient way to represent a random ordering of the numbers 0-10,443709,DK13,423032,29,2023-01-31 23:10:08,1,220,4,6,False,False,"['design-patterns', 'algorithms']",False
+Capture a time-ordered sequence of item-level modifications via events when using Amazon Aurora,443706,x80486,175557,119,2023-01-31 19:15:15,1,54,1,3,True,False,"['architecture', 'event-programming', 'distributed-system']",False
+Is it better to override methods in classes or make methods general?,443690,Diegol,426344,1,2023-01-31 00:23:33,-1,134,3,4,False,False,"['design', 'database', 'python', 'object-oriented-design', 'inheritance']",False
+Choosing one of two memory blocks to deallocate: Does age affect fragmentation?,443689,Da Spud Lord,426343,89,2023-01-30 23:43:52,8,195,3,1,False,False,"['performance', 'optimization', 'memory']",False
+What is the best way to design a heavy lookup web app?,443688,713sean,426304,27,2023-01-30 23:19:36,2,215,1,0,False,True,"['database', 'aws', 'backend']",False
+Message broker design pattern best practice [closed],443684,Giox,384072,109,2023-01-30 17:47:08,0,62,2,10,False,False,"['message-queue', 'apache-kafka', 'rabbitmq', 'amqp']",True
+Is it okay to extend more than one class if a new type/feature is needed?,443677,lorenz albert,426317,121,2023-01-30 12:49:03,1,345,2,7,False,True,"['c#', 'object-oriented', 'extensibility', 'open-closed-principle']",False
+In which layer request parameter limit should be for an external endpoint?,443675,f.smith,424030,170,2023-01-30 11:24:40,0,45,2,4,False,False,"['mvc', 'backend']",False
+What is the convention for deciding which resource to place an endpoint under? [closed],443670,oamandawi,358037,101,2023-01-30 01:07:35,-1,33,1,0,False,True,"['design', 'web-development', 'api', 'api-design']",True
+Trie data for searches in time ranges,443667,alves,426216,101,2023-01-29 21:03:30,0,71,1,2,False,False,"['design', 'api-design', 'data-structures', 'trees']",False
+How can a third-party site know your identity on other sites (e.g. Off-Facebook Activity)? [closed],443653,gcr,379938,95,2023-01-29 07:10:25,-3,71,1,2,False,False,"['cookies', 'facebook', 'tracking']",True
+"design pattern advice on method of ""injecting"" html in React",443649,Leftover Salad,382678,153,2023-01-28 19:24:37,0,68,1,17,True,True,"['typescript', 'reactjs']",False
+Doubts how to design a card game in DDD,443646,Álvaro García,412921,287,2023-01-28 16:11:22,1,159,1,2,True,True,['domain-driven-design'],False
+Many if conditions,443639,Codemenot,426226,21,2023-01-27 23:18:51,0,141,1,4,False,False,"['design', 'algorithms', 'conditions', 'pseudocode']",False
+Efficient Schema For Pairing Styling Metadata with Text Fields in JSON Messages,443637,CCD,369919,143,2023-01-27 22:01:57,1,50,1,10,True,True,"['json', 'messaging', 'schema']",False
+Better way to represent grammar symbols in C,443630,Mehdi Charife,422811,135,2023-01-27 15:11:29,-1,137,1,0,False,True,"['design', 'c', 'compiler', 'parsing', 'memory-usage']",False
+Improve performance for HTTP Request with huge body,443625,Jolly,377754,111,2023-01-27 09:20:17,1,135,2,1,True,False,"['web-api', 'http-request', 'pagination']",False
+"If ""others have modified components since you checked out the system"", what would you do?",443615,Tim,699,5375,2023-01-26 22:05:53,0,210,2,6,True,False,"['git', 'version-control', 'continuous-integration']",False
+DDD - How to avoid validation rule duplication,443613,Douglas Monteiro,425507,29,2023-01-26 20:35:21,0,155,1,0,True,True,"['object-oriented', 'domain-driven-design', 'clean-architecture']",False
+Unit Testing Internal Classes,443608,user12994244,426180,37,2023-01-26 18:32:41,2,162,3,0,False,False,"['unit-testing', 'qa', 'methodology']",False
+Best practices for managing different libraries for variations of a sensor [closed],443603,Rico,368723,39,2023-01-26 16:12:01,0,47,1,3,True,True,"['c++', 'embedded-systems']",True
+Is it ok to save all fields of an entity as a string if it should not be changed?,443601,AhuraMazda,426168,109,2023-01-26 14:23:54,-1,259,3,1,False,True,"['design', 'java', 'database', 'entity']",False
+Should singular resource returns 404 or empty body in RESTful api [duplicate],443589,unional,326379,149,2023-01-26 01:56:43,0,23,0,2,True,False,['api-design'],False
+How to deal with constants that are shared between multiple packages?,443587,Jossy,367981,301,2023-01-25 22:46:17,1,135,2,1,True,True,"['python', 'packages', 'constants']",False
+Is inheritance in use case diagrams between actors limited to one specific diagram,443585,Mr Lukas,426136,23,2023-01-25 20:39:08,1,51,2,1,False,True,"['uml', 'use-case']",False
+SSO Application Storing a Custom Secret in the User Profile,443584,Peter Moore,424678,109,2023-01-25 20:06:08,0,40,0,2,False,False,"['security', 'encryption', 'sso']",False
+How to store queryable 10-100MB BLOBs?,443581,Ivaylo Toskov,160526,129,2023-01-25 12:30:38,2,243,2,1,True,False,"['database', 'database-design', 'sql', 'machine-learning', 'blob']",False
+Distributed in-memory producer consumer design,443575,lalala,362999,1,2023-01-25 07:53:37,-3,43,0,1,True,False,"['architecture', 'message-queue', 'distributed-system', 'distributed-computing', 'system-architecture']",False
+Software Design: Decoupling when highly dependent on a third party library,443574,J. Lo,426109,21,2023-01-25 07:27:15,1,316,2,0,True,True,"['python', 'clean-code', 'coupling', 'third-party-libraries', 'protocol']",False
+How to design a fifo coupon distribution system,443572,dev Joshi,426107,109,2023-01-25 06:08:42,0,54,1,3,True,False,"['design', 'distributed-system', 'semaphore']",False
+Is there a design with fewer similar virtual functions? [migrated],443569,rkuang25,426098,11,2023-01-25 02:32:36,-1,114,0,5,True,False,"['design', 'c++', 'templates', 'virtual-functions']",False
+How to unlock a locked enterprise architect diagram? [migrated],443564,Michel Keijzers,47065,325,2023-01-24 17:00:25,-1,6,0,6,True,False,"['uml', 'developer-tools', 'enterprise-architect']",False
+How does injecting a concrete class expose implementation? [duplicate],443556,james,426055,113,2023-01-24 05:31:05,-2,164,2,2,False,False,"['interfaces', 'class', 'dependency-inversion']",False
+Are interchangeable types a security vulnerability? Are they good vectors for attack?,443542,Anon,136084,3495,2023-01-23 09:19:58,1,226,3,1,False,False,"['c++', 'python', 'security', 'dynamic-typing', 'static-typing']",False
+How to Represent Functional Boolean,443531,TIKSN,82231,109,2023-01-22 18:52:54,0,219,2,5,True,False,"['c#', 'functional-programming', 'data-types', 'boolean']",False
+"How do we define a ""step"" when calculating big O notation in an algorithm?",443530,Davis Kim,425993,21,2023-01-22 18:10:57,1,240,4,3,True,True,"['computer-science', 'big-o']",False
+How to manage autorization for internal service to service communication in a microservice architecture?,443529,Dypso,285517,231,2023-01-22 16:24:00,1,73,1,2,False,False,"['microservices', 'security']",False
+Design pattern for constructing and linking up objects that form a graph,443527,Pavlin,422077,159,2023-01-22 16:06:00,2,184,2,10,True,False,"['architecture', 'python']",False
+Which techniques to follow to make a fast and consistent message consumer that writes to a RDBMS [closed],443514,Sujal Mandal,283938,131,2023-01-21 08:05:15,0,40,1,0,False,True,"['message-queue', 'producer-consumer', 'consistency']",True
+"Refactoring instanceOf, moving logic to POJO when it has database interaction",443502,Accollativo,182520,459,2023-01-20 10:51:27,1,72,1,3,False,True,"['java', 'design-patterns', 'interfaces']",False
+Some questions about shortest-path algorithms,443498,Dominique,250257,1699,2023-01-20 09:15:11,1,64,1,2,False,True,"['algorithms', 'graph', 'algorithm-analysis', 'dijkstra']",False
+When has C or C++ made itself intentionally backwards incompatible? [closed],443497,Anon,136084,3495,2023-01-20 08:34:32,-3,122,1,0,True,True,"['c++', 'c', 'history', 'backward-compatibility', 'language-specifications']",True
+"Why exactly was the C++ convenience of not requiring a second declaration, removed?",443494,Anon,136084,3495,2023-01-20 02:02:33,0,210,1,0,False,False,"['c++', 'history', 'static-methods', 'static', 'standardization']",False
+How do you explain to the Product Owner that an error in a Web app is due to a browser quirk? [closed],443490,moonman239,164475,2023,2023-01-19 23:33:57,-5,86,1,1,False,True,"['communication', 'errors']",True
+Where to specify UI views in a hierarchy of model objects?,443489,Anakhand,330471,187,2023-01-19 23:30:53,0,49,2,3,True,False,"['object-oriented', 'object-oriented-design', 'layers', 'separation-of-concerns']",False
+How is it possible to store the AST nodes location in the source code?,443486,Iter Ator,236046,111,2023-01-19 19:59:02,0,62,1,2,False,True,"['programming-languages', 'data-structures', 'parsing', 'lexer']",False
+Best way to handle versioning between a desktop product and a cloud product when one depends on the other,443479,ChapterSevenSeeds,425891,31,2023-01-19 15:43:28,2,109,1,0,True,True,"['versioning', 'release-management', 'desktop-application', 'cloud']",False
+Do the maintainers of JavaScript remove features?,443464,Rongeegee,355519,157,2023-01-18 22:16:09,2,204,1,4,True,True,"['javascript', 'programming-languages']",False
+Tradeoff: Fetching less data vs having a simpler data model,443463,tim,423558,131,2023-01-18 22:04:56,0,99,2,0,False,True,['data-modeling'],False
+Why are commonly compiled languages not interpreted for faster iteration?,443462,gust,358008,367,2023-01-18 21:51:03,25,7000,10,1,True,False,['interpreters'],False
+Is there an approach to keep a large number of conditionals maintainable,443460,SunflowerLuau,425840,41,2023-01-18 19:46:57,3,224,3,6,False,False,"['python', 'maintainability', 'programming-logic']",False
+Do we need to test an integration of units if each unit has been tested against collaborator (mocks) and interface contracts?,443457,PhD,18748,2531,2023-01-18 18:28:10,0,70,1,3,True,False,"['design', 'unit-testing', 'integration-tests']",False
+Best way to manage notifications via Azure Event Grid Topics and Azure Event Grid Subscriptions,443444,Simone,364778,127,2023-01-17 18:29:47,1,51,1,4,False,False,"['azure', 'eventgrid']",False
+"N threads enter, one and only one should do extra processing that others wait for",443442,Violet Giraffe,29016,274,2023-01-17 15:59:13,4,297,3,1,False,False,['multithreading'],False
+How to propagate seldomly changing data in a distributed system,443439,Harold L. Brown,344152,205,2023-01-17 14:47:30,3,179,2,0,False,False,"['data', 'distributed-system', 'messaging', 'event', 'metadata']",False
+Extensive use of global variables in js codebase?,443435,amy,378198,111,2023-01-17 08:56:34,0,227,2,10,False,True,"['architecture', 'javascript', 'node.js']",False
+Return type abstraction of a service layer that calls an API,443432,Achref RIAHI,425769,3,2023-01-17 07:31:16,0,54,1,7,False,True,"['api', 'microservices', 'coupling']",False
+Raising new exceptions in Python backward-incompatible?,443426,Stéphane Bruckert,75658,344,2023-01-16 20:09:30,4,2000,2,4,False,False,"['python', 'backward-compatibility']",False
+What are the benefits of keeping npm packages up-to-date? [closed],443423,Akaisteph7,425738,137,2023-01-16 17:02:45,1,103,1,0,False,False,"['javascript', 'node.js', 'dependencies', 'packages', 'npm']",True
+Should web API controller actions that perform no async work always be declared as async?,443416,Veverke,177832,371,2023-01-16 08:00:36,3,212,1,2,False,True,"['web-api', 'asp.net-core', 'async']",False
+"Storing both a compiled service for a Docker container as well as the container in a repository. Good practice, bad practice or no precedent?",443406,Crazy Dino,209406,312,2023-01-15 13:08:52,1,195,4,2,False,True,"['java', 'programming-practices', 'repository', 'docker']",False
+Security of the cerfiticates in the client application in a gRPC service,443405,Álvaro García,412921,287,2023-01-15 12:45:23,0,40,0,17,True,False,"['certificate', 'grpc']",False
+Using Gregorian Year vs using Mean Tropical Year,443399,An Ant,425693,149,2023-01-15 07:30:40,4,534,3,2,True,False,"['requirements', 'estimation', 'time', 'command-line']",False
+API authentication for iOS applications,443397,Trenton,409366,17,2023-01-15 02:09:16,0,25,0,4,False,False,"['authentication', 'jwt', 'oauth']",False
+Implementation of variables in JVM / Java,443394,tweekz,419128,49,2023-01-14 20:22:38,1,122,2,10,True,True,"['java', 'data-types', 'jvm', 'reference']",False
+Scaling up an online game using SignalR,443387,Jez,125671,1268,2023-01-14 13:12:55,3,135,1,0,False,True,"['architecture', 'server', 'scalability']",False
+Workaround for digits in beginning of identifier,443386,user877329,62851,385,2023-01-14 12:57:23,-1,72,1,1,True,True,['naming-standards'],False
+How to implement a counter without global state?,443379,PieterV,422276,185,2023-01-13 17:07:55,3,238,2,6,True,True,"['state', 'globals']",False
+Testing an assertion across all test cases,443370,krezno,403791,77,2023-01-13 09:52:49,1,112,2,0,True,False,"['database', 'unit-testing', 'testing']",False
+Microservice arcitecture - seperation of services,443367,Martin C,343427,39,2023-01-13 06:39:06,1,137,4,0,False,False,"['c#', 'database', 'microservices', 'asp.net-core']",False
+Design dilemma with relation between entities and 'global',443359,Erwin van Hoof,425576,129,2023-01-12 19:20:34,2,110,2,3,True,False,['design'],False
+What are the long-term risks when working with a large number of use cases? [closed],443358,thePromisedLAN,423750,9,2023-01-12 18:51:00,-3,101,1,1,False,False,"['design-patterns', 'architecture', 'services']",True
+How to propagate parameters through several architectural layers?,443354,UnbescholtenerBuerger,283725,171,2023-01-12 11:40:53,6,411,2,2,True,True,"['layers', 'embedded-systems', 'parameters']",False
+Designing Products with multiple variations,443348,Subliminal Hash,294026,147,2023-01-12 07:41:03,2,97,2,1,True,False,"['design', 'c#', 'design-patterns', 'object-oriented-design', 'entity-framework']",False
+Encoding text to image and decoding back to text,443347,Imtiaz,425549,23,2023-01-12 07:37:20,1,141,2,1,False,True,"['python', 'image-processing', 'visualization', 'export', 'qr-code']",False
+Serving Cookies from Backend at different subdomain without being considered third party,443345,KJ Ang,425546,11,2023-01-12 04:15:44,0,65,0,2,False,False,"['deployment', 'login', 'cookies']",False
+Assigning Relationships between various objects in a collection,443342,user2921885,425540,7,2023-01-12 01:23:23,-2,56,1,1,True,True,"['data-structures', 'collections', 'relationships']",False
+Rest API: paths versus queryparams for user accounts,443341,aroooo,52359,245,2023-01-11 23:31:22,1,72,2,1,True,False,"['design', 'rest', 'api-design']",False
+"How should I model the actors in a use case diagram for a platform that allows users to both watch videos and create their own channels, like YouTube?",443335,daklay,425521,33,2023-01-11 15:38:29,2,87,1,0,True,True,"['uml', 'use-case']",False
+How to restrict the construction of a domain object to an external service?,443332,Douglas Monteiro,425507,29,2023-01-11 13:03:11,1,163,1,3,True,False,"['java', 'c#', 'object-oriented', 'domain-driven-design', 'clean-architecture']",False
+How to handle data input in an BPMN?,443329,Daniel,154776,101,2023-01-11 10:01:37,0,28,0,5,True,False,"['business-process', 'bpmn']",False
+Mapping class diagrams to source code,443328,Thomas Herondale,406181,27,2023-01-11 09:58:22,0,111,2,6,True,True,"['design', 'uml']",False
+Testing REST API endpoints. How do I setup the tests?,443327,user,166557,439,2023-01-11 07:31:15,0,85,1,2,False,False,"['rest', 'testing']",False
+Options for sharing frontend workflows across disparate applications,443321,Jordan Dantas,425461,9,2023-01-10 23:08:47,0,33,1,1,False,False,"['web-development', 'web-applications', 'microservices', 'front-end', 'microfrontends']",False
+Template Source Control Repository,443319,Divan,150125,11,2023-01-10 18:51:25,0,75,2,5,True,True,"['git', 'github', 'templates']",False
+"Conditional typedef depending on ""platform""",443316,Patrick Wright,400494,387,2023-01-10 15:59:46,1,104,1,3,True,True,['c++'],False
+Replacing the Decorator design pattern with a list of methods,443312,crommy,425430,129,2023-01-10 10:40:41,2,187,2,2,False,False,"['design-patterns', 'decorator']",False
+Is there some method to route UDP packets with micro-service architecture,443309,Yves,265685,211,2023-01-10 07:17:11,0,38,0,10,True,False,"['architecture', 'microservices', 'api-gateway']",False
+class docstring or __doc__ docstring for namedtuple?,443306,theonlygusti,224123,360,2023-01-10 03:25:21,0,68,0,0,False,False,['python'],False
+"Checking if a file exists before writing. Always avoid, or sensible with the right use case?",443304,candied_orange,131624,96500,2023-01-10 02:32:32,5,412,3,3,False,False,"['concurrency', 'file-handling', 'race-condition']",False
+DDD - How to handle one transaction across multiple bounded contexts when doing Save on multi-purpose UI page,443296,Ramzi Hammouda,425389,131,2023-01-09 15:51:58,2,155,2,2,False,True,"['domain-driven-design', '.net']",False
+Using PostgreSQL Row-Level-Security with Nested Relations,443295,Snowybluesky,425388,11,2023-01-09 15:35:55,1,23,0,0,True,False,['postgres'],False
+Product Based Approach for Single Customer Projects,443294,Dan Saunders,169324,910,2023-01-09 14:47:48,3,84,2,0,False,False,['development-process'],False
+Does my class violate the Single-Responsibility Principle? [duplicate],443292,tail,425385,11,2023-01-09 13:04:00,-1,81,1,1,False,False,"['java', 'solid', 'single-responsibility']",False
+How to auto-scale a service based on requests count and internal processes,443287,S7H,418173,119,2023-01-09 06:12:12,1,50,1,3,True,False,"['rest', 'microservices', 'scaling']",False
+What HTTP status code to return to differenciate resource not found from missing or deleted resource? [duplicate],443284,Random Alphabets,60755,187,2023-01-09 02:03:52,1,69,0,2,False,False,"['api', 'api-design']",False
+Ho do I implement Database per Service pattern in Kubernetes?,443281,Invalid Name,Invalid ID,Invalid Rep,2023-01-08 18:06:24,-1,101,1,0,True,False,"['database', 'kubernetes', 'database-design', 'microservices']",False
+Kafka on multiple instances of ec2,443274,Tomasz Przybyło,425339,21,2023-01-08 12:16:53,1,47,1,4,True,False,['apache-kafka'],False
+Are self-written queues and linked lists really worth it (better than built-in arrays)?,443271,forty5,424974,31,2023-01-08 10:58:24,1,136,1,0,False,True,"['data-structures', 'queue', 'linked-list']",False
+UML Class Diagram Excersise,443270,Luca Pedersoli,425335,31,2023-01-08 10:19:03,2,70,1,1,True,True,"['design', 'uml', 'class-diagram']",False
+How to break a bloated decorator into smaller parts in Django?,443267,Farzad,413098,13,2023-01-08 06:44:09,0,47,1,6,False,True,"['rest', 'django', 'decorator']",False
+How to implement converters without needing to implement every permutation,443264,ScottishTapWater,255555,195,2023-01-07 22:20:54,1,107,1,3,True,True,"['design-patterns', 'algorithms']",False
+Use case diagrams,443259,Deema,425308,27,2023-01-07 09:19:43,1,56,1,4,False,False,"['use-case', 'functional-requirements']",False
+API contract design for field attribution based schema,443256,user1778855,425305,111,2023-01-07 07:04:28,1,41,0,1,False,False,"['design-patterns', 'api', 'api-design', 'dto', 'schema']",False
+Implement authorization logic also in frontend or send authorization info along with the resource?,443255,user3563059,327079,111,2023-01-07 06:42:47,1,61,2,0,False,False,"['client-server', 'authorization', 'front-end', 'engineering', 'access-control']",False
+How can I use builders for products with incompatible interfaces?,443252,JS Lavertu,403088,111,2023-01-06 21:59:41,1,106,1,10,False,False,"['design-patterns', 'python', 'builder-pattern']",False
+Design for the future or make it tightly coupled to the implementation,443249,john doe,242572,141,2023-01-06 20:44:16,3,122,1,7,False,True,"['design-patterns', 'architectural-patterns', 'swift-language']",False
+Config streaming from producer to consumers in kubernetes,443247,Kiran Ramesh,425290,109,2023-01-06 17:15:10,0,23,0,4,False,False,"['pubsub', 'kubernetes']",False
+What should we do in face of a failing sub in pub-sub?,443244,underthevoid,395549,500,2023-01-06 15:40:29,3,303,3,0,False,True,"['c#', 'domain-driven-design', 'cqrs', 'asp.net-core', 'pubsub']",False
+How can i handle really long-term running tasks?,443230,Vrrl,425256,9,2023-01-05 23:59:26,0,179,3,2,False,False,"['architecture', 'message-queue', 'task', 'service-workers']",False
+Async Polling REST API Design,443222,hmiguel,201675,109,2023-01-05 18:26:05,0,55,0,2,False,False,"['rest', 'api', 'api-design', 'polling', 'asynchronous']",False
+What causes unpredictability when doing multi threading,443221,Dan,425242,329,2023-01-05 18:20:45,21,4000,8,17,True,True,['multithreading'],False
+How to solve inter-dependency of the composed class on it's property,443210,Srini,425213,9,2023-01-05 08:27:54,0,78,1,2,True,False,"['design-patterns', 'factory-pattern']",False
+Reading and writing with files using WinAPI in C++,443204,EL_9,425201,121,2023-01-04 20:03:17,1,153,3,4,False,True,['c++'],False
+Domain Modeling / Architecture,443203,Justim Odendaal,184333,19,2023-01-04 19:48:39,1,120,1,10,True,False,"['c#', 'domain-driven-design', '.net', 'domain-model', 'clean-architecture']",False
+What is the most efficient approach about dependencies versions?,443196,Jancer Lima,425185,113,2023-01-04 13:32:27,1,86,2,0,False,True,"['version-control', 'versioning', 'packages']",False
+Implicit vs. explicit data structure retrieval from a REST API,443189,DarkTrick,345246,217,2023-01-04 04:00:40,10,2000,7,1,True,False,"['rest', 'front-end']",False
+What's the difference between an Aggregate and a Model,443173,Mr. Boy,104623,231,2023-01-03 11:05:10,-1,91,2,6,True,False,['domain-driven-design'],False
+"How to propagate lexical scope in a compiler, specifically around step-by-step functions?",443168,Lance,73722,2467,2023-01-03 04:36:00,0,127,3,0,True,False,"['compiler', 'scope']",False
+Can Apache Pinot be used as a general purpose read model?,443166,user2864874,155090,111,2023-01-02 23:01:49,1,59,0,0,False,False,"['cqrs', 'apache-kafka']",False
+Is there a better way to trigger API calls from an on Prem SQL Server without using a job scheduler?,443164,hnewbie,340465,11,2023-01-02 22:29:49,1,114,2,3,True,False,"['database', 'python', 'ssis']",False
+Injecting Adapters Into Client,443159,ScottishTapWater,255555,195,2023-01-02 15:38:40,0,55,1,1,False,True,"['c#', 'dependency-injection', 'generic-programming']",False
+GUID possible misuse as short term message id,443158,Martin,250649,241,2023-01-02 15:23:49,1,267,4,2,True,True,"['networking', 'messaging']",False
+CQRS and events order,443154,Krzysztof,340377,133,2023-01-02 09:36:52,2,97,2,1,True,False,['cqrs'],False
+CRUD for hierarchical data in ASP.NET - single view/controller vs. separate view/controllers?,443148,David,421412,7,2023-01-01 17:15:22,-1,73,1,1,False,False,"['design', 'design-patterns', 'asp.net', 'crud']",False
+Loosened or sequential referential transparency [closed],443142,chanwoo ahn,425059,11,2023-01-01 06:25:13,0,51,1,2,False,True,"['functional-programming', 'robotics']",True
+Is this factory method implementation a bad choice because it tightly couples our class with its dependencies?,443139,SomeJuniorDev,425051,49,2022-12-31 23:08:59,3,241,2,1,True,False,['java'],False
+Best way to prevent people going overboard with Typescript?,443127,Invalid Name,Invalid ID,Invalid Rep,2022-12-31 00:41:58,1,297,3,1,True,False,"['type-systems', 'typescript']",False
+How to implement a RegEx library in C [closed],443126,greybrunix,425018,29,2022-12-30 22:01:24,2,84,1,0,True,True,"['c', 'finite-state-machine', 'regular-expressions']",True
+API Design - Creating one component vs two components whose difference is a required parameter,443125,Jose A,151252,285,2022-12-30 21:51:37,1,30,0,3,True,False,"['api-design', 'component']",False
+Unit Testing - should / how should I write tests to cover new code that doesn't affect the interface of a method?,443113,gbro3n,31312,481,2022-12-30 11:44:00,1,215,5,5,True,True,"['unit-testing', 'mocking']",False
+Is it best practice to only use still-supported languages when developing apps?,443108,Runeaway3,288000,183,2022-12-30 00:26:16,2,448,4,6,True,True,"['web-applications', 'development-process', 'angularjs', 'support', 'angular']",False
+How can I mix this grid to guarantee it being solvable in X minimum steps?,443105,Florian Walther,378072,129,2022-12-29 21:13:07,2,168,3,2,False,False,"['algorithms', 'javascript', 'game-development', 'algorithm-analysis', 'games']",False
+How multiple type lists are stored in memory?,443098,forty5,424974,31,2022-12-29 17:13:04,0,90,3,1,False,False,"['memory', 'array', 'list']",False
+"Definition of ""collaborators"" (of an object) in Software Design?",443097,Mike Nakis,41811,31800,2022-12-29 16:33:18,3,266,3,5,True,True,"['design-patterns', 'terminology']",False
+Separating model and applicative user in app,443088,Maor,395552,121,2022-12-29 08:07:32,0,55,1,3,True,True,"['design', 'object-oriented-design', 'application-design']",False
+Transform scanned PDF documents into Excel using OCR,443081,Iestyn,424942,39,2022-12-28 23:45:39,2,101,1,2,False,False,['data'],False
+Exposing only the getters of a singleton interface in C++,443077,RedYoel,424930,113,2022-12-28 16:58:08,1,97,1,10,True,True,"['design-patterns', 'c++', 'interfaces', 'inheritance']",False
+Best ways to deal with unexpected bugs in already published npm packages,443073,Recleun,424927,19,2022-12-28 15:34:22,0,150,3,0,False,True,"['packages', 'production', 'npm']",False
+"I'm very confused coming from MYSQL, is it necessary to ""connect"" classes via matching IDs as attributes or are associations enough?",443066,emcosokic,424913,11,2022-12-28 11:09:17,0,65,1,3,False,True,"['uml', 'class-diagram']",False
+Specifications to build a API context data,443057,Marcelo de Andrade,424888,113,2022-12-27 16:48:47,1,48,2,2,False,True,"['api', 'api-design', 'web-api']",False
+Low-Latency Data Sharing Between Threads in C++: Options and Considerations,443051,dogma sucks,424870,9,2022-12-27 07:31:59,0,104,2,0,True,False,"['c++', 'multithreading']",False
+Is this the main difference between Composition and Aggregation? [duplicate],443044,Bunyamin,424847,1,2022-12-26 15:08:52,0,45,0,0,False,False,"['uml', 'composition']",False
+Verifiable Credentials Wallet,443043,ash,222011,99,2022-12-26 14:53:08,-1,64,1,1,False,False,"['programming-practices', 'development-process']",False
+Changing number of arguments of a function,443036,awakened,424831,97,2022-12-26 02:41:33,7,2000,9,3,True,True,"['design', 'c++', 'backward-compatibility']",False
+Unity ScriptableObject vs Abstract class for Spells,443035,Jeff,67306,1854,2022-12-25 23:03:30,0,74,0,2,False,False,"['abstract-class', 'unity3d']",False
+"Cache publishing updates, or clients polling the cache?",443028,pyWalker2797,413918,119,2022-12-24 22:51:56,1,54,0,0,True,False,"['microservices', 'caching']",False
+Is CQRS applicable with total ordered views and sharding?,443023,Samuel Squire,418912,101,2022-12-24 11:17:32,0,38,0,4,True,False,"['architecture', 'performance', 'cqrs']",False
+How is processing done when streaming data?,443015,Finlay Weber,370485,161,2022-12-23 14:52:05,2,591,4,0,False,True,"['stream-processing', 'streaming']",False
+UML Diagram double arrow,443012,Nordin,424763,31,2022-12-23 09:25:59,2,151,1,1,True,True,"['design', 'c#', 'uml', 'mvvm', 'class-diagram']",False
+Unit testing 'opaque' classes / structs,443006,Derek C.,359821,573,2022-12-22 22:37:09,0,72,2,6,False,False,"['unit-testing', 'c']",False
+"Azure Function App and multiple Functions within it, performance",443002,user8400863,424727,119,2022-12-22 21:20:15,0,170,1,3,True,True,"['c#', '.net', 'azure']",False
+String representation in Python runtimes,442995,Matheus Dias de Souza,418820,21,2022-12-22 15:50:29,1,164,2,4,False,True,"['python', 'optimization', 'strings']",False
+Implement message queue in API Gateway,442992,Rex Low,424734,119,2022-12-22 14:33:38,1,117,2,1,False,False,"['architecture', 'architectural-patterns', 'message-queue', 'api-gateway']",False
+How to add methods in a class that uses other classes in UML class diagrams?,442986,SSSOF,424729,13,2022-12-22 12:01:38,-2,56,1,0,False,True,"['uml', 'class-diagram', 'diagrams']",False
+Azure Function SQL polling Vs Service Bus. How reliable is Service bus? Does it ever fail?,442985,user8400863,424727,119,2022-12-22 11:13:54,0,103,2,10,False,False,"['c#', 'azure', 'service-bus']",False
+Can I use a session cookie for API authentication?,442984,Damien Monni,424723,101,2022-12-22 10:27:39,0,100,1,7,False,False,"['api', 'security', 'authentication', 'cookies', 'single-page-apps']",False
+Branching strategy for developing multiple features at the same time,442982,Kdaydin,424716,135,2022-12-22 08:37:54,1,151,1,4,False,False,"['git', 'branching', 'gitflow', 'strategy']",False
+How to create an interface in C that can work on two identical structs with differently named fields,442975,Shadow43375,424698,121,2022-12-21 20:24:07,1,149,2,0,False,True,"['design-patterns', 'object-oriented', 'c', 'data-structures', 'interfaces']",False
+Extract common code into own module,442973,wand555,424688,11,2022-12-21 16:13:23,1,149,1,2,False,False,"['java', 'architecture', 'maven', 'javafx']",False
+GitLab repo architecture checks: on server or in CI?,442970,vvvvv,358921,129,2022-12-21 15:41:06,0,65,0,2,False,False,"['architecture', 'git', 'continuous-integration', 'gitlab']",False
+What is an apporpriate design pattern when dealing with Pandas and databases?,442967,highviolet,424681,13,2022-12-21 14:27:41,1,80,1,17,True,True,"['design-patterns', 'database', 'python', 'data-access']",False
+"Deal with users, permission and groups in DDD",442966,Samuel Verdejo de Toro,424680,11,2022-12-21 14:24:10,1,57,0,2,True,False,"['domain-driven-design', 'permissions']",False
+What are the typical properties of dependency graphs?,442965,Zur Luria,348473,113,2022-12-21 12:57:05,0,26,0,4,False,False,['parallel-programming'],False
+"Elegant way to handle two options, when both is also an option",442964,QuantumChris,338584,119,2022-12-21 11:23:15,1,150,1,10,True,False,"['python', 'enum', 'dictionary']",False
+Selecting the endianness of data in files generated by an embedded system,442959,9a3eedi,124792,2111,2022-12-21 09:45:36,1,50,1,0,False,True,"['embedded-systems', 'file-handling', 'file-structure', 'file-formats', 'endianness']",False
+Join databases in many services,442953,Saeed,409525,109,2022-12-21 06:10:54,0,63,1,1,True,False,['microservices'],False
+Is there some easy way to refactor deeply coupled python code,442951,zhang,424658,11,2022-12-21 03:43:53,0,141,2,6,True,True,"['python', 'coding-style', 'clean-code']",False
+How a VPS processes an incoming packet (conceptually),442947,user7088941,302625,569,2022-12-20 17:23:27,1,79,2,0,True,False,"['client-server', 'concepts', 'virtual-machine']",False
+Design a model for a user,442946,Maor,395552,121,2022-12-20 16:47:31,1,65,1,0,False,False,"['design', 'mobile', 'modeling', 'application-design']",False
+"How to be productive around constant 4-6 min interruptions while ""slow"" code runs?",442938,MYK,410059,303,2022-12-20 12:24:00,7,478,5,3,True,False,"['development-process', 'productivity', 'self-improvement']",False
+"How can we remove business logic from the frontend for complex, highly interactive UI's? Should business logic always live exclusively on the backend?",442935,MSOACC,217506,925,2022-12-20 09:58:28,2,123,1,1,False,False,"['domain-driven-design', 'front-end', 'coupling', 'backend']",False
+Looking for arguments: who decides about network connection technology: customer or supplier,442934,Dominique,250257,1699,2022-12-20 09:56:55,-3,87,1,2,True,True,"['networking', 'client-relations']",False
+Python Typechecking versus TypedDicts?,442918,a.t.,319460,215,2022-12-19 13:29:57,1,88,0,1,True,False,"['design-patterns', 'python', 'functions', 'type-systems']",False
+What is the difference between trunk based development and gitflow?,442910,RoboShop,3214,2740,2022-12-19 12:19:59,2,281,3,1,False,False,"['git', 'gitflow']",False
+Can it be acceptable to construct SQL queries dynamically?,442907,Thomas,424590,185,2022-12-19 11:43:05,15,7000,9,2,False,True,"['c#', 'sql', 'mysql']",False
+"What is the terminology for ""two or more different ways to represent the same data?""",442898,Anthony Kong,15257,371,2022-12-18 13:59:39,2,211,4,1,True,True,['concepts'],False
+API for a statefull AI server,442892,Karol Borkowski,419212,127,2022-12-17 15:12:52,0,86,1,1,True,False,"['api', 'server', 'artificial-intelligence', 'machine-learning']",False
+Sharing a data class in a flow,442884,tqw,285288,131,2022-12-16 22:13:26,2,88,2,0,True,True,"['design', 'design-patterns', 'object-oriented-design']",False
+Explain forbidden inheritance across the domain dimensions of representation/implementation vs semantics,442878,kosa,412021,159,2022-12-16 16:23:53,2,165,2,3,True,True,"['object-oriented', 'inheritance']",False
+How should factored-out code be tested as part of the TDD refactoring step?,442852,Rob Gilton,215138,241,2022-12-15 12:44:38,13,2000,4,5,True,False,"['refactoring', 'tdd']",False
+"Is it better to iterate over data once and do multiple complex operations, or to iterate multiple times with simpler operations?",442849,L'Animal Fou,424423,59,2022-12-15 11:32:52,5,309,4,6,True,False,"['python', 'optimization']",False
+C# Source Generator : which way to go for a simple GitHub Community Project,442847,Lionel du Peloux,424264,37,2022-12-15 09:53:28,1,177,1,2,False,False,"['c#', 'github', 'code-generation', 'msbuild']",False
+Is this really loosely coupled?,442845,Optimus,424421,111,2022-12-15 08:52:15,1,228,3,1,False,False,"['c#', 'object-oriented']",False
+Converting Dynamic Typing To Static Programatically,442839,exxjob,422890,39,2022-12-15 00:08:17,3,390,5,5,True,False,"['type-systems', 'dynamic-typing', 'static-typing', 'duck-typing', 'type-theory']",False
+How do you go from specification to implementation in a systematic way?,442838,Violet Giraffe,29016,274,2022-12-14 23:44:38,2,230,3,3,True,False,['programming-practices'],False
+Should SPA talk to auth server directly or resource server?,442834,TruckDriver,424395,109,2022-12-14 19:01:24,0,75,1,2,False,False,"['architecture', 'oauth2', 'single-page-apps']",False
+Best Practice - Avoid naming class and field the same?,442830,bubbletea,424381,347,2022-12-14 15:43:05,23,5000,5,10,True,False,"['naming', 'class-design', 'naming-standards']",False
+How to improve the Mediator algorithm when new widgets are added?,442827,Leili Vazietan,424373,11,2022-12-14 14:17:30,0,49,0,0,False,False,"['design', 'design-patterns', 'programming-practices', 'programming-languages', 'patterns-and-practices']",False
+Is inheriting from a non-abstract class bad OOP?,442823,Eoin,362532,309,2022-12-14 09:17:33,8,499,4,3,False,True,['object-oriented'],False
+How much logic can the infrastructure level hold in Clean Architecture,442819,lemerek759,424327,29,2022-12-13 22:04:13,2,139,1,2,False,False,"['design', 'clean-architecture']",False
+What's a good way to represent CRUD urls that require a parent id to work?,442818,Joshua Frank,59124,599,2022-12-13 21:30:11,0,56,0,0,True,False,['url'],False
+Should we process data in the transmitter class or in the receiver class?,442812,Tesla123,424315,139,2022-12-13 16:31:45,3,82,1,0,False,False,['design'],False
+How to avoid code duplication when else and except are the same?,442809,Jann Poppinga,380498,159,2022-12-13 13:17:53,3,451,4,1,False,True,"['python', 'exceptions']",False
+"Cron job to read multiple ""entities"" from the database",442802,Manuelarte,255453,103,2022-12-13 08:07:51,0,87,1,3,True,True,"['design', 'cron', 'golang']",False
+How do I guarantee ordered processing of occurring events in concurrent environment?,442798,svz,98079,317,2022-12-12 21:33:43,1,85,2,2,False,False,"['design', 'architecture', 'concurrency', 'synchronization', 'multiprocessing']",False
+Conditional mutex locking,442794,string_loginUsername,376456,101,2022-12-12 20:06:40,0,31,0,0,True,False,"['microservices', 'synchronization', 'asynchronous-programming', 'locks']",False
+"Does a monolithic ""main"" class make sense?",442792,Ignorant,261929,357,2022-12-12 18:31:16,0,153,1,4,True,False,"['architecture', 'language-agnostic']",False
+Best way to provide default objects from a simple class in C#,442788,Lionel du Peloux,424264,37,2022-12-12 14:29:41,1,197,3,0,False,False,"['c#', 'design-patterns', 'architecture']",False
+How to handle i18n on a microservice architecture project?,442782,Blastcore,56222,151,2022-12-11 22:20:42,1,169,1,1,True,True,"['python', 'microservices', 'internationalization']",False
+Accessing enemies' locations quickly in a 2D game,442777,MaLa,381604,320,2022-12-11 16:58:04,16,6000,6,6,False,True,"['design-patterns', 'performance']",False
+"Strategy for deploying code internally and externally with common code base, but different functionality",442773,arc_lupus,171541,131,2022-12-11 12:56:58,2,92,1,3,True,False,"['python', 'version-control', 'deployment']",False
+"What are some considerations when deciding to fix a bug, or rewrite the code in question?",442772,knart,424221,127,2022-12-11 12:08:32,1,266,5,4,False,False,"['refactoring', 'debugging', 'rewrite']",False
+Rendering large list with search functionality,442768,mihir jain,424211,19,2022-12-11 07:38:42,1,34,0,1,False,False,"['design', 'search', 'front-end', 'dom']",False
+Workflow suggestions: Editing on one computer while running on another?,442767,Ari Herman,424210,107,2022-12-11 05:19:25,-1,93,1,0,False,False,"['development-process', 'github', 'workflows', 'remote-desktop']",False
+How can I enable user data sovereignty in a B2B SaaS application?,442759,Dennis,424183,13,2022-12-10 09:10:43,1,91,2,10,False,True,"['security', 'application-design', 'software-as-a-service', 'strategy', 'privacy']",False
+How to maintain multiple release branches simulateously (git),442752,Travis Parks,79611,2485,2022-12-09 21:00:14,2,164,3,7,False,False,"['git', 'branching', 'release-management']",False
+Strategies to abstract away technical details when dealing with transactions,442749,caeus,195963,129,2022-12-09 19:48:02,1,70,2,4,False,False,"['abstraction', 'business-logic', 'transaction', 'scope', 'scope-creep']",False
+Haskell where clause: is it more than just a matter of taste?,442740,ceving,96131,381,2022-12-09 08:28:52,0,113,0,0,False,False,"['programming-languages', 'haskell', 'scheme', 'pascal']",False
+Optimised MongoDB design for access control at project/organisation level,442739,Shashank Agrawal,265823,111,2022-12-09 08:23:59,1,19,0,2,False,False,"['database-design', 'mongodb', 'access-control']",False
+Can I separate methods into different classes by passing in constructor properties from one class to another?,442736,Kevin Greetham,422708,93,2022-12-09 00:41:48,1,124,1,2,False,True,"['object-oriented', 'javascript', 'class', 'single-responsibility']",False
+DDD: Can application services throw domain errors?,442731,Gabriel Morishita,424127,23,2022-12-08 16:39:19,2,219,1,17,True,True,"['design-patterns', 'architecture', 'domain-driven-design', 'patterns-and-practices', 'domain-objects']",False
+How to develop data bound html with strong typing and intellisense?,442730,Joshua Frank,59124,599,2022-12-08 16:09:39,1,32,0,2,True,False,"['javascript', 'web-development', 'html', 'templates', 'intellisense']",False
+ASP.NET MVC use ViewModels with Services,442729,Sam,414073,37,2022-12-08 14:58:32,1,38,0,4,False,False,"['architecture', 'mvc', 'asp.net-mvc', 'layers']",False
+Best practices repository and service layer,442728,Alfons Deda,423391,31,2022-12-08 14:25:11,1,438,1,10,True,True,"['c#', 'domain-driven-design', 'cqrs', 'repository-pattern']",False
+"Model events according to service internal domain model, or a shared model?",442725,viblo,266886,101,2022-12-08 10:59:23,0,70,1,0,False,False,"['architecture', 'domain-driven-design', 'microservices', 'event-programming']",False
+Is it OK to commit code written by a large model such as ChatGPT or Github Copilot? [closed],442715,gaazkam,212639,3399,2022-12-07 22:40:26,-1,299,1,1,True,False,"['artificial-intelligence', 'tools']",True
+Confused about how to test Python scripts that install and configure a development setup on OSX (VMware? Docker-OSX?),442714,Andrew Cheong,51082,425,2022-12-07 19:20:44,3,70,0,6,True,False,"['python', 'testing', 'docker', 'virtualization', 'osx']",False
+Is this a good use of events?,442708,Puck,360488,45,2022-12-07 14:17:32,1,146,1,0,True,True,"['design', 'design-patterns', 'architecture', 'microservices', 'event']",False
+Triggers and network performance,442699,Sunil Gupta,424036,119,2022-12-06 19:12:08,1,104,3,0,False,False,['database-design'],False
+Term for type information from C Source Code,442693,Marco,131669,294,2022-12-06 14:22:00,4,264,2,3,True,False,"['c', 'naming', 'documentation']",False
+Haskell: Data Modeling an Internal App that Interfaces with a 3rd-Party Library?,442688,Acy,406468,111,2022-12-06 06:59:26,1,47,0,1,False,False,"['haskell', 'type-systems', 'data-types']",False
+What should my next SemVer version number be?,442681,Kyle Vassella,288601,111,2022-12-06 02:48:48,-2,163,2,2,True,True,"['web-development', 'front-end', 'semantic-versioning', 'devops', 'software-updates']",False
+Micro-Services: How to avoid repeated polling of the same event from Kafka,442680,User27854,423745,111,2022-12-06 00:43:41,1,46,0,1,True,False,"['microservices', 'apache-kafka']",False
+Is there a UML symbol representing instantiation? This one doesn't seem to be one,442668,JJJohn,339329,111,2022-12-05 12:25:14,0,116,2,1,False,True,"['object-oriented', 'object-oriented-design', 'uml']",False
+To decouple or not to decouple? That could be the question,442667,KDW,331862,154,2022-12-05 11:12:27,2,238,3,2,False,False,"['domain-driven-design', 'microservices']",False
+Plugin system for app with microservice architecture,442664,Mehran Prs,364374,121,2022-12-05 09:21:21,2,95,2,1,True,False,"['architecture', 'microservices', 'plugin-architecture']",False
+How to label backwards incompatible changes which change the API but don't add a feature?,442652,Clara,305816,53,2022-12-05 00:59:35,4,278,1,1,True,True,"['git', 'version-control', 'coding-standards']",False
+Should I have different instances of the same model in an application or just keep a single instance?,442648,Lucas,423927,149,2022-12-04 19:49:58,4,99,1,0,True,False,"['design-patterns', 'architecture', 'mvvm', 'model', 'swift-language']",False
+Is it good design to have a repository update multiple entities?,442643,user2190492,352709,331,2022-12-04 16:46:08,2,231,2,3,True,False,"['design', 'design-patterns', 'php', 'repository', 'laravel']",False
+Why can't a mutable interface/class inherit from an immutable one?,442640,GlenPeterson,62323,14800,2022-12-04 14:23:41,15,6000,6,5,True,False,"['object-oriented', 'inheritance', 'immutability']",False
+Crossbrowser testing FrontEnd apps in 2022,442637,Haim,423912,19,2022-12-04 09:46:39,1,59,2,6,True,False,"['javascript', 'css', 'front-end', 'cross-browser']",False
+Does my outer class adhere to the Single Responsibility Principle?,442632,Kevin Greetham,422708,93,2022-12-04 01:53:26,5,242,4,2,False,False,"['object-oriented', 'javascript', 'mvc', 'solid', 'single-responsibility']",False
+Is it a good idea to design a database based on the API response data types?,442626,Invalid Name,Invalid ID,Invalid Rep,2022-12-03 20:53:23,2,93,2,1,False,False,"['mysql', 'database-design', 'api-design']",False
+How to avoid class-proliferation when creating a unit-testable system?,442620,Pablo,423890,29,2022-12-03 14:02:00,2,144,1,5,True,False,"['c++', 'unit-testing', 'tdd', 'test-automation']",False
+"SQL - store ""like"" counts as separate column or infer from a query?",442606,Leftover Salad,382678,153,2022-12-02 20:40:30,1,60,1,3,True,False,"['database-design', 'sql', 'postgres']",False
+Best way to type-differentiate a Point and Vector?,442604,SRSR333,362678,315,2022-12-02 17:19:52,1,174,1,2,False,False,"['c++', 'type-systems', 'graphics']",False
+onion architecture - calling external APIs,442602,dot,78102,491,2022-12-02 16:59:53,1,158,1,10,True,True,"['c#', 'architecture', 'object-oriented', 'web-api', 'onion-architecture']",False
+What is the most efficient way to continue developing a piece of software in the long-term?,442594,simonp2207,423847,521,2022-12-02 14:37:28,41,6000,11,0,False,False,"['development-process', 'code-quality', 'coding']",False
+How to provide test code for manual testing?,442591,LWChris,423842,129,2022-12-02 13:32:50,2,84,2,3,False,False,"['c#', 'testing', 'manual-testing']",False
+"Why is C# considered a statically-typed language, although it contains keywords such as `dynamic` and `var`?",442588,X Y,390741,311,2022-12-02 11:51:17,5,4000,5,2,False,True,"['c#', 'static-typing', 'dynamic']",False
+Use case diagram feedback; is this correct?,442583,Joe,423813,11,2022-12-02 03:33:57,0,73,2,0,True,True,"['uml', 'use-case']",False
+When implementing Branch For Release in Trunk Based Development how should version info be updated? [duplicate],442581,Thomas Brown,423809,21,2022-12-01 20:16:37,1,32,0,0,False,False,['git'],False
+How to port multiple measurements for multiple assets to MongoDB timeseries?,442573,tommy1213,423799,1,2022-12-01 16:11:03,0,13,0,1,False,False,"['mongodb', 'rust']",False
+What does it mean the fish objects on the architecture diagram? [closed],442571,J.J. Beam,325643,451,2022-12-01 15:34:14,0,68,1,3,True,True,"['enterprise-architecture', 'diagrams', 'data-flow-diagram']",True
+C# Duplicated usage of an if/else condition and a ternary operator. A good practice?,442569,Chams,423794,29,2022-12-01 13:04:16,2,205,3,2,False,False,"['c#', 'programming-practices', '.net', '.net-core', 'operators']",False
+How are parameters values passed into a MVC controller constructor?,442560,Jeb50,423771,101,2022-12-01 01:30:55,-1,364,1,0,True,True,"['c#', '.net', 'asp.net-mvc', 'constructors']",False
+"In Clean Architecture, how do we name UseCases that get more and more specific without the names becoming too long?",442559,MSOACC,217506,925,2022-12-01 01:20:27,1,92,1,4,True,True,"['use-case', 'clean-architecture', 'hexagonal-architecture']",False
+Modeling properties of related entities,442556,salparadise,154140,173,2022-11-30 17:37:52,1,83,1,0,False,True,"['database-design', 'api', 'modeling', 'iot']",False
+"How to structure an ERP system in a modular way, with module hierarchy and where do application layers stand in this?",442554,Emre Can Serteli,423747,121,2022-11-30 14:53:12,2,44,0,1,True,False,"['integration-tests', 'layers', 'modules', 'integration', 'erp']",False
+Microservice & Clients interaction : Best way to persist previous API state information in successive API calls,442551,addy,373960,1,2022-11-30 12:43:07,0,73,1,6,False,False,"['microservices', 'applications', 'client']",False
+Microservice architecture but with strong data consistency [closed],442550,JavaLearner,392324,139,2022-11-30 11:41:10,3,185,0,3,True,False,"['microservices', 'distributed-system', 'eventual-consistency']",True
+Typescript Clean Architecture: How to tackle use case that needs multiple repositories?,442548,z0mbieKale,360201,129,2022-11-30 09:49:21,1,89,0,4,False,False,"['clean-code', 'clean-architecture']",False
+physical simulation: design thoughts,442542,Meck3l,423725,21,2022-11-30 01:21:10,2,115,2,1,False,False,"['design', 'design-patterns', 'object-oriented', 'interfaces', 'simulation']",False
+How is double-spending technically prevented in traditional banking? [closed],442535,Dawid,418436,119,2022-11-29 17:45:00,0,133,3,0,False,True,"['database', 'database-design', 'relational-database', 'payment']",True
+Creating a new type as slice of strings in Rust?,442532,Daniel,291010,119,2022-11-29 15:37:09,1,84,1,10,False,False,"['object-oriented-design', 'go', 'rust']",False
+Why is that (all) database authentication is still done with usernames and passwords? [closed],442524,Swiffy,208431,93,2022-11-29 10:13:11,-4,95,1,7,False,False,['database'],True
+Is there any value for a repository to return an iterator rather than a list?,442521,Claudiu Creanga,144356,298,2022-11-29 09:22:52,1,171,3,4,False,True,['repository'],False
+Is it practical to cache multiple instances of variable API data (updates hourly for each instance) for N users?,442518,joepaji,423688,1,2022-11-29 06:10:23,-1,48,1,0,False,False,"['python', 'optimization', 'caching', 'flask']",False
+What's the proper response when I try to update an existing entity but with not found parent ID,442514,Leo von Barbarosa,350133,123,2022-11-28 21:48:22,2,173,2,2,False,True,"['rest', 'api', 'api-design', 'http-request', 'http-response']",False
+Can we use external parties as objects in a sequence diagram?,442508,Malinsha Vithanage,423668,31,2022-11-28 18:41:38,2,63,1,2,False,False,"['object-oriented-design', 'uml', 'sequence-diagram']",False
+"Does ""happy path to the left edge"" break Python conventions?",442507,lofidevops,11306,261,2022-11-28 16:54:47,1,174,1,17,True,False,"['python', 'coding-style', 'readability']",False
+"In DDD, must a Value Object turn into an Entity when some limited idenifiablity is required?",442504,Erik Hofer,242821,109,2022-11-28 16:27:19,0,72,1,2,True,False,"['design', 'domain-driven-design', 'entity', 'value-object']",False
+Liskov Substitution Principle Edge Case,442497,Shahbaz Khan,273302,19,2022-11-28 13:27:28,-1,157,2,4,False,True,"['object-oriented-design', 'solid', 'liskov-substitution', 'ooad']",False
+Using class attributes as globals in Python - is there a catch?,442495,Alias_Knagg,423549,111,2022-11-28 12:35:28,1,94,2,10,True,False,"['python', 'singleton', 'globals']",False
+Server-side Long Running Tasks,442480,Gr3at,387652,9,2022-11-27 14:39:00,0,165,1,0,False,False,"['architecture', 'microservices', 'architectural-patterns', 'service-workers']",False
+"Where to place ""Backend for Frontend"" logic in a DDD system",442477,DaDaDom,8608,101,2022-11-27 12:24:50,0,197,1,1,True,False,"['architecture', 'domain-driven-design', 'front-end']",False
+The dependence of the implementation of one class on the implementation of another class,442476,Alexey Ismagilov,412077,101,2022-11-27 11:02:36,0,71,1,6,True,False,"['architecture', 'design-principles']",False
+Attribute Driven Design,442472,Jared Schreiber,421743,47,2022-11-27 05:47:42,0,93,2,0,True,False,"['design', 'architecture', 'methodology']",False
+"What is the relationship between variance, generic interfaces, and input/output?",442469,Ramza,421200,41,2022-11-26 22:47:28,3,692,3,0,False,True,"['c#', 'interfaces', 'type-systems', 'generics']",False
+Path coverage and decomposition,442465,AlwaysLearning,216771,523,2022-11-26 17:15:27,0,57,1,3,True,False,['unit-testing'],False
+RESTful Batch Delete,442463,Geeson,423592,13,2022-11-26 16:06:29,0,144,4,1,False,True,"['rest', 'api', 'api-design']",False
+How do I make conditional queries within DDD logic,442458,Kostas Xagoraris,423531,11,2022-11-25 18:25:03,0,108,1,2,True,True,"['domain-driven-design', 'cqrs']",False
+Should I make a HotelList class?,442454,multigoodverse,99719,223,2022-11-25 15:16:25,-1,157,2,1,True,True,"['object-oriented', 'class']",False
+Generic Repositories with different IDbConnections,442453,Alfons Deda,423391,31,2022-11-25 15:04:26,0,243,1,1,False,False,"['c#', 'repository-pattern']",False
+Factory based on input type,442452,tim,423558,131,2022-11-25 14:41:07,2,69,0,2,False,False,['object-oriented'],False
+When code review becomes a formality what procedure can I take to amend it?,442450,Qiulang 邱朗,217053,3077,2022-11-25 13:58:41,1,459,5,1,True,False,"['development-process', 'teamwork', 'code-reviews']",False
+Is the BEM methodology in the large project used correctly,442448,Invalid Name,Invalid ID,Invalid Rep,2022-11-25 09:01:36,0,62,1,1,True,False,"['web-development', 'html', 'css']",False
+Can functional programming languages have deadlock conditions?,442439,Quantum Guy 123,423528,181,2022-11-24 18:57:48,7,273,1,0,True,True,"['functional-programming', 'multithreading', 'concurrency', 'immutability', 'mutable']",False
+Permissive vs Strict API,442437,Noel Yap,228019,181,2022-11-24 18:17:02,1,46,0,3,True,False,"['api-design', 'protobuf']",False
+Which paradigm(between OOP and Functional) should be chosen for a given task?,442432,Dennis,418839,19,2022-11-24 12:20:29,-2,126,1,5,True,False,"['object-oriented', 'functional-programming']",False
+Hosting/Imbedding Angular Application in ASP.NET MVC Application,442423,genichm,179687,134,2022-11-23 14:24:15,1,39,0,6,True,False,"['design', 'architecture', 'code-quality', 'clean-code']",False
+How to generate a status time duration matrix from Status event log?,442419,Vivek,423476,3,2022-11-23 11:12:18,0,32,1,2,False,True,"['algorithms', 'event-sourcing']",False
+Three layer architecture and using DTOs to transfer data between layers,442417,Alfons Deda,423391,31,2022-11-23 10:25:42,0,266,1,1,False,True,"['architectural-patterns', 'dto']",False
+Should I favor default interface methods over extension methods?,442413,bitbonk,11332,211,2022-11-23 07:01:32,4,487,1,5,True,True,"['c#', '.net', 'api-design']",False
+Should SSDP be considered as a go-to option for local network discovery in software development?,442407,Stathis91,423437,1,2022-11-22 19:00:28,0,102,1,3,True,False,"['c++', 'python', 'node.js', 'networking']",False
+How to pass the entity's domain to the repository layer - clean architecture and spring JPA,442397,Adri,385571,101,2022-11-22 14:49:36,0,150,0,2,False,False,"['spring', 'clean-architecture', 'jpa']",False
+How to store a fixed length array in a database,442393,RobbyG,423335,121,2022-11-22 12:55:37,10,4000,4,10,True,True,"['design', 'database-design', 'mysql']",False
+Should Repositories be Responsible for Saving Related Entities?,442392,Khaled Mohamed,423421,113,2022-11-22 12:15:58,1,124,2,0,False,True,['architecture'],False
+Should security and data validation be implemented within database or application?,442390,Hashir,423418,1,2022-11-22 11:54:47,0,74,3,3,False,False,"['database', 'api', 'security', 'orm']",False
+Subscribe to observable inside or outside of a foreach,442388,thomaux,423412,109,2022-11-22 11:05:38,0,166,0,2,False,False,"['state', 'loops', 'redux', 'angular']",False
+How is model reconstructed with event sourcing in CQRS principle?,442385,user2190492,352709,331,2022-11-21 20:50:04,1,64,1,0,True,False,"['data-structures', 'data', 'cqrs', 'event-sourcing']",False
+How is my class breaking encapsulation?,442379,Ayush Kumar,423367,1,2022-11-21 12:24:05,0,226,2,0,False,False,"['object-oriented', 'encapsulation']",False
+Giving multiple components access to a single database,442375,Sanath Kumar,423348,51,2022-11-21 07:31:45,4,582,4,1,False,True,"['design', 'design-patterns', 'api-design', 'microservices', 'distributed-computing']",False
+"Are there advantages to using an interface, rather than a class, for a Java application?",442371,Ray Toal,58602,1265,2022-11-20 20:50:52,8,404,4,3,True,False,"['java', 'coding-style', 'coding-standards', 'class', 'conventions']",False
+"If I have Object b of Class B inside Object a of Class A, which class should contain methods relating to manipulating data in Object b? [duplicate]",442370,RobbyG,423335,121,2022-11-20 20:47:45,1,34,0,2,False,False,"['design', 'object-oriented']",False
+How to show C++ concept relations in UML,442369,user877329,62851,385,2022-11-20 18:07:31,0,90,0,0,True,False,"['c++', 'uml']",False
+Where and if to declare Hash algorithm used,442357,yoad w,289217,101,2022-11-19 22:49:01,0,37,0,4,True,False,"['hashing', 'cryptography']",False
+Pattern for flexible promotions/badges [closed],442355,Snorlax,358918,127,2022-11-19 22:18:04,-1,59,1,0,False,True,"['design', 'design-patterns', 'rules-engine']",True
+What if a Repository needs to apply Business Logic to load an Aggregate?,442354,Mats,50591,163,2022-11-19 22:07:08,0,116,2,1,True,False,"['design', 'c#', 'aggregate', 'repository-pattern']",False
+What approach for this kind of drawing application in C#/WPF,442353,user2190492,352709,331,2022-11-19 18:41:08,0,113,0,6,False,False,"['c#', 'requirements', 'wpf', 'ui']",False
+CRC32C as hash for hashmap,442350,Niels,423293,9,2022-11-19 15:29:10,0,72,0,3,True,False,['hashtable'],False
+Where should I fetch a product price to create an order in CQRS / DDD?,442349,Aleksander Chelpski,410260,130,2022-11-19 14:45:56,1,98,1,4,False,False,"['c#', 'architecture', 'domain-driven-design', 'cqrs']",False
+Implementing authorization in API driven SPA app,442348,steve-robinson,83811,174,2022-11-19 14:44:34,1,16,0,1,False,False,"['api-design', 'authorization', 'rbac']",False
+Can a UUID be called a constant?,442344,Clara,305816,53,2022-11-19 01:19:15,0,222,2,0,False,True,"['naming', 'coding-standards', 'variables', 'naming-standards']",False
+How to have only one consumer handle a long running task at a given point?,442343,Yos,282823,165,2022-11-18 21:23:16,2,44,0,10,False,False,"['design', 'design-patterns', 'architectural-patterns', 'message-queue', 'queueing']",False
+"Is Microservices a means of implementing Clean Architecture through technological constraints, just way more expensive?",442339,nepa,288750,264,2022-11-18 20:21:50,0,124,3,7,False,False,"['architecture', 'microservices', 'clean-architecture']",False
+Should tags be introduced on commits still in Pull Request branches outside of main/master branch?,442334,Pedro Delfino,389411,129,2022-11-18 16:37:43,0,121,1,4,False,True,"['git', 'version-control', 'github', 'tagging']",False
+Can I split a feature branch and then merge it back to the origin master branch without any issues?,442333,rsn,422793,119,2022-11-18 16:26:26,0,191,2,0,False,False,"['git', 'branching']",False
+Should a LoggingHandler log?,442331,Jann Poppinga,380498,159,2022-11-18 12:58:55,1,96,1,2,False,False,"['python', 'logging']",False
+"How to map translated variable names for column names, so I can export them?",442327,Lube,421983,19,2022-11-18 10:05:00,1,39,0,2,False,False,"['design', 'c#', 'generic-programming']",False
+C# Best Practice DI Pattern?,442322,mxmissile,11977,103,2022-11-17 23:18:56,0,133,1,17,True,True,"['c#', 'design-patterns']",False
+Database schema advice : multiple tables with the shared columns in postgresql,442313,Leftover Salad,382678,153,2022-11-17 17:17:42,1,53,1,2,True,True,"['database-design', 'postgres']",False
+UML design for data analytics of aggregated Survey Data,442309,user3115933,423207,121,2022-11-17 13:46:33,1,59,1,4,False,True,"['python', 'uml', 'data', 'modeling', 'analytics']",False
+Seeding data into a new microservice,442307,Q-bertsuit,351450,193,2022-11-17 12:02:17,4,593,1,10,True,True,"['microservices', 'asp.net-core']",False
+Event Driven architecture - right way to build chain of events,442305,Ilya,348260,101,2022-11-17 07:53:06,0,72,0,0,False,False,"['architecture', 'event-programming']",False
+"What is the name, or design pattern, for something that calls a list of functions one by one?",442300,Thomas Eyde,262547,139,2022-11-16 23:39:58,2,263,3,1,True,True,"['design-patterns', 'naming']",False
+Is this a good example of what a service layer is in MVC?,442297,Kevin Greetham,422708,93,2022-11-16 23:16:57,0,155,1,6,True,True,"['object-oriented', 'javascript', 'mvc', 'service']",False
+Peer dependencies vs. (re-)exporting dependencies in abstract hierarchy (framework),442295,Remirror,422791,129,2022-11-16 18:37:07,1,26,0,0,True,False,"['frameworks', 'dependencies', 'typescript', 'npm']",False
+How to represent technical debt in agile development using azure devops?,442287,Mr. Boy,104623,231,2022-11-16 15:18:06,1,146,2,0,False,False,"['scrum', 'technical-debt', 'azure-devops']",False
+Efficient static race detection [closed],442285,Zur Luria,348473,113,2022-11-16 13:02:16,-2,82,1,3,True,False,['parallel-programming'],True
+Moving from CRUD to CQRS: how to identify appropriate command-event relationships?,442283,eggyal,90147,189,2022-11-16 11:01:34,2,123,1,1,False,False,['cqrs'],False
+How handle many files effectively?,442279,Andreas Zita,172850,103,2022-11-16 09:18:07,0,107,1,2,True,True,"['c#', '.net', 'file-systems']",False
+"The meaning of ""function blocks of limited size of coding"" in ISO 13849-1",442276,lightweight,423138,181,2022-11-16 08:21:40,7,2000,4,1,True,True,"['design', 'standards']",False
+Optimal way Implement a Session Cache,442274,Arun Lal,423125,11,2022-11-16 00:25:30,0,88,1,1,False,True,"['java', 'caching', 'session']",False
+Representing database tables as objects,442272,tntenigma,423123,19,2022-11-15 21:44:03,1,98,1,2,False,False,"['object-oriented', 'object-oriented-design', 'database-design', 'relational-database']",False
+Where should I create my aggregate root? in api or frontend?,442269,emhsmath,423090,21,2022-11-15 09:33:55,1,136,1,1,True,True,"['design-patterns', 'domain-driven-design', 'rest', 'aggregate']",False
+Making side effects explicit even in non-pure functions,442268,AndreaL,423087,119,2022-11-15 09:02:54,0,191,1,1,True,True,"['go', 'pure-function']",False
+"In Python, why are variables defined in a compound statement not local to the statement?",442266,AlwaysLearning,216771,523,2022-11-15 08:39:06,3,500,1,0,True,True,['python'],False
+How can I achieve polymorphism if MVC logic is on the controller?,442257,Kevin Greetham,422708,93,2022-11-14 19:32:11,0,161,2,3,True,True,"['javascript', 'mvc']",False
+Keeping version parity between platforms,442252,Isuru,42665,391,2022-11-14 14:44:20,5,151,1,5,True,True,"['android', 'ios', 'versioning', 'mobile', 'semantic-versioning']",False
+UML State Machine Diagram - How to model an event that occours repeatedly,442250,mell_o_tron,422370,123,2022-11-14 11:19:28,2,149,1,6,True,True,"['uml', 'modeling', 'finite-state-machine']",False
+Proof of Concept and Use Case Scope,442249,Jacques,120435,143,2022-11-14 08:58:34,1,96,1,2,False,True,['prototyping'],False
+How to decide what view to show if I use polymorphism in the Model?,442246,Kevin Greetham,422708,93,2022-11-14 01:11:52,0,79,1,1,False,True,"['mvc', 'polymorphism']",False
+Microservice Architecture For Blog Posts With Media Content,442235,ryanwaite28,423017,101,2022-11-13 07:21:41,0,58,0,5,True,False,"['architecture', 'microservices', 'architectural-patterns']",False
+Reference variable vs Alias,442231,tweekz,419128,49,2022-11-12 15:30:52,2,216,2,3,True,False,"['pointers', 'reference']",False
+How inter-process communication is handled on .NET Core?,442230,youssef jirari,419742,1,2022-11-12 12:23:18,0,207,0,2,False,False,"['.net', 'http', 'sockets', 'process', 'grpc']",False
+HTTP error 404 or 500 from an internal call to a separate API?,442226,Hazzinator,422982,13,2022-11-11 23:54:54,1,51,1,10,True,True,"['api-design', 'error-handling', 'http-response']",False
+Low maintenance approach to handling versioning and git,442220,Glanking,339453,97,2022-11-11 21:01:15,1,130,2,0,False,False,"['git', 'versioning']",False
+What's a suitable pattern for handling multiple versions of PDF layouts?,442217,monkeySeeMonkeyDo,204196,131,2022-11-11 16:13:20,1,50,0,3,False,False,"['design', '.net', 'vb.net', 'pdf']",False
+Double get child data from database?,442216,karenkey,422971,1,2022-11-11 16:05:39,0,27,0,2,False,False,['design'],False
+Pattern to convert different types of similar unchangeable objects to the same object,442207,Kee,395751,23,2022-11-10 16:33:39,1,104,1,0,True,True,"['java', 'design-patterns', 'object-oriented', 'object-oriented-design']",False
+Optimizing the runtime of greedy scheduling for parallel computing,442203,Zur Luria,348473,113,2022-11-10 13:51:01,0,74,0,0,False,False,['parallel-programming'],False
+DDD for team composition,442200,edu,422907,119,2022-11-10 12:19:40,0,189,2,1,False,True,"['domain-driven-design', 'domain-model', 'team', 'team-building']",False
+"How to engineer a ""message read/message not read"" fucntionality like the tchat apps or forums ones?",442199,coderpolo,422900,3,2022-11-10 10:27:49,-3,87,1,3,True,True,"['microservices', 'messaging', 'vue.js']",False
+"Connotation difference between ""subscribers"" and ""observers""",442193,Alexander Mills,101210,267,2022-11-10 02:32:37,5,1000,3,2,False,True,"['observer-pattern', 'reactive']",False
+Git - nest an optional repository inside a repository,442191,Jivlain,2199,373,2022-11-09 20:48:14,0,70,0,0,True,False,"['git', 'project-structure', 'submodules']",False
+How to handle root paths in a custom package?,442180,Corram,422833,103,2022-11-09 11:28:29,0,59,1,4,True,True,"['python', 'class-design', 'configuration', 'configuration-management', 'globals']",False
+How to E2E test handling of an unknown error in a client-server application?,442178,Spenhouet,422824,109,2022-11-09 09:01:47,0,122,1,0,False,False,"['testing', 'error-handling']",False
+Is this a good use of monkey patching?,442172,Dave,168980,262,2022-11-08 20:42:52,3,407,3,1,True,False,"['python', 'microservices', 'monkey-patch']",False
+Using helper libraries to improve readability and conciseness of code vs adhering to native functions,442167,elios264,116511,167,2022-11-08 19:11:33,-1,92,1,6,False,False,"['clean-code', 'third-party-libraries']",False
+Django URL pattern style advice,442166,iman,422786,11,2022-11-08 18:46:32,1,17,0,3,True,False,"['api', 'api-design', 'django']",False
+Multiple models/controllers python app,442165,Eideann,422800,23,2022-11-08 18:45:25,1,109,1,4,False,True,"['design-patterns', 'python', 'mvc', 'model']",False
+Should I duplicate or inherit a python dataclass which changes attributes based on the version of an API endpoint?,442160,rsn,422793,119,2022-11-08 16:51:41,1,160,2,1,False,False,"['class-design', 'python-3.x', 'data-modeling']",False
+Python - Where do I store data classes which are common across different files?,442159,rsn,422793,119,2022-11-08 16:08:58,0,52,0,0,False,False,"['python-3.x', 'data-modeling']",False
+What to use in B's configuration: A or A's configuration?,442158,Remirror,422791,129,2022-11-08 15:49:50,1,105,1,10,False,False,"['object-oriented-design', 'dependencies', 'typescript']",False
+Deployment diagram condradictions,442155,I try so hard but I cry harder,422785,111,2022-11-08 13:49:50,0,73,1,7,False,True,['uml'],False
+Memory on multiple cores versus 1 core,442151,Andy,422780,19,2022-11-08 10:56:02,1,196,3,4,False,False,"['memory', 'cpu', 'matrix']",False
+Should small entities such as Country/Regions and University Studies be considered microservices?,442149,DonBege,422776,9,2022-11-08 08:40:25,-1,107,1,0,False,True,['microservices'],False
+"Types with same name, same concept, but different... runtime uses?",442144,Rob N,156216,131,2022-11-08 04:50:57,2,235,2,2,False,True,"['object-oriented-design', 'data-types']",False
+Whose job actually is to process data in the database to become something like a chart in frontend?,442142,Alif Irhas,422767,31,2022-11-08 04:26:22,2,157,2,2,False,True,"['data', 'front-end', 'backend', 'task']",False
+Is non-contiguous protobuf field numbering an anti-pattern?,442141,Bohemian,31101,1896,2022-11-08 02:10:46,0,54,0,17,True,False,"['coding-standards', 'protobuf']",False
+How to efficiently retry/reprocess errors on a multi-actions service?,442140,Thiago Dias,272737,393,2022-11-08 01:26:31,0,49,0,2,True,False,"['error-handling', 'typescript', 'queue', 'idempotency']",False
+How to avoid duplicate code when working with SOAP proxy classes in different environments?,442134,LazarQt,422733,1,2022-11-07 10:19:06,0,84,0,4,False,False,"['c#', '.net', 'development-environment', 'soap', 'proxy']",False
+How to solve duplicate request with Distributed Lock Management in Golang,442130,Abyan Juang Kecci,421778,11,2022-11-07 06:24:27,1,57,0,10,True,False,['golang'],False
+"What is the safest way to deploy a lot of changes at once to a legacy, monolithic application with no test coverage?",442126,Liam Mayfair,369945,149,2022-11-07 01:06:38,4,245,2,0,False,False,"['deployment', 'legacy']",False
+Forgetting about the utils [closed],442123,JoshThunar,271843,217,2022-11-06 22:32:04,3,132,0,1,True,False,"['programming-practices', 'coding-style', 'utilities']",True
+Why does Rust allow a leading `|` in or patterns?,442121,Calogyne,422706,43,2022-11-06 18:35:32,3,232,1,6,True,True,"['language-design', 'rust']",False
+Does subclassing int to forbid negative integers break Liskov Substitution Principle?,442109,swoutch,422677,321,2022-11-06 10:22:20,21,6000,6,0,True,True,"['python', 'object-oriented-design', 'inheritance', 'python-3.x', 'liskov-substitution']",False
+Angular standalone components architecture,442107,Andres2142,315151,109,2022-11-05 18:37:30,0,82,0,0,False,False,"['clean-architecture', 'angular']",False
+CQRS in a data heavy application involving a lot of CRUD,442092,David,188362,163,2022-11-04 17:12:59,3,309,3,3,True,False,"['design-patterns', 'architecture', 'cqrs']",False
+What design pattern / solution helps me elegantly map classes that share the same base class,442086,Joep Geevers,389801,149,2022-11-04 13:14:52,0,259,1,1,False,True,"['c#', 'design-patterns']",False
+"We are aware of Service Discovery- is ""Object"" Discovery a thing?",442082,jmcgrory,422627,109,2022-11-04 10:47:02,0,60,0,2,True,False,"['design', 'microservices', 'service-locator']",False
+Using global dictionary for settings: good or bad convention,442080,Matt,397232,29,2022-11-04 09:39:40,0,260,1,1,True,True,['python'],False
+Proving program correctness under all possible cases,442076,Dennis,418839,19,2022-11-04 07:46:22,0,222,3,1,False,False,"['design', 'programming-practices', 'generic-programming']",False
+Inter Communication for applications in local network architecture,442075,Desmnd,422619,97,2022-11-04 07:00:22,-2,42,1,2,False,False,['architecture'],False
+Why is recompilation of dependent code considered bad design?,442074,User 10482,390959,119,2022-11-04 01:15:35,0,878,3,1,True,True,"['design', 'c++']",False
+Does it make sense to create seperate data application layers that interact in asp.net mvc?,442071,Miles,416174,1,2022-11-03 21:20:43,0,32,1,1,True,False,"['mvc', 'layers']",False
+Mapping complex data/arrays to a standard format (normalizing data),442070,oliverbj,330343,85,2022-11-03 20:52:16,0,33,0,0,True,False,"['php', 'laravel']",False
+Releasing untested features using git flow,442065,Musterknabe,422582,139,2022-11-03 13:54:30,3,213,4,3,True,False,"['git', 'release-management']",False
+Reuse same code for validation and runtime integrity checks?,442062,donquixote,113434,857,2022-11-03 12:35:50,0,81,1,5,True,True,"['exceptions', 'validation', 'reporting']",False
+Mapping between Entity and ViewModel,442056,Sam,414073,37,2022-11-02 20:38:25,1,337,1,6,True,False,"['architecture', 'asp.net-mvc', 'entity-framework']",False
+Authorization Code Flow or Client Credential Flow for One-Time Mail Configuration,442055,David Anderson,25240,1219,2022-11-02 19:15:12,0,42,0,2,False,False,"['design', 'security', 'oauth', 'office365', 'smtp-auth']",False
+Why are async/await allowed inside the domain model of DDD?,442050,geeko,25855,223,2022-11-02 14:05:30,1,480,4,1,False,False,"['domain-driven-design', 'domain-model', 'separation-of-concerns']",False
+Models as data containers in MVVM,442048,Alex F.,422529,1,2022-11-02 13:28:19,0,35,0,5,True,False,"['mvvm', 'model', 'data-access']",False
+Designing Aggregate Roots with Logic Spanning over Roots,442047,BuddhiP,100724,193,2022-11-02 13:18:09,0,44,0,3,True,False,"['domain-driven-design', 'aggregate', 'eventual-consistency']",False
+Best practice ASP.NET MVC share code with Web API,442046,Sam,414073,37,2022-11-02 12:54:15,0,152,1,2,False,False,"['c#', 'architecture', 'asp.net-mvc', 'asp.net-mvc-web-api']",False
+WebApp: How and where to handle an expired authorization with 'back to login',442040,DarkTrick,345246,217,2022-11-02 05:14:07,0,45,0,10,True,False,"['architecture', 'authentication']",False
+"What's the right data structure to combine iteration of key-value pairs, and iteration of values",442038,sbhatla,256350,157,2022-11-02 00:52:54,-3,175,1,0,False,False,"['java', 'object-oriented-design', 'data-structures']",False
+REST Route best practices for creating resources,442037,Snuh,387692,13,2022-11-02 00:51:24,1,82,4,3,False,True,"['rest', 'api-design']",False
+Good class design: dependency vs duplication? [closed],442033,Mote,422485,9,2022-11-01 19:59:00,0,138,1,2,False,False,"['design', 'class', 'dependencies']",True
+When to use an array of objects or an object of objects in MongoDB Design?,442032,Askar,422166,13,2022-11-01 19:14:09,1,403,2,0,True,True,"['database-design', 'mongodb']",False
+Is it OK to return different DTOs for the same endpoint when the user is logged in vs when it is anonymous?,442029,tonicebrian,90220,403,2022-11-01 18:41:57,1,258,2,0,False,True,"['rest', 'dto', 'openapi']",False
+Where/how does the conversion of entity objects to data transfer objects take place in Clean Architecture?,442026,Cit,422308,21,2022-11-01 13:44:47,0,81,0,1,False,False,"['database', 'clean-architecture', 'repository-pattern']",False
+Pulling a service out from a modular monolith,442023,Q-bertsuit,351450,193,2022-11-01 09:58:16,2,178,1,3,True,True,"['architecture', 'asp.net-core', 'modularization']",False
+Best software architecture approach for a single core system,442020,uss,116416,141,2022-11-01 04:58:02,0,123,1,2,False,False,"['design', 'c++', 'performance', 'software', 'linux-development']",False
+What should you unit test in (external) service driven architecture?,442017,OverflowStack,363631,131,2022-10-31 23:24:32,0,129,1,0,True,False,"['c#', 'unit-testing', 'testing']",False
+Benefit of using Dependency Injection inside ASP.NET Core MVC,442016,test test,62836,1,2022-10-31 22:58:57,2,72,1,4,True,False,"['mvc', 'dependency-injection', 'asp.net-core']",False
+C++ behavior as a template argument,442011,JD.,343389,141,2022-10-31 14:16:32,3,121,1,0,False,True,"['design-patterns', 'c++', 'templates']",False
+"Return type specification if a Python function output type, is dependent on the input arguments of that function?",442007,a.t.,319460,215,2022-10-31 11:39:33,1,376,1,1,True,True,"['design-patterns', 'python', 'static-typing']",False
+OAuth Client Credentials Security Concern,442005,diegosasw,200302,349,2022-10-31 09:55:06,0,66,2,6,False,False,"['authentication', 'oauth2', 'tokens']",False
+Symbolic constants versus variables,442001,CoderDesu,405202,985,2022-10-31 08:06:22,0,152,2,3,True,True,"['c', 'variables', 'local-variable', 'symbolic-constants']",False
+"Method naming conventions ""setX"" vs ""withX""",441994,Ezequiel Castaño,421243,151,2022-10-30 23:57:23,2,224,3,4,False,True,"['python', 'setters', 'spark']",False
+Internal/external commands in CQRS,441993,Andrew Dunai,422317,101,2022-10-30 23:48:50,0,83,1,1,False,False,"['domain-driven-design', 'domain-model', 'cqrs', 'messaging', 'eventual-consistency']",False
+"What does ""de-MFC'ifying""a GUI app consist of? [closed]",441991,einpoklum,63497,2461,2022-10-30 21:12:40,-1,165,1,0,False,False,"['c++', 'linux', 'cross-platform', 'porting', 'mfc']",True
+Avoiding forward declaration and circular reference in C++,441989,Janilson,305533,111,2022-10-30 19:16:31,0,138,0,10,False,False,"['object-oriented', 'c++', 'object-oriented-design']",False
+Best practice/design pattern for working with a config file,441985,Ryan Folks,419265,13,2022-10-30 16:14:19,1,92,1,7,False,False,"['design-patterns', 'json']",False
+Parse 8 bytes to date time,441983,rosi97,361593,135,2022-10-30 15:28:26,1,329,3,4,False,True,"['c++', 'parsing', 'date-format', 'hexadecimal']",False
+I've a doubt regarding Environment Model of execution,441979,Dennis,418839,19,2022-10-30 05:46:17,0,78,2,0,False,False,"['programming-practices', 'programming-languages', 'generic-programming']",False
+Android Jetpack DataStore item separation,441975,TheLibrarian,261872,111,2022-10-29 22:19:19,1,43,0,2,False,False,"['android', 'kotlin']",False
+Object Diagram help [closed],441972,kmvfkmfv,422386,17,2022-10-29 20:52:38,-1,70,1,2,False,False,"['design', 'uml', 'class-diagram', 'diagrams']",True
+When unit-testing should common methods put in static class or in base class?,441971,theateist,410320,101,2022-10-29 20:35:33,0,231,1,17,True,False,"['c#', 'unit-testing']",False
+"Is there a design reason why Git commits only store pointers to their parents, not children?",441962,Lou,127164,336,2022-10-29 10:49:25,0,302,3,2,True,False,"['design', 'git']",False
+Python: Is returning self in method chaining a violation of Demeter's law?,441956,Ezequiel Castaño,421243,151,2022-10-29 04:16:45,1,327,3,4,False,True,"['python', 'spark', 'law-of-demeter']",False
+What's the difference between business modeling and requirement in RUP?,441946,Jackoo,419121,19,2022-10-28 10:14:10,1,84,2,10,True,False,['rational-unified-process'],False
+Handling asynchronous domain events with multiple handlers & allowing them to fail independently,441943,Andrew Dunai,422317,101,2022-10-28 08:04:00,0,175,1,0,False,False,"['domain-driven-design', 'domain-model', 'cqrs', 'eventual-consistency']",False
+Do usecase-class work with domain-model or data-model at cleanarchitecture?,441939,Cit,422308,21,2022-10-28 06:18:51,-1,86,1,1,True,False,"['domain-model', 'use-case', 'clean-architecture', 'dto']",False
+How to handle multi-region writes for a joint user registration?,441937,mockitodorito,422316,1,2022-10-27 23:17:30,0,40,0,6,True,False,"['database-design', 'relational-database', 'asynchronous-programming', 'distributed-system', 'data-replication']",False
+Is there a canonical way to format 'usage' output for a cli script?,441932,Yirmi,422305,121,2022-10-27 18:14:45,1,147,2,0,True,True,"['python', 'cli']",False
+Designing long running background jobs that are part of domain language,441927,Patrick Christie,418672,77,2022-10-27 14:28:05,0,78,0,0,False,False,"['architecture', 'domain-driven-design', 'abstraction']",False
+"Dependency Injection with multiple, dynamically created objects",441923,PieterV,422276,185,2022-10-27 12:39:15,3,533,4,3,True,False,['dependency-injection'],False
+"Is there a common term for a fixed-length, fifo, ""push through"" array or list?",441918,Fattie,19385,427,2022-10-27 11:17:27,12,3000,2,1,False,False,"['data-structures', 'terminology']",False
+Authorization using Azure AD B2C access tokens in Python / Flask,441916,linus,422281,119,2022-10-27 10:40:57,1,269,0,2,True,False,"['python', 'authentication', 'authorization', 'azure', 'flask']",False
+How to think about system design questions methodically?,441901,Jeremy Fisher,150140,151,2022-10-26 18:23:46,4,345,3,1,True,True,"['design', 'distributed-system']",False
+"Process many types of work in parallel, but sequential for each type of work",441900,tm1701,422260,99,2022-10-26 16:42:06,3,241,2,1,False,True,"['design', 'design-patterns', 'enterprise-architecture', 'integration']",False
+Best practice for storing a static pdf file in a web app,441894,Accollativo,182520,459,2022-10-26 15:34:51,0,169,2,2,False,False,"['spring-boot', 'static', 'files', 'angular']",False
+Is there a non-deterministic function without side effects?,441891,Helin Wang,422254,271,2022-10-26 15:03:13,16,5000,5,1,True,True,"['functional-programming', 'side-effect', 'pure-function']",False
+Microservices shouldn't run in a big machine?,441890,Matheus Cirillo,323704,173,2022-10-26 14:48:59,2,206,1,1,True,True,"['architecture', 'microservices']",False
+"Is it bad practice to require nested JSON data, on my API endpoints?",441889,robustillusive,374048,51,2022-10-26 13:51:02,1,322,1,0,True,False,"['api', 'api-design']",False
+Why are vertical and horizontal spacing heavily used in coding styles?,441871,Nobody-Knows-I-am-a-Dog,422217,165,2022-10-25 18:06:50,4,499,5,3,True,False,"['coding-style', 'coding-standards']",False
+Is it okay to open separate database connections in each method or is there a better way to do it?,441868,BeeFriedman,402502,335,2022-10-25 17:31:17,0,272,2,5,True,True,"['c#', 'database', 'sql']",False
+Where to send the email to notify an error in a worker?,441865,Álvaro García,412921,287,2022-10-25 16:16:53,1,84,2,6,True,True,['c#'],False
+"C# coding style, functional approach",441863,Cowborg,422200,119,2022-10-25 12:12:34,1,244,2,2,False,False,"['c#', 'object-oriented-design', 'coding-style', 'functional-programming']",False
+Regrouping several application files into one,441860,f222,351985,1020,2022-10-25 10:28:45,1,68,1,1,False,True,"['standards', 'file-handling']",False
+DDD rich domain model - dynamic dependencies - EAA,441856,pepsi-maniac,401327,41,2022-10-25 02:44:06,1,149,2,5,True,True,"['architecture', 'domain-driven-design', 'architectural-patterns', 'domain-model']",False
+How to estimate scaling up costs/resources-needed of a project? [closed],441853,GoodMan,422014,109,2022-10-24 21:34:09,0,66,1,3,True,False,"['web-development', 'mobile', 'estimation', 'pricing', 'large-scale-project']",True
+"Looking for a sanity check, do you alphabetize your code? Is that even a thing? [closed]",441838,Gail,422147,127,2022-10-24 12:27:40,1,263,4,2,False,False,"['clean-code', 'conventions', 'coding']",True
+How to automatically calculate the norm for users in our time registration application?,441837,Allart,400897,99,2022-10-24 11:56:48,-1,90,1,10,True,False,"['design', 'architecture', 'requirements', 'architectural-patterns']",False
+How to measure progress on a replatforming project?,441835,HSLM,374415,107,2022-10-24 11:49:33,-1,64,1,0,False,False,"['architecture', 'microservices', 'project-management']",False
+Database many to many insert pattern,441834,cluelessatthis,375048,109,2022-10-24 11:48:55,0,72,2,3,False,False,"['database', 'database-design']",False
+Applying Domain Driven Design to applications with both reading and writing heavy logics,441832,Andrew,422141,1,2022-10-24 10:04:35,0,71,1,2,False,False,"['domain-driven-design', 'architectural-patterns', 'cqrs']",False
+Software development in Python: unittests and assertions,441825,JrCaspian,422113,117,2022-10-23 15:13:00,-1,120,1,0,True,True,"['python', 'unit-testing', 'software', 'assertions']",False
+Clean Architecture : Application State,441823,hamid,422104,9,2022-10-23 06:25:58,0,188,1,0,False,False,"['design', 'architecture', 'domain-driven-design']",False
+Event sourcing authentication remeber_me token best practices,441822,pepsi-maniac,401327,41,2022-10-23 00:02:11,0,41,0,1,False,False,['event-sourcing'],False
+Initialize minimum value to INT_MAX or to first scanf call,441820,Nicholas Ficara,414694,59,2022-10-22 18:36:20,2,198,6,3,True,True,['c'],False
+Microservice optimized data sharing between services,441815,Viktor Baert,310807,161,2022-10-22 11:30:17,0,82,1,2,False,True,"['database', 'microservices']",False
+System design to present live query results over realtime data,441808,geofflittle,105453,157,2022-10-21 23:24:57,-2,46,1,0,True,False,"['design', 'sql', 'real-time', 'reactive', 'logic-programming']",False
+How to design my API that interacts with a third party API and persists to a database,441807,juyebgastro,422067,17,2022-10-21 22:37:38,0,120,1,4,True,False,"['java', 'api-design', 'backend', 'spring-boot']",False
+What would be the reason for using asynchronous programming on a web server?,441804,Nikster2014,422063,157,2022-10-21 18:53:59,4,220,1,0,False,False,"['javascript', 'node.js']",False
+Help implementing call to external API and store summary in my database in hexagonal architecture with DDD,441801,TheEmpire12,366413,9,2022-10-21 15:51:45,0,339,2,1,True,False,"['domain-driven-design', 'clean-architecture', 'hexagonal-architecture']",False
+"If I want to add 'period' in the database (one month), and would like to make calculations with the first day of the period. What would I have to do? [closed]",441798,businessanalyst-junior-,421632,65,2022-10-21 13:29:57,2,61,2,6,False,False,"['database', 'data', 'data-types']",True
+Is DynamoDB optimistic locking with one version attribute for each field in an item a valid design pattern?,441795,fblundun,422043,111,2022-10-21 09:39:49,1,104,1,3,True,False,"['database-design', 'concurrency', 'nosql', 'aws']",False
+Async scraper in Python,441810,Pavlin,422077,159,2022-10-21 09:18:46,2,165,2,4,False,True,"['python', 'web-scraping']",False
+How to handle Authorized & Non-Authorized Routes in Microservices with Tokens,441791,Gianluca Fuoco,422028,11,2022-10-21 05:39:57,1,68,0,1,False,False,"['design', 'design-patterns', 'api-design', 'microservices', 'jwt']",False
+Need a deeper understanding of how a Virtual DOM is different from a real DOM,441788,devdevdove,421796,147,2022-10-20 18:55:41,4,190,1,0,False,False,"['front-end', 'reactjs', 'browser', 'dom']",False
+Does it make sense to put all related records in one source file,441779,Qben,95182,141,2022-10-20 13:53:14,3,333,3,10,False,True,"['c#', 'architecture']",False
+How to make a mobile (flutter) app that also works in VR (unity),441775,DevGuru,422001,11,2022-10-20 12:19:03,0,46,2,7,False,False,"['cross-platform', 'ui', 'multi-platform']",False
+Folder and Project Structure in MVVM for WPF Solution,441771,Tiran,421992,3,2022-10-20 10:47:21,0,511,1,4,False,True,"['mvvm', 'wpf', 'file-structure', 'directory-structure']",False
+How do I design a drawing program with the separation of concerns?,441768,abenci,236437,207,2022-10-20 09:04:06,2,193,3,0,False,True,['architecture'],False
+How to merge a lot of smaller tables with single-column differences into a one bigger table?,441762,Lube,421983,19,2022-10-20 07:29:32,-1,43,1,2,False,True,"['database', 'database-design']",False
+"Why do the arguments in PHP's array_udiff() comparison function not always stay ""in order""?",441753,WackGet,421967,109,2022-10-19 23:57:00,0,67,1,2,False,True,['php'],False
+Separating network logic from business logic,441751,Simone Brigante,412927,19,2022-10-19 22:05:41,1,77,3,17,True,False,"['object-oriented', 'clean-code', 'architectural-patterns', 'patterns-and-practices']",False
+How to update many properties in DDD?,441745,Álvaro García,412921,287,2022-10-19 18:43:59,0,252,1,2,True,False,['domain-driven-design'],False
+Authentication for an app that only has one user,441742,bonum_cete,127589,111,2022-10-19 17:35:10,0,159,5,4,False,False,['authentication'],False
+Difference between outcome of using mutex/spinlock/semaphore in this deadlock situation?,441741,Lilian Shi,421951,11,2022-10-19 17:16:17,0,53,1,10,True,False,"['multithreading', 'parallel-programming', 'mutex', 'semaphore']",False
+How to model multiple requirement scenario,441739,Sachith Muhandiram,187694,99,2022-10-19 16:01:47,-1,31,1,0,False,False,"['database-design', 'data-structures', 'dependencies']",False
+Reprocessing out of order events in a stateful stream,441738,bangnab,20487,746,2022-10-19 15:59:54,2,77,1,1,True,False,"['design', 'distributed-system', 'stream-processing', 'apache-kafka']",False
+Rest API design - endpoints for multiple types,441737,pepsi-maniac,401327,41,2022-10-19 15:56:27,1,352,2,6,True,True,['api-design'],False
+Dynamic Variables from JSON Parameter File,441734,Liz Livingston,421939,3,2022-10-19 14:51:01,0,269,1,0,True,True,"['python', 'json', 'parameters']",False
+Should clients send all required information to servers?,441733,user7340,362776,130,2022-10-19 14:37:19,0,267,4,0,False,False,"['design', 'architecture', 'microservices']",False
+File system for abstracting S3 object storage,441730,dumazy,116570,1129,2022-10-19 13:36:59,-1,39,1,3,True,False,"['file-systems', 'file-storage', 'minio']",False
+Can access modifiers be completely replaced with programming to interfaces?,441727,Ondrej Bozek,115147,136,2022-10-19 08:50:00,2,324,2,1,False,False,"['java', 'programming-languages', 'interfaces', 'development-methodologies', 'access-modifiers']",False
+Lambdas vs scope blocks for encapsulation in c++,441726,Jake1234,368556,129,2022-10-19 08:31:38,0,70,0,2,True,False,"['c++', 'encapsulation', 'lambda', 'scope']",False
+Auth0 Middleware Layer Abstraction,441724,DeeKayy90,258959,101,2022-10-19 07:00:21,0,35,0,1,True,False,"['design', 'authentication', 'abstraction', 'middleware']",False
+Resource Specific Permissions in Microservice architecture,441721,Lubu,421906,9,2022-10-18 21:22:35,0,45,1,1,False,False,"['design', 'architecture', 'permissions']",False
+Data Replication Without Messages,441720,Michal Moravik,362360,101,2022-10-18 20:40:57,0,64,0,2,False,False,"['architecture', 'database', 'domain-driven-design', 'microservices', 'data-replication']",False
+Abstract Factory for methods/constructor with different arguments,441707,ledermauss,421834,1,2022-10-18 08:38:41,0,154,0,1,True,False,"['python', 'factory-method', 'abstract-factory']",False
+Is there any benefit to a separate table that is one-to-one with the primary data table?,441698,Kaypro II,17869,346,2022-10-17 20:26:01,9,3000,10,1,True,False,"['database-design', 'sql', 'relational-database', 'oracle', 'relational-modelling']",False
+Avoiding Synchronous Communication Between Microservices,441697,The Corn Inspector,414081,109,2022-10-17 20:17:57,0,262,4,0,True,False,"['design', 'architecture', 'web-development', 'microservices', 'architectural-patterns']",False
+What sort of http error code to return when the request is bad AND there is an error on the server?,441694,Benjamin Berman,346486,197,2022-10-17 19:32:32,1,171,3,3,True,False,['http'],False
+python language construct or facility to tag entering and exiting a while loop,441689,user247243,166819,131,2022-10-17 16:39:58,-2,75,1,5,True,False,['python-3.x'],False
+Why is it needed to use an event to notify the order was modified when I add a new order line?,441685,Álvaro García,412921,287,2022-10-17 14:49:01,-1,144,1,6,True,True,['domain-driven-design'],False
+How to enrich an accesstoken with claims from external system in ADFS (OIDC),441674,Inx51,210295,223,2022-10-16 11:27:50,0,30,0,2,False,False,"['.net', 'active-directory']",False
+Is code written inline faster than using function calls?,441670,devdevdove,421796,147,2022-10-16 07:17:56,8,6000,5,1,False,True,"['python', 'programming-languages', 'performance', 'functions']",False
+Clarifications on application/server architecture in manufacturing context,441658,jake_dev,421774,1,2022-10-15 15:13:47,0,34,0,5,True,False,"['design', 'architecture', 'api']",False
+"Restful design of read only list, with the exception of one published and one draft item",441657,Decent Dabbler,21386,580,2022-10-15 14:22:17,-2,89,1,3,True,False,"['rest', 'api-design']",False
+Is it normal for names in functional programming to be extremely terse?,441652,SRSR333,362678,315,2022-10-15 07:15:07,6,395,2,2,False,True,"['functional-programming', 'ocaml']",False
+When should I create another branch in git and when should I use the main branch?,441647,BeeFriedman,402502,335,2022-10-14 19:15:22,15,2000,7,10,True,True,['git'],False
+What is the definition of 'Availability'?,441645,Jared Schreiber,421743,47,2022-10-14 15:15:04,2,159,1,0,False,True,"['design', 'architecture', 'definition', 'quality-attributes']",False
+How to design software architecture without solid requirements?,441629,uss,116416,141,2022-10-14 04:10:22,0,146,2,3,False,False,"['software', 'clean-architecture', 'requirements-management']",False
+"How did the IEEE 754 standard choose how many bits to allocate to each field (i.e. sign, exponent, mantissa)?",441627,hackm,421715,53,2022-10-14 03:15:36,5,190,2,2,False,True,"['data', 'standards', 'floating-point']",False
+"Share Global Variable in DLL, feasible or naive?",441626,VJZ,354245,137,2022-10-14 01:19:20,1,240,2,0,True,False,"['c++', 'libraries', 'windows']",False
+Iterating through stacks and queues?,441618,Lazar Ljubenović,316099,151,2022-10-13 19:49:44,3,262,4,0,False,True,"['algorithms', 'data-structures', 'stack', 'queue']",False
+Best way to check for truthy values in PHP?,441617,Gabriel Smoljár,85146,365,2022-10-13 18:31:39,0,49,0,1,False,False,"['php', 'data-types', 'comparison', 'wordpress']",False
+Deployment of two programs that communicate between them,441614,thecatbehindthemask,396780,119,2022-10-13 16:10:24,1,140,0,3,True,False,"['c++', 'python', 'deployment', 'sockets']",False
+Formal methods for software defect investigation?,441613,MattP,114709,99,2022-10-13 16:03:35,-1,61,1,2,False,False,"['process', 'defect']",False
+Common code at beginning of all implementations of an interface - c#,441609,RJKVictor,421693,13,2022-10-13 14:08:28,0,256,3,0,True,True,['c#'],False
+"In DDD, concurrency belongs to application layer?",441607,Álvaro García,412921,287,2022-10-13 12:11:29,0,155,1,4,True,True,"['domain-driven-design', 'concurrency']",False
+Should I abstract function calls with duplicate arguments?,441603,Thiago Pereira Maia,421687,143,2022-10-13 11:11:58,2,178,2,0,False,True,"['coding-style', 'code-quality', 'clean-code', 'functions', 'abstraction']",False
+Effective way to discover nodes in peer-to-peer network,441602,Vencat,346636,119,2022-10-13 10:33:12,1,96,1,1,True,False,"['networking', 'p2p']",False
+Is it bad practice to specialize template method to implement strategy pattern in C++?,441601,Delgan,192965,357,2022-10-13 10:01:54,1,68,0,6,False,False,"['c++', 'templates', 'strategy-pattern']",False
+Allowing an invalid state before an entity creation process is completed?,441599,Patrick Christie,418672,77,2022-10-13 05:08:12,1,66,0,3,True,False,"['domain-driven-design', 'domain-model', 'domain-objects']",False
+How to generate idempotency token for remote cache,441597,Saurav Prakash,386044,107,2022-10-13 00:44:00,0,74,0,4,False,False,"['java', 'concurrency', 'caching']",False
+Functional or non functional requirements? [closed],441588,businessanalyst-junior-,421632,65,2022-10-12 14:21:30,1,194,2,1,False,False,"['requirements', 'requirements-management', 'functional-requirements', 'non-functional']",True
+should a single end-to-end test aim to validate a scenarios or a specific feature of an application,441581,Joulin Nicolas,413443,109,2022-10-12 12:30:55,0,44,2,0,False,False,"['testing', 'end-to-end']",False
+How to create useful tests for fixed byte values,441578,Lionel Briand,421615,111,2022-10-12 11:29:07,0,118,1,10,False,True,"['unit-testing', 'testing']",False
+"What's stopping an app from using another platform's storage, for free?",441575,DanDev,403757,33,2022-10-12 10:29:00,1,273,3,7,False,True,"['licensing', 'api', 'data', 'storage', 'law']",False
+What is the best way to keep some constant complex data structures in a C++ code?,441572,TonySalimi,44649,211,2022-10-12 08:41:28,2,219,2,4,False,True,"['c++', 'xml', 'constants']",False
+How would I model my NoSQL database for a conversational bot,441569,AlePouroullis,417075,113,2022-10-11 22:37:12,0,52,0,0,False,False,"['database', 'api', 'nosql', 'aws']",False
+Software design patterns for versioning of domain entities/logic,441568,martin,421602,121,2022-10-11 22:34:17,2,200,2,2,False,False,"['design-patterns', 'domain-driven-design', 'domain-model']",False
+Security implications of storing credentials in a .env file,441566,Pierre Baudin,421601,97,2022-10-11 21:49:52,-2,76,1,2,False,False,"['security', 'vue.js']",False
+Handling events internally in server,441565,AlePouroullis,417075,113,2022-10-11 20:50:19,1,30,0,17,True,False,"['api', 'server', 'backend']",False
+On which layer of Clean Architecture hierarchy must be the entities with application-specific properties?,441557,Takesi Tokugawa YD,375105,173,2022-10-11 09:11:02,1,220,0,2,True,False,"['use-case', 'clean-architecture']",False
+"Why the ""Use Cases"" and ""Request and Response Models"" are the different sections of the ""Business rules"" chapter?",441556,Takesi Tokugawa YD,375105,173,2022-10-11 08:54:20,0,91,0,4,False,False,"['use-case', 'clean-architecture']",False
+DDD entity validations that query 3rd party services,441555,Patrick Christie,418672,77,2022-10-11 00:22:55,0,33,0,10,True,False,"['python', 'domain-driven-design', 'validation']",False
+How to deal with often repeated relations in UML Class Diagrams / ERM?,441544,Edgar Alloro,191548,409,2022-10-10 11:15:35,1,129,2,0,False,True,"['uml', 'class-diagram']",False
+"Is documenting a big project with UML Diagrams needed, good to have or even not possible?",441543,Edgar Alloro,191548,409,2022-10-10 10:26:47,28,9000,6,1,True,False,"['documentation', 'uml']",False
+"in DDD, when I don't want navigation property from child to parent, is it still needed at least a property for the ID of the parent?",441542,Álvaro García,412921,287,2022-10-10 10:06:39,0,94,0,6,True,False,['domain-driven-design'],False
+How to implement repository in clean architecture,441539,z0mbieKale,360201,129,2022-10-10 07:59:35,0,147,0,0,True,False,['clean-architecture'],False
+When Should I Use a Static Class and When Should I Just Use Functions?,441515,BeeFriedman,402502,335,2022-10-07 20:18:40,1,554,3,0,False,True,"['design', 'c#', 'object-oriented', '.net']",False
+What is the benefit of caching a hash value in a string object?,441513,Kaz,50950,3534,2022-10-07 19:04:10,6,394,3,3,True,True,"['strings', 'hashing']",False
+What is the purpose of using strings as identifiers or flags instead of enumerated types?,441512,user16217248,404182,783,2022-10-07 18:10:15,3,287,2,1,False,False,"['strings', 'enum']",False
+Django: Is there a reason to separate api calls into their own url endpoints?,441505,noob112233,421356,21,2022-10-07 10:08:57,1,64,1,2,True,True,"['architecture', 'api', 'django']",False
+Shared Branch while working on User Story,441504,mdiebels,421444,33,2022-10-07 09:13:59,2,188,2,1,True,True,"['git', 'project-management', 'scrum', 'github']",False
+Data autonomy using files in a micro service application,441500,Q-bertsuit,351450,193,2022-10-07 08:22:52,1,80,1,1,False,True,"['design-patterns', 'microservices', 'docker']",False
+What log level should be used for an expected but (potentially) bad occurrence?,441499,Puck,360488,45,2022-10-07 08:07:07,2,888,2,2,False,True,"['api', 'logging', 'api-gateway']",False
+Is it premature optimisation to test a condition to skip a small loop?,441498,lampshade,288846,103,2022-10-07 07:42:16,0,155,1,1,True,True,"['javascript', 'optimization', 'typescript']",False
+Undoing incremental increases in complexity after the fact,441496,Martin Ueding,22584,933,2022-10-07 06:39:03,3,88,1,1,True,False,['technical-debt'],False
+Queue system with priority on Consumers,441487,Ryan,12551,320,2022-10-06 20:49:27,0,42,1,0,True,False,"['message-queue', 'distributed-system']",False
+Memory Alignment,441478,Hello,421411,19,2022-10-06 16:52:15,1,308,4,3,True,False,"['memory', 'cpu', 'memory-usage']",False
+How do compilers work in a language that doesn't allow recursion?,441474,csxyyyyy,421415,151,2022-10-06 16:08:20,13,6000,8,5,True,True,"['programming-languages', 'functional-programming', 'compiler', 'recursion']",False
+Why do we separate interface when implementing interface injection variant of DI?,441473,Nishant Chauhan,420893,31,2022-10-06 15:50:47,2,129,1,6,True,False,"['design-patterns', 'object-oriented-design', 'dependency-injection', 'inversion-of-control']",False
+Bubbling errors upstream in async message-based services,441471,Milkncookiez,213565,171,2022-10-06 15:43:05,0,61,1,2,False,False,"['microservices', 'error-handling', 'message-queue', 'client-server', 'async']",False
+CQS principle and validation,441467,Álvaro García,412921,287,2022-10-06 11:29:48,0,34,0,1,False,False,"['validation', 'cqs']",False
+Is the combination of state machine and pure function a programming style?,441466,Equescript,421403,9,2022-10-06 11:12:42,0,226,3,5,True,False,"['coding-style', 'coding-standards', 'finite-state-machine', 'pure-function']",False
+API Gateway- how internal services should communicate with external system,441464,X.Otano,283925,612,2022-10-06 10:21:51,2,90,1,3,True,False,"['api', 'api-gateway']",False
+"Best practices to link, associate, or abstract similar but different entities together",441462,user21918,21918,121,2022-10-06 04:35:28,1,81,1,2,False,True,"['design', 'design-patterns', 'architecture', 'domain-driven-design', 'api-design']",False
+Best practices to integration test a CLI app that makes REST calls to a downstream service,441457,Astrum,385869,151,2022-10-05 20:29:04,0,32,0,10,True,False,['integration-tests'],False
+How to handle a new method in the interface that is not applicable for all classes?,441455,Zed,319453,109,2022-10-05 19:00:13,0,155,2,0,False,False,"['java', 'object-oriented', 'object-oriented-design', 'interfaces']",False
+Reassign parameter to local variable,441454,Barmar,122493,278,2022-10-05 18:46:16,0,154,2,3,False,False,"['coding-style', 'functions', 'parameters', 'local-variable']",False
+"When an entity has state, all the behavior depends on the state?",441447,Álvaro García,412921,287,2022-10-05 15:34:54,0,62,1,2,False,False,['domain-driven-design'],False
+Microservice Granularity: Should a service ever be broken into smaller services with a shared database?,441445,nanotek,279495,311,2022-10-05 14:46:31,1,86,2,0,True,True,"['design', 'architecture', 'web-applications', 'microservices', 'web-services']",False
+Relaxing layering rules for queries?,441444,plalx,87832,379,2022-10-05 14:28:24,2,227,2,0,False,False,"['architecture', 'domain-driven-design', 'cqrs']",False
+How to post domain events with aggregate root Id before the root is persited?,441442,lavrik,421358,101,2022-10-05 11:45:38,0,79,0,1,False,False,"['domain-driven-design', 'persistence']",False
+Self-Selecting Variant of the Strategy Pattern?,441440,MrTrick,421355,123,2022-10-05 10:31:25,2,82,1,3,True,True,"['design-patterns', 'naming', 'strategy-pattern']",False
+Should I stop using jQuery and create custom abstractions?,441437,pikachu,381584,19,2022-10-05 08:20:23,1,223,2,2,False,False,"['jquery', 'abstraction']",False
+Should I implement one interface with two methods or two interfaces?,441426,Tinker,399925,155,2022-10-04 20:39:34,3,352,4,0,True,False,"['java', 'object-oriented', 'object-oriented-design']",False
+Is this a good alternative to state pattern?,441420,Álvaro García,412921,287,2022-10-04 16:22:39,0,145,2,4,True,False,['domain-driven-design'],False
+DDD: Where to put safety checks? Where to put the check if the user is allowed to do this?,441414,danielmoessner,421308,111,2022-10-04 11:31:08,0,128,1,0,False,True,"['python', 'domain-driven-design', 'domain-model']",False
+Efficient way to implement hierarchical inheritance in SQL?,441403,user2563087,421284,11,2022-10-03 20:57:19,1,73,0,1,True,False,"['database-design', 'sql', 'relational-database']",False
+Design a push events service at code level,441399,pAndrei,198654,111,2022-10-03 19:34:25,1,51,0,6,False,False,"['design', 'api-design', 'microservices', 'typescript']",False
+Operating systems - whose responsibility is it to coordinate process I/O requests?,441390,Stefan Rendevski,304272,376,2022-10-03 08:39:45,2,208,2,3,True,True,"['operating-systems', 'io', 'drivers']",False
+Eliminating combinations based on user input,441384,Saul Goodman,421248,39,2022-10-03 02:37:30,3,192,3,4,False,False,"['algorithms', 'javascript', 'data-structures', 'data', 'combinatorics']",False
+Architecture for worker pool with different task complexities and sizes of boxes,441383,nanotek,279495,311,2022-10-03 00:15:55,1,110,2,1,False,True,"['design', 'design-patterns', 'architecture', 'database', 'microservices']",False
+Using the decorator pattern to populate entity properties,441377,filur,256422,137,2022-10-02 21:24:29,2,92,1,0,False,False,"['c#', 'design-patterns']",False
+"From the ECB & DAL perspectives, is this design acceptable?",441375,Ahmed Alhallag,373596,149,2022-10-02 20:40:39,0,55,0,10,False,False,"['python', 'object-oriented-design', 'clean-architecture', 'coupling', 'dao']",False
+Why do heavily object-oriented languages avoid having functions as a primitive type?,441373,J. Mini,373159,761,2022-10-02 19:33:08,38,9000,10,7,False,True,"['object-oriented', 'language-agnostic', 'language-design', 'functions', 'delegates']",False
+Tests of 1-Dependency VS Tests of 0-Dependency,441356,Dave Cousineau,47207,265,2022-10-01 18:49:27,0,163,3,4,False,False,"['unit-testing', 'testing', 'integration-tests']",False
+"Is there a way to discover nearby devices in proximity, but without exposing your actual location to the server?",441354,udbhavs,408727,25,2022-10-01 17:23:57,-1,54,1,0,False,False,"['p2p', 'geolocation']",False
+How to handle maintenance to your queuing server (e.g. rabbitMQ),441352,nanotek,279495,311,2022-10-01 13:27:40,0,39,0,2,False,False,"['design', 'architecture', 'message-queue', 'messaging', 'rabbitmq']",False
+"In the OO DDD , does the domain object access the repository directly?",441348,Ced,196981,276,2022-10-01 01:10:46,3,283,2,2,False,True,"['object-oriented', 'domain-driven-design']",False
+Why is the product of the order item a reference to the ID of the product and not a value object?,441341,Álvaro García,412921,287,2022-09-30 17:37:02,1,152,3,17,True,True,['domain-driven-design'],False
+Where to save entity metadata in a Ports-And-Adapters Architecture,441337,Mirco,73457,621,2022-09-30 13:43:52,0,113,2,2,True,False,"['design', 'architecture', 'clean-architecture', 'onion-architecture', 'hexagonal-architecture']",False
+Test coverage for various code logic permutations... Metadata/Artifacts in algorithm results to describe which case?,441332,Mr. Boy,104623,231,2022-09-30 10:37:16,2,110,1,4,False,True,"['unit-testing', 'testing', 'mocking', 'test-coverage']",False
+Code for interface and the type erasure problem,441324,EmmanuelMess,168986,119,2022-09-30 01:49:02,0,196,4,10,True,True,"['design', 'modules']",False
+Refactoring multiple non-nested if statements [C#],441318,Azhari,421119,125,2022-09-29 18:05:33,0,270,3,0,False,False,"['c#', 'design-patterns', '.net', 'if-statement']",False
+How to create an order if depends of anohter root entity?,441314,Álvaro García,412921,287,2022-09-29 11:00:35,0,42,0,1,True,False,['domain-driven-design'],False
+Reducing contention/locking in a job system involving read/write dependencies?,441312,HateDread,381825,3,2022-09-29 10:16:07,0,109,1,6,True,True,"['c++', 'multithreading']",False
+Still confused why a monolithic operating system is faster than a layered operating system,441310,Eric Gumba,305151,279,2022-09-29 08:07:00,1,374,3,0,True,True,['operating-systems'],False
+"if I write 16 bit floating point number representation of 2044 and 2045.5 it's seems like the same, which is 0 1001001 11111111 why is that? [closed]",441306,Senu Nawamina,421074,1,2022-09-28 22:48:32,-4,136,1,0,False,False,"['floating-point', 'arithmetic']",True
+Best practice to architect a system in which local users may override global definitions,441302,Denis123,421050,47,2022-09-28 15:08:55,3,240,3,3,True,False,"['design-patterns', 'microservices', 'message-queue', 'permissions', 'notifications']",False
+In (Django) web application should if-else logic be at a high level (view) or a low level (template)?,441301,M3RS,281118,129,2022-09-28 14:45:49,0,40,0,1,False,False,"['web-development', 'django']",False
+Are there more design patterns than the 23 of GoF?,441293,aircraft,262542,129,2022-09-28 04:07:27,-1,237,2,2,True,True,['design-patterns'],False
+What is the use of Multiple Inheritance in languages like C++ and Python?,441290,Arunabh Bhattacharya,349331,133,2022-09-27 21:31:10,-2,326,1,1,True,True,"['c++', 'python', 'inheritance', 'multiple-inheritance']",False
+Distribution of processing across cores between a LINQ and PLINQ query,441289,Richard Pawson,421002,103,2022-09-27 16:55:53,0,76,1,1,False,True,"['c#', 'parallelism', 'linq', 'parallel-programming']",False
+One provider for all entities or different according to needs?,441283,Álvaro García,412921,287,2022-09-27 15:00:36,0,52,1,2,False,True,['domain-driven-design'],False
+Avoiding reloading entities many times with EF Core and Mediatr,441282,Lou,59034,265,2022-09-27 13:20:19,0,65,0,1,True,False,"['performance', 'enterprise-architecture', 'cqrs', 'efcore']",False
+"Additional questions for an old topic: ""How to specify many ids and their variable name in a REST API request?"" [duplicate]",441280,camarril,420993,11,2022-09-27 12:48:33,0,126,1,1,True,True,"['rest', 'api', 'api-design']",False
+How to abstract version switching using feature flag?,441278,Hindol Dey,380527,1,2022-09-27 08:53:36,-1,107,1,0,True,False,"['java', 'design-patterns']",False
+How to know the invoices of a project?,441277,Álvaro García,412921,287,2022-09-27 08:11:51,2,181,1,3,True,True,['domain-driven-design'],False
+How to integrate a Python server with Kafka?,441268,user3058865,420958,101,2022-09-26 16:08:41,0,98,1,5,True,False,"['architecture', 'python', 'server', 'apache-kafka']",False
+Const function that change other objects' states,441263,66Gramms,396544,119,2022-09-26 10:10:24,1,294,3,6,True,True,"['object-oriented', 'clean-code', 'immutability']",False
+microservice file upload/download central vs distributed api,441257,danny,23287,119,2022-09-26 06:12:27,1,218,1,2,False,False,"['microservices', 'security']",False
+Domain Driven design and representing process state,441251,Rob,420912,19,2022-09-25 16:59:27,1,231,1,1,False,False,"['c#', 'domain-driven-design', 'finite-state-machine']",False
+GitFlow merge conflicts between release and develop,441247,Carlo Moretti,53811,121,2022-09-25 14:26:26,1,323,1,5,True,True,"['release-management', 'gitflow', 'merging', 'pull-requests']",False
+Design pattern for scheduling method calls (open-loop control) [duplicate],441245,Escher,165741,195,2022-09-25 12:53:25,1,41,0,3,True,False,"['design-patterns', 'architectural-patterns', 'enterprise-architecture', 'scheduling']",False
+Must the use cases extend the entities in Clean Architecture?,441243,Takesi Tokugawa YD,375105,173,2022-09-25 07:25:43,0,479,1,2,False,True,"['use-case', 'clean-architecture']",False
+Which Clean Architecture Areas do Gateways interfaces and their implementations belong to?,441230,Takesi Tokugawa YD,375105,173,2022-09-24 07:15:57,0,302,2,10,True,True,"['interfaces', 'clean-architecture']",False
+Proper orchestration of NServiceBus sagas,441223,Scott Hannen,219616,921,2022-09-23 19:35:15,0,91,1,0,False,False,"['c#', '.net']",False
+Multi-tenant monolith splitting - Handling interactions with third party apis,441222,munkee,75793,131,2022-09-23 19:19:22,0,56,2,3,False,False,['microservices'],False
+Writing apps for Android and Apple phone simultaneously,441214,Trey Freeman,420845,3,2022-09-23 12:53:02,0,65,1,2,False,True,"['android', 'app', 'apple']",False
+One API used by multiple clients without causing overhead,441212,Ahsan,420867,101,2022-09-23 10:51:37,0,87,0,0,True,False,"['web', 'applications']",False
+Interface segregation principle,441205,Antonio Gamiz Delgado,349631,431,2022-09-23 07:54:42,2,199,1,0,False,True,"['design', 'object-oriented-design', 'interfaces', 'solid']",False
+Multiple steps of mutations in one function - how to refactor?,441198,filemono,359879,113,2022-09-22 21:32:27,1,113,2,1,False,True,['design-patterns'],False
+Is there a text distance (or string similarity) algorithm which accounts for the distance between characters?,441195,Vermillion,221704,159,2022-09-22 20:56:41,-1,140,3,3,True,False,"['strings', 'text-processing', 'string-matching']",False
+update state with the rest of properties or to have an action only to update the state?,441188,Álvaro García,412921,287,2022-09-22 11:49:14,0,60,2,2,False,False,['domain-driven-design'],False
+Best practices when it comes to extending Service collections in .NET for dependency injection,441184,Robin,160839,111,2022-09-22 08:00:10,1,53,0,0,True,False,"['c#', '.net', 'dependency-injection']",False
+DDD can part of the domain be found in infrastructure?,441182,Ced,196981,276,2022-09-22 01:42:29,2,217,2,4,True,True,['domain-driven-design'],False
+Clean architecture - modelling the domain,441181,Jack Deeth,255865,101,2022-09-22 00:52:01,0,52,0,0,False,False,['clean-architecture'],False
+What are the considerations between a class variable and a global variable,441174,charmoniumQ,420787,121,2022-09-21 18:20:22,1,229,2,1,True,True,"['design', 'design-patterns', 'object-oriented', 'object-oriented-design']",False
+Is it a bad practice to use cookies for a Desktop Application?,441171,Hicham Zouarhi,310708,111,2022-09-21 16:06:35,0,180,1,6,False,True,"['desktop-application', 'cookies', 'load-balancing']",False
+Angular2 architecture: Sending runtime data updates to components,441168,Gianluca Ghettini,184991,113,2022-09-21 09:53:10,1,16,0,3,True,False,"['design-patterns', 'angular2']",False
+Making a Data Layer that is tightly coupled to the Presentation Layer in Clean Architecture,441167,Bawenang Rukmoko Pardian Putra,355943,211,2022-09-21 09:07:54,0,176,2,4,False,True,"['clean-architecture', 'coupling']",False
+Dependency Injection vs Static Dependencies,441157,EspressoCoder,419839,51,2022-09-20 19:00:36,2,783,2,1,False,True,"['java', 'dependency-injection', 'inversion-of-control', 'java8', 'static']",False
+Am I making this web app right?,441152,moosepowa,420726,1,2022-09-20 15:47:37,0,87,1,0,False,False,"['database', 'python', 'web-applications', 'sql', 'postgres']",False
+What are the existing theories or methodologies around synchronizing tree structures?,441151,Deane,230046,171,2022-09-20 15:47:14,3,146,3,10,False,False,"['data-structures', 'synchronization']",False
+Why do HTML and JS feel slow on smartphones? What could be changed to make them faster? [closed],441146,jokoon,5024,2266,2022-09-20 13:13:59,-1,109,1,7,False,True,"['architecture', 'html', 'rendering', 'file-formats']",True
+Use factory design pattern to create a specific object,441141,dafie,420706,109,2022-09-20 11:16:04,0,47,1,4,False,False,"['design-patterns', 'factory']",False
+Allow\disallow actions in one system based on the state of another,441140,JaktensTid,396380,129,2022-09-20 10:58:45,2,62,1,0,False,False,"['design', 'design-patterns', 'object-oriented-design']",False
+How best to keep Excel Workbook field in sync across class instances,441139,Mike Warren,307482,226,2022-09-20 07:59:18,2,74,1,2,False,True,"['synchronization', 'file-handling', 'excel']",False
+Design Pattern: How to handle changing format of text file?,441135,Selva,387640,129,2022-09-20 05:00:41,2,232,2,2,False,False,"['design-patterns', 'python', 'domain-driven-design']",False
+Shared logic to different types,441134,ParkCheolu,373807,111,2022-09-20 01:59:22,0,106,2,17,True,True,"['design-patterns', 'object-oriented-design']",False
+Do we really need a message brocker in WebSocket system?,441132,vusra,420681,9,2022-09-19 21:57:39,0,73,0,2,True,False,"['architecture', 'web-applications', 'message-queue', 'scalability', 'websockets']",False
+HTML Playground [closed],441125,christo,420667,105,2022-09-19 15:40:40,-3,68,1,4,False,True,"['javascript', 'security', 'html', 'customization']",True
+Is it Good Practice to Only Expose Interfaces,441123,Bondolin,180349,403,2022-09-19 15:23:36,29,8000,3,10,True,True,"['c#', 'object-oriented', 'api-design', 'interfaces', 'factory']",False
+Modularity vs pure functions,441122,deSKase,402483,149,2022-09-19 12:16:49,3,248,2,0,False,True,"['functional-programming', 'modules']",False
+How is B-Tree used in DBMS-s if WHERE condition can be anything?,441115,Vega TV,420643,111,2022-09-19 03:00:18,0,153,1,1,True,True,"['database', 'data-structures', 'rdbms', 'dbms']",False
+Guidance on rectifying a minor bump that should have been a major bump,441114,user2218154,420642,139,2022-09-19 02:40:42,12,3000,4,6,True,True,"['versioning', 'semantic-versioning']",False
+What does the 4th line of this pseudocode mean? [closed],441107,jokoon,5024,2266,2022-09-18 13:55:00,-2,199,1,0,True,False,"['algorithms', 'c', 'game-development', 'graph', 'puzzles']",True
+"How could creating symlinks/aliases to files on S3 work, while still taking advantage of CDN optimizations?",441103,Lance,73722,2467,2022-09-18 10:56:24,0,77,1,0,False,False,"['architecture', 'http', 'aws', 'file-storage', 'cdn']",False
+Deploy C#/C++ binaries incrementally by patching the difference,441102,sɐunıɔןɐqɐp,305860,233,2022-09-18 09:43:31,12,2000,2,3,True,True,"['windows', 'deployment', 'devops', 'installer', 'software-patches']",False
+What is the term used to describe the number of times a pointer can be dereferenced?,441097,vim_overlord,420611,69,2022-09-18 00:48:00,6,174,1,1,False,False,"['terminology', 'pointers', 'semantics', 'reference']",False
+Should modifying a hash function be considered a breaking change?,441091,Calvin Godfrey,420604,133,2022-09-17 16:56:28,0,351,6,2,True,False,['semantic-versioning'],False
+std::string_view and std::string in utility library interface,441085,Stefan Riedel,420593,111,2022-09-17 11:26:32,0,151,2,1,True,True,['c++'],False
+User Experience for Fraud Detection [closed],441082,user1767270,82970,303,2022-09-17 04:16:04,-2,55,1,1,False,False,"['user-experience', 'users']",True
+Best approach for several steps with user input in between,441079,Rick Wolff,380783,123,2022-09-16 21:20:31,2,66,0,2,False,False,"['design-patterns', '.net', 'winforms']",False
+Best practise for designing REST API endpoint that accepts a nested resource POST,441075,user2190492,352709,331,2022-09-16 14:28:17,2,99,1,1,True,False,"['rest', 'api', 'api-design', 'data-structures', 'http']",False
+Does it make sense to use the word 'Set' in a class as an umbrella term for both sets and individual items?,441065,user6490576,313410,67,2022-09-15 22:07:30,3,244,4,1,True,True,"['object-oriented', 'naming-standards']",False
+Modelling Interfaces provided by different IPC frameworks,441053,Jens,416415,1,2022-09-15 09:11:30,0,49,0,0,True,False,"['architecture', 'middleware']",False
+Operating two independent and competing clusters?,441035,LordOfThePigs,57566,1101,2022-09-14 07:32:18,0,98,1,3,True,False,"['distributed-system', 'cloud-computing', 'cluster']",False
+Problem statement for code reuse [closed],441034,Arnon Axelrod,300983,163,2022-09-14 05:47:36,3,167,2,5,True,False,"['agile', 'code-reuse', 'user-story', 'technical-debt']",True
+Large Inheritance Hierarchy vs. One Object With Many Nullable Fields,441028,Treker,419624,161,2022-09-13 16:40:05,3,293,3,6,True,True,"['object-oriented', 'inheritance', 'null']",False
+Is websocket connection a driving adapter or driven adapter in hexagonal architecture,441023,Muhammad Saboor,412079,31,2022-09-13 15:13:19,2,169,1,2,False,True,"['architecture', 'domain-driven-design', 'websockets', 'hexagonal-architecture']",False
+Refactor to object oriented style and use design patterns,441021,Happy Coder,420391,101,2022-09-13 14:11:33,0,143,2,1,False,False,"['design', 'design-patterns', 'object-oriented', 'object-oriented-design']",False
+Benchmarking C# code - results,441009,Martin Maat,209665,17500,2022-09-12 20:50:26,3,174,1,5,True,False,"['cpu', 'benchmarking']",False
+"How form SAFe teams within ART, when people have non-overlapping skills?",441006,Robert Skarżycki,420367,109,2022-09-12 19:39:02,0,144,3,3,True,False,"['agile', 'scaled-agile-framework']",False
+How to get the information from another root entity to validate some operation?,441001,Álvaro García,412921,287,2022-09-12 15:55:45,0,61,1,2,False,False,['domain-driven-design'],False
+How to refactor this code to obey the ‘open-closed’ principle?,440990,Abner,420191,71,2022-09-12 07:57:37,6,1000,5,10,True,True,"['java', 'software', 'open-closed-principle', 'open-close']",False
+Is it OK to use a Command Sourcing instead of Event Sourcing? Replay events in Commands-Repositories,440987,Augusto Will,385961,97,2022-09-12 05:41:20,-2,108,1,0,False,False,"['architecture', 'domain-driven-design', 'architectural-patterns', 'enterprise-architecture', 'clean-architecture']",False
+Microservice Storage Architecture for multiple Storage Backends,440981,lagmoellertim,328303,1,2022-09-11 15:00:27,0,38,0,3,False,False,"['microservices', 'storage', 'jwt']",False
+"Within the same computer, what is the difference between API and IPC?",440980,Noob_Guy,397757,149,2022-09-11 14:27:55,-1,386,7,2,False,False,"['api', 'software', 'operating-systems', 'applications']",False
+Intraservice Communication Using Kafka,440977,Gitonga Tosh,349125,1,2022-09-11 12:34:15,0,44,1,0,True,False,"['architectural-patterns', 'backend']",False
+What is the big O of this algorithm? [duplicate],440973,james pow,420289,103,2022-09-10 21:20:43,-4,105,1,0,False,True,"['algorithms', 'complexity', 'big-o']",False
+Is the fluent interface pattern suitable in casual scenarios?,440969,Daniele Repici,373658,181,2022-09-10 15:24:21,7,801,4,1,False,True,"['java', 'method-chaining']",False
+Why does this activity diagram not have the same amount of paths as the cyclomatic complexity number?,440966,Alfred Kaminski,420271,43,2022-09-10 07:31:19,3,291,1,3,True,True,"['unit-testing', 'cyclomatic-complexity']",False
+Any way to forward an auth session from OAuth system to another system (with API key)?,440959,CAJE,420251,1,2022-09-09 15:58:45,0,137,1,2,False,True,"['authentication', 'docker', 'oauth']",False
+Service Bus Handlers Direct Access to DB vs Api,440949,Yorro,83102,151,2022-09-09 09:04:40,0,44,0,0,True,False,"['microservices', 'message-queue', '.net-core', 'service-bus']",False
+Is it okay for an Interface Adapter / Repository / Gateway to use Entities in its implementation,440948,Bawenang Rukmoko Pardian Putra,355943,211,2022-09-09 08:04:20,0,408,2,4,True,True,"['clean-architecture', 'entity', 'swift-language']",False
+Best practice for git repo locations,440933,confused_nomad,420198,19,2022-09-08 14:27:47,-1,243,1,0,False,True,"['git', 'server', 'repository']",False
+Any established convention on symbols to use as multi-level separators? [closed],440932,hb20007,157676,109,2022-09-08 14:16:51,-1,130,2,1,True,True,['coding-style'],True
+Microservice replica sync,440920,djflex68,420178,51,2022-09-08 09:20:39,4,163,2,6,False,True,"['architecture', 'domain-driven-design', 'microservices']",False
+Abstracting calls to common library methods in C#,440917,Der_Reparator,420177,41,2022-09-08 08:36:34,3,182,2,3,True,True,"['c#', 'unit-testing', 'dependency-injection', 'inversion-of-control']",False
+Defining SLI / SLO for ETL and Reporting Application,440914,Ravi Parekh,420165,31,2022-09-08 04:02:40,2,71,1,4,False,False,"['google', 'devops', 'monitoring', 'system-reliability']",False
+"REST API design for resource that is ""uploaded"" via Presigned URL",440910,obaqueiro,180978,157,2022-09-07 21:15:27,0,91,1,1,False,False,"['rest', 'api', 'api-design']",False
+How to separate UI and business logic when they are intertwined by design,440905,user2195738,397914,43,2022-09-07 18:26:35,0,272,2,0,False,True,"['architecture', 'user-interface', 'layers', 'separation-of-concerns', 'angular']",False
+Declarative name for function with multi-purpose-loop from broken-up monolithic function [closed],440897,Incubbus,346681,97,2022-09-07 10:19:21,-3,83,1,10,False,True,"['naming', 'loops']",True
+Model Driven Engineering vs. User Centered Design,440891,Liandri,420112,23,2022-09-07 00:16:39,-1,77,1,7,False,True,"['domain-model', 'user-interface', 'user-experience']",False
+Best practices: Clarity vs. confidence in code behavior,440887,Matthew Souther,419355,477,2022-09-06 21:18:03,36,8000,11,4,False,False,['coding-style'],False
+Coffee machine strategy pattern implementation,440886,Gullit,420108,13,2022-09-06 20:56:13,0,202,2,0,False,True,"['design-patterns', 'object-oriented', 'object-oriented-design', 'strategy', 'strategy-pattern']",False
+Git-flow: How to create a hotfix release when there are future releases?,440863,buhtz,198281,139,2022-09-06 12:18:35,0,481,2,2,False,True,"['git', 'gitflow']",False
+What alternatives exist to providing clients estimates for a software agency? [closed],440858,tsvallender,420080,207,2022-09-06 11:08:08,9,2000,6,2,False,False,['project-management'],True
+Managing a project with an unfamilar programming language,440856,Gergely,125930,131,2022-09-06 10:38:46,-3,201,1,17,True,False,"['programming-languages', 'project-management']",False
+Where to create repository instances?,440854,Mr. B.,166774,143,2022-09-06 09:54:08,0,129,1,2,True,False,"['design', 'design-patterns', 'architecture', 'python', 'clean-code']",False
+Should an optional boolean function argument rather default to true or false?,440851,DaveFar,29043,1386,2022-09-06 07:32:26,5,785,5,4,False,True,"['coding-style', 'coding-standards', 'conventions', 'default-values']",False
+Middleware with parameters and dependencies,440847,r32,420057,3,2022-09-06 02:54:31,0,66,1,10,True,True,"['design-patterns', 'middleware']",False
+"Inheritance/Composition VS ""Direct Injection Construction""",440845,Robin Kreuzer,347781,153,2022-09-06 00:29:43,1,227,2,0,False,False,"['object-oriented', 'dependency-injection', 'inheritance', 'composition', 'construction']",False
+Is it okay for a POST response to return resources other than those in the request?,440839,Don Draper,339572,135,2022-09-05 16:09:50,1,98,2,1,True,False,"['design', 'rest', 'api', 'api-design']",False
+Is API exactly the same as header file?,440818,Noob_Guy,397757,149,2022-09-04 07:46:40,0,315,4,6,True,False,"['c', 'api', 'libraries']",False
+How do non-RAII languages free resources during stack unwinding?,440816,Vorac,54268,6985,2022-09-04 06:55:15,20,4000,4,0,True,True,"['java', 'python', 'exceptions']",False
+"Is it preferable to embed "".qm"" translation files with Qt Resource System or bundling it with PyInstaller?",440813,Giovanni L,343604,1,2022-09-03 22:09:37,0,61,0,0,False,False,"['python', 'qt']",False
+How do I choose a versioning scheme when Semantic Versioning (SemVer) isn't appropriate?,440811,David Cary,631,1352,2022-09-03 19:22:24,7,931,2,3,True,False,"['versioning', 'semantic-versioning']",False
+the actual notion of an integration and end to end testing,440807,mleko,419962,47,2022-09-03 16:38:18,3,153,2,1,False,False,"['testing', 'integration-testing']",False
+Git flow for multiservice monorepo,440798,linethepanic,419943,39,2022-09-02 17:58:01,3,265,2,2,True,False,"['git', 'release-management', 'gitflow']",False
+Is it possible to instantiate a template class at runtime?,440796,Xie Qing,419888,9,2022-09-02 16:24:58,0,470,3,1,True,False,"['c++', 'class', 'templates', 'runtime']",False
+How to design an ever evolving entity while offering backward compatibility,440791,Der,419935,109,2022-09-02 14:20:52,0,71,1,1,False,False,['architecture'],False
+Long polling and resource use,440789,Magnus,120703,405,2022-09-02 13:40:42,0,35,0,2,False,False,"['php', 'networking', 'client-server', 'polling', 'push']",False
+"When mocking a class in a unit test, how should I handle dependency classes that have multiple similar get methods?",440787,krazune,419929,41,2022-09-02 13:09:48,4,383,5,1,True,False,"['unit-testing', 'testing', 'mocking']",False
+Can you have too much unit test coverage?,440778,OutstandingBill,243626,282,2022-09-02 04:10:42,8,812,10,1,True,False,['unit-testing'],False
+"To maintain SOLID, should data preparation, conversion, and pre-computation for purposes of saving an object, be separate from data persistence layer?",440772,Dennis,119333,8079,2022-09-01 18:25:48,2,151,2,0,True,True,"['object-oriented', 'php', 'solid', 'layers', 'separation-of-concerns']",False
+Java Library - How to do Pure Dependency Injection When State is a Factor?,440757,EspressoCoder,419839,51,2022-08-31 20:38:46,1,232,3,3,True,True,"['java', 'design-patterns', 'object-oriented-design', 'dependency-injection', 'state']",False
+Optimizing a string to enum converter [closed],440750,HFOrangefish,419774,151,2022-08-31 14:36:15,0,393,3,5,True,True,"['c++', 'clean-code', 'optimization', 'enum']",True
+What is the best way to design endpoints for a restful application?,440749,RoyalGoose,409597,125,2022-08-31 13:40:27,0,61,0,6,True,False,"['rest', 'api-design', 'backend']",False
+"Data backup/slave node with replicated data, to be writeable while master is offline",440739,TomCrow,419817,11,2022-08-31 07:56:14,0,71,1,2,False,True,"['database', 'web-applications', 'synchronization', 'data-replication', 'mariadb']",False
+How can I efficiently diff a CSV file against a database?,440736,Isvara,54726,610,2022-08-31 04:11:03,14,6000,5,1,False,True,"['caching', 'distributed-system', 'postgres']",False
+How to store multiple-users authorization tokens from a single service if I can't use a persistent storage?,440735,Guillermo Leon Rodriguez,419813,1,2022-08-31 02:51:59,0,73,0,5,True,False,"['design', 'python', 'web-applications', 'django']",False
+microservice separate data server auth server an website,440719,Sherif Awad,419777,1,2022-08-30 09:38:26,0,44,0,3,True,False,"['microservices', 'authentication', 'separation-of-concerns']",False
+Alternatives to if-else on data reading,440718,HFOrangefish,419774,151,2022-08-30 09:24:52,3,2000,5,2,False,True,"['c++', 'coding-style', 'clean-code']",False
+What is the lib/ or library/ directory for? [closed],440716,david_adler,343361,91,2022-08-30 09:02:04,-5,84,1,10,True,False,"['ios', 'ruby-on-rails', 'directory-structure']",True
+Why session should be a param when you write a query function?,440709,Tlaloc-ES,327557,387,2022-08-29 21:27:03,0,160,2,0,False,True,"['database', 'libraries', 'patterns-and-practices', 'functions']",False
+Design pattern for feature toggling,440708,Serberuss,94236,129,2022-08-29 20:39:25,0,243,3,3,False,False,"['design', 'c#', 'design-patterns', 'api']",False
+Branch management when you cannot merge due to holidays,440699,Eike Schulte,27107,127,2022-08-29 07:57:11,0,190,1,2,False,True,"['git', 'gitlab']",False
+What to name a POST endpoint that behaves like GET?,440688,Chris,419258,53,2022-08-28 23:42:24,4,447,3,0,True,True,"['rest', 'naming']",False
+Is there a standard for describing information about Java Beans (Bean Introspections),440678,Chris,89164,207,2022-08-28 08:24:02,0,71,0,0,False,False,"['java', 'standards', 'industry-standard']",False
+am I understanding MVVM correctly? [duplicate],440667,Saketh,419673,9,2022-08-27 10:27:26,0,86,1,1,False,False,"['design-patterns', 'android', 'mvvm', 'android-development']",False
+How would I use TDD / BDD when my webapp interacts with an external REST API?,440663,Lagerbaer,161522,516,2022-08-27 03:43:15,2,154,2,3,True,True,"['rest', 'web-applications', 'tdd', 'bdd']",False
+Correct IHttpClientFactory implementation with dependency injection?,440657,chrisxfire,418147,121,2022-08-26 16:43:50,1,479,1,2,False,True,"['c#', '.net', 'dependency-injection']",False
+API Routes: Get App by User or Get User's App,440656,RoLYroLLs,287452,129,2022-08-26 15:51:57,1,74,1,0,True,True,"['api-design', 'asp.net-mvc-web-api']",False
+"How do I handle malformed compressed input data, which crashes external library?",440646,MPIchael,365797,219,2022-08-26 09:32:20,8,792,4,4,True,True,['third-party-libraries'],False
+Restricting access to resources by source and destination IP,440641,jake_berenson,419629,1,2022-08-26 08:26:06,0,39,0,0,False,False,"['design', 'networking', 'system']",False
+Is It Considered Good Practice to Use Dependency Injection with Strategies from a NuGet Package?,440637,Treker,419624,161,2022-08-26 05:03:50,1,515,3,1,True,True,"['c#', 'dependency-injection', 'asp.net-core', 'nuget', 'strategy-pattern']",False
+Coding style for a micro-service across organisation [closed],440629,Rishikesh Dhokare,293554,113,2022-08-25 20:53:20,-3,89,2,6,False,False,"['architecture', 'microservices', 'architectural-patterns', 'clean-architecture', 'hexagonal-architecture']",True
+Approaches to 'promoting' release candidates in Java projects,440626,daniel purdew,396817,13,2022-08-25 19:45:33,0,81,1,3,True,True,"['java', 'publications']",False
+Rapid rate of merging new code with minimal testing [closed],440625,rubunu,418322,7,2022-08-25 19:32:05,-1,72,2,4,False,False,"['git', 'bug', 'merging']",True
+Does Jenkins essentially function like a package manager for your software product?,440619,Noob_Guy,397757,149,2022-08-25 12:42:06,-4,98,2,1,False,True,"['continuous-integration', 'packages', 'continuous-delivery', 'automation', 'jenkins']",False
+How does a JIT compiler actually emit and then call the emitted native code?,440610,AIWalker,380934,1277,2022-08-25 05:42:30,5,376,3,0,False,True,"['compiler', 'assembly', 'interpreters', 'jit']",False
+"High level abstraction of file scanning service in domain driven design, and the implementations",440605,Patrick Christie,418672,77,2022-08-24 22:52:24,3,80,1,10,False,False,"['domain-driven-design', 'clean-architecture', 'backend']",False
+Spring Boot - How to return mocked data based on spring profile,440604,dbnex14,236377,119,2022-08-24 22:47:34,0,165,1,7,False,True,"['spring', 'spring-boot']",False
+SQL databases - what will happen if dozen of users edit the same record at the same time?,440595,stubborn,362441,63,2022-08-24 14:53:55,0,138,1,4,False,False,"['database', 'concurrency']",False
+What is the significance of reaching major version 1.0.0?,440591,spinners,245057,555,2022-08-24 12:45:30,42,9000,5,0,False,True,['versioning'],False
+Composite ID in hierarchical REST API,440588,Robus,24288,157,2022-08-24 11:04:22,4,421,4,2,False,False,"['rest', 'api-design']",False
+Best practice for knowing the link between binaries (*.exe and *.dll) and their source code?,440586,Dominique,250257,1699,2022-08-24 10:31:26,-1,218,4,2,False,True,"['git', 'visual-studio', 'release-management', 'configuration-management']",False
+Should you pass an instance of service to a model class?,440585,aarnaut,297673,249,2022-08-24 10:05:59,2,127,2,17,True,False,"['design', 'object-oriented', 'model']",False
+Why should I map external IDs to internal IDs in my API?,440579,David Klempfner,109967,299,2022-08-23 23:16:17,5,563,1,2,True,True,['api-design'],False
+development environment for C++ GUI applications,440568,tom,364273,129,2022-08-23 15:23:02,-1,96,1,4,False,True,"['development-process', 'gui', 'third-party-libraries', 'cmake']",False
+how to leverage overloading while keeping business logic out of models,440555,dbrewster,419467,139,2022-08-22 17:28:27,2,187,3,10,True,True,"['java', 'object-oriented', 'polymorphism', 'separation-of-concerns']",False
+User's comment field on a row in relational databases,440541,jiwopene,344406,191,2022-08-21 16:27:32,2,180,3,0,False,False,"['database-design', 'relational-database', 'null']",False
+Is MVC a sensible design choice for a CLI application?,440527,Yoh,419134,51,2022-08-20 22:10:16,0,280,2,1,True,False,"['design', 'java', 'architecture', 'mvc', 'command-line']",False
+"DDD, Isn't `User` the aggregate root most of the time?",440521,Ced,196981,276,2022-08-20 11:41:08,0,602,2,6,True,True,['domain-driven-design'],False
+How to optimize average rating calculation in a review system?,440519,Sadman Muhib Samyo,419381,117,2022-08-20 09:41:56,0,213,1,0,True,False,"['optimization', 'message-queue', 'async', 'review']",False
+"Waiting until end of project to remove commented out code, remove unused code, and resolve compiler warnings",440511,user8297969,343245,233,2022-08-19 16:33:43,3,388,6,0,False,False,"['development-process', 'anti-patterns', 'comments', 'engineering', 'warnings']",False
+Using orm events or database triggers,440509,PersianMan,401971,119,2022-08-19 16:20:05,0,138,3,3,True,True,"['database', 'orm']",False
+Mocking / stubbing C# record types in a unit test,440505,void.pointer,31950,4943,2022-08-19 12:35:07,0,347,1,1,False,False,"['design', 'c#', 'unit-testing']",False
+Why isn't a counter used to avoid nested for loops for index based operations?,440493,Yoh,419134,51,2022-08-18 19:52:01,0,497,3,2,True,True,"['algorithms', 'programming-practices', 'performance', 'big-o']",False
+Does the Primitive Obsession code smell apply to Python?,440475,Paul Bendevis,419284,241,2022-08-17 20:35:56,13,562,2,1,True,True,"['design', 'python']",False
+Chat app database architecture [closed],440474,aroooo,52359,245,2022-08-17 18:59:12,-1,271,1,1,False,True,"['database', 'messaging', 'chat']",True
+Is it bad code design to use an out of scope static variable?,440471,Aiko,419279,121,2022-08-17 18:15:33,1,256,2,2,False,True,['c++'],False
+Is global state really always bad?,440470,Angelica,419280,79,2022-08-17 17:57:49,7,460,5,1,True,False,['state'],False
+Should a class be an attribute for another class if all I need is the data from it?,440464,Ryan Folks,419265,13,2022-08-17 13:21:37,0,101,1,1,True,True,"['design', 'coding-style', 'class-design']",False
+Pattern For A Load Behavior That Can Act On Any Class,440463,Stevenfowler16,208773,101,2022-08-17 13:09:53,0,39,0,0,True,False,"['design-patterns', 'object-oriented-design']",False
+"Using the word ""loop"" as a subject in a sentence [closed]",440460,AlwaysLearning,216771,523,2022-08-17 09:54:51,2,136,2,3,True,True,"['communication', 'loops']",True
+Identity Bounded Context for a small eCommerce System,440455,user8189,243601,1,2022-08-17 05:54:32,-1,233,1,5,True,False,['domain-driven-design'],False
+Handling In-App Credits better approach,440447,Vladyslav Zavalykhatko,257824,107,2022-08-16 16:09:33,-1,69,2,6,True,False,"['architecture', 'payment']",False
+Aggregating embedded documents in MongoDB,440445,Karol Borkowski,419212,127,2022-08-16 13:01:03,1,76,1,2,False,False,"['database-design', 'mongodb', 'normalization']",False
+How to model these entities in DDD?,440444,Roman Mahotskyi,373823,109,2022-08-16 11:14:52,0,74,0,1,False,False,"['domain-driven-design', 'aggregate']",False
+Appropriate design pattern for coupled Objects,440443,Uriel,263136,131,2022-08-16 08:24:16,-1,130,2,5,True,False,"['design-patterns', 'architecture', 'architectural-patterns', 'patterns-and-practices']",False
+How to add some data to an Enum in Python,440440,La Cartuccia,419177,39,2022-08-15 22:04:17,2,117,1,3,True,True,"['python', 'object-oriented-design', 'python-3.x', 'enum']",False
+Does Garbage Collection Scan The Entire Memory?,440430,PoJam,384551,475,2022-08-15 19:16:49,34,9000,7,2,False,True,"['performance', 'memory', 'garbage-collection']",False
+How to handle subclasses needing different method signatures for the overriden function?,440408,Yoh,419134,51,2022-08-14 14:20:15,0,189,3,10,True,False,"['design-patterns', 'object-oriented', 'object-oriented-design', 'inheritance']",False
+DDD - Modelling a system of groups and users,440405,Astronought,419132,13,2022-08-14 13:08:34,1,231,1,0,False,True,"['c#', 'domain-driven-design', '.net', 'aggregate']",False
+What is the best way to desgin my api workflow?,440403,ferrocene,409362,17,2022-08-14 07:39:44,0,60,0,3,False,False,"['design', 'microservices', 'software', 'distributed-system', 'engineering']",False
+How to decide between different implementations for the same functionality in python,440402,Darkspore,419124,1,2022-08-14 07:16:27,0,32,0,2,False,False,['python'],False
+Designing a follow relationship in a Instagram-like application using DDD,440396,brucewayne,419114,1,2022-08-13 20:01:12,0,166,0,0,True,False,"['domain-driven-design', 'cqrs', 'typescript', 'twitter']",False
+How to prevent in house frameworks and libraries from becoming technical debt,440391,krezno,403791,77,2022-08-13 17:11:06,4,627,5,0,False,True,"['design', 'libraries', 'teamwork', 'frameworks', 'project-structure']",False
+How to scale transactional outbox pattern with document database?,440390,gasabr,262158,31,2022-08-13 12:06:53,1,502,1,1,False,False,"['domain-driven-design', 'microservices', 'cqrs', 'mongodb', 'document-databases']",False
+Storing SQL for table creation,440386,Pierre-Alexandre,385259,137,2022-08-13 08:13:37,1,37,0,3,True,False,"['database', 'web-development', 'sql']",False
+Object Oriented Programming - what is the best way to add new parameters?,440375,ThePunisher,307129,138,2022-08-12 14:56:28,2,248,3,2,False,True,"['object-oriented', 'inheritance', 'abstract-class', 'liskov-substitution', 'virtual-functions']",False
+"@Getter, @Setter vs @Data in lombok? [closed]",440363,Brooklynn99,353454,181,2022-08-11 19:36:51,-1,2000,1,0,True,True,"['java', 'programming-practices']",True
+JPA/Hibernate/Spring - What if M side of @OneToMany is not relevant for business logic?,440362,dbnex14,236377,119,2022-08-11 18:41:48,0,251,1,4,True,True,"['hibernate', 'spring-boot', 'jpa']",False
+How can I ensure same code formatting across IDE?,440352,Abdeali Chandanwala,192328,115,2022-08-11 11:03:33,-1,293,4,0,False,False,['code-formatting'],False
+What Semantic Version increment to use for a filename change?,440346,Lawrence,281704,309,2022-08-11 03:39:15,18,4000,5,1,True,True,"['versioning', 'configuration', 'semantic-versioning']",False
+Static types and dependencies in trunk-based development,440337,Ivan Kleshnin,418996,139,2022-08-10 10:54:31,2,197,3,6,False,True,"['git', 'development-process', 'versioning', 'branching', 'typescript']",False
+The notion of configurable strategies,440330,Dev-iL,146757,233,2022-08-10 07:12:22,2,132,1,3,True,True,"['design-patterns', 'python', 'object-oriented-design', 'configuration', 'strategy-pattern']",False
+Writing tests for API that results depends on table with millions of rows,440324,Bruno Mello,418973,127,2022-08-09 22:42:00,0,137,2,4,False,True,"['unit-testing', 'testing']",False
+react native responsive styling for web and desktop,440320,Mointy,389855,119,2022-08-09 17:36:48,0,49,0,1,False,False,"['web', 'react', 'react-native']",False
+"Doubt about DDD, entity core and backing field",440314,Álvaro García,412921,287,2022-08-09 10:15:52,0,544,1,0,False,True,"['domain-driven-design', 'entity-framework']",False
+"REST API vs upserts and ""updeletes""",440310,Don Draper,339572,135,2022-08-09 07:17:56,0,122,2,10,False,False,"['rest', 'database-design', 'api', 'api-design']",False
+Separating Typeorm Entities from Domain Entities [duplicate],440304,Maak,378076,67,2022-08-08 16:12:07,1,44,0,7,False,False,"['architecture', 'domain-driven-design', 'domain-model', 'orm', 'typescript']",False
+How to define the data model in an event-based infrastructure,440303,Dzeri96,418906,29,2022-08-08 16:01:36,2,75,0,4,False,False,"['microservices', 'data-types', 'event']",False
+Is the combination of Image Classification and numerical data useful and possible with ML.Net?,440299,Leonard P.,418890,1,2022-08-08 13:48:18,0,47,0,0,False,False,"['c#', 'machine-learning', 'neural-networks', 'features']",False
+Error or not error?,440293,Anatoly,161072,258,2022-08-08 08:23:13,4,1000,3,2,False,True,"['http', 'error-handling', 'http-response']",False
+Android clean architecture - RemoteMediator with multiple api dependencies and data sources,440290,Dionis Beqiraj,418875,101,2022-08-08 07:20:32,0,132,0,2,False,False,"['android', 'mvvm', 'clean-architecture', 'repository-pattern', 'android-development']",False
+Personal AES keys storage idea not working reason,440287,desmond ng,418873,3,2022-08-08 06:06:53,0,60,2,17,True,True,['security'],False
+"What difference is there, if any, between a KPI and an SLI? [closed]",440277,Joe C,251968,105,2022-08-07 16:37:08,-3,381,1,2,True,True,['language-agnostic'],True
+Is DDD needed in full stack development?,440274,Desperado,412881,111,2022-08-07 15:04:37,-3,203,1,4,False,False,['domain-driven-design'],False
+Fighting the half-life of code,440273,user7088941,302625,569,2022-08-07 14:55:09,7,816,7,10,True,True,"['source-code', 'runtime', 'future-proof']",False
+Best way to name derived classes when extending its functionality [closed],440262,user16405900,402799,19,2022-08-07 07:47:05,0,125,1,0,False,True,"['c#', 'object-oriented', 'naming', 'solid', 'naming-standards']",True
+How much time should you spend planning a commit before writing code?,440257,Tom Huntington,366664,401,2022-08-06 23:28:58,24,9000,13,1,True,True,"['programming-practices', 'productivity', 'planning', 'time', 'solo-development']",False
+Difference between Resolvers and Controllers?,440254,twominds,412381,129,2022-08-06 18:44:33,1,256,1,6,True,True,"['javascript', 'node.js', 'mongodb', 'graphql', 'express.js']",False
+Do Lambdas(AWS) stop making sense after a certain number of functions?,440252,AKT,418802,149,2022-08-06 07:11:47,4,452,4,0,True,False,"['aws', 'serverless']",False
+Granularity of API Gateways to Service Balancers,440250,hotmeatballsoup,309754,61,2022-08-06 02:34:24,2,106,1,0,False,True,"['architecture', 'microservices', 'load-balancing']",False
+Multi type HTML dropdown conversion to the corresponding C# object type,440246,Scuzzlebutt,174105,121,2022-08-05 16:44:27,1,83,3,3,True,True,"['c#', 'object-oriented-design', 'html']",False
+"I have several user stories which will be provided by a new application, where do I detail setting up the new application itself? [duplicate]",440245,Mr. Boy,104623,231,2022-08-05 15:28:58,-2,45,1,1,False,False,"['agile', 'scrum', 'task-organization', 'azure-devops']",False
+Elegant way to go about navigating between components in React,440244,AlePouroullis,417075,113,2022-08-05 15:23:26,0,25,0,2,True,False,"['design', 'javascript', 'reactjs']",False
+Service discovery and load balancers with high-frequency health checks,440242,hotmeatballsoup,309754,61,2022-08-05 14:44:07,4,148,1,1,True,True,"['microservices', 'load-balancing']",False
+Modules Design and Communication Between Them,440240,Amdguez,365699,41,2022-08-05 14:10:52,2,179,2,1,False,False,"['design', 'design-patterns', 'domain-driven-design', 'clean-code', 'modules']",False
+Should I do dependency inversion on the same layer level,440236,Patrick,411540,123,2022-08-05 10:25:42,-2,148,3,2,False,True,"['java', 'design-patterns', 'domain-driven-design', 'dependency-inversion']",False
+Publish-subscribe inside a single application,440229,Josu Goñi,235950,115,2022-08-04 19:51:35,0,80,2,1,True,False,"['design', 'architecture']",False
+Business rule or repository implementation rule in Clean Architecture,440228,Rodrigo Maller Martins,418748,19,2022-08-04 19:05:29,1,125,0,1,True,False,"['python', 'domain-driven-design', 'clean-architecture', 'business-logic']",False
+Should repositories return self persisting entities?,440226,Ced,196981,276,2022-08-04 17:05:45,3,196,1,0,True,True,"['domain-driven-design', 'repository', 'persistence', 'entity', 'repository-pattern']",False
+How to filter and concatenate multiple sql files into one database [closed],440220,ste,418735,7,2022-08-04 11:29:38,-2,92,2,3,True,True,"['sql', 'mysql', 'sql-server', 'parsing', 'postgres']",True
+DDD - Recommended practice for validating commands against entity state?,440219,ilitirit,182590,155,2022-08-04 10:25:29,0,76,0,5,True,False,"['domain-driven-design', 'validation']",False
+Are repositories async?,440211,Ced,196981,276,2022-08-03 19:56:23,2,324,3,6,True,True,"['domain-driven-design', 'repository', 'repository-pattern']",False
+In DDD: is the domain who decides when to persist the data?,440208,Álvaro García,412921,287,2022-08-03 17:32:44,1,377,3,2,False,True,['domain-driven-design'],False
+DDD: Service role vs Repository,440207,Big_Boulard,364475,103,2022-08-03 16:46:16,0,122,1,1,False,True,"['domain-driven-design', 'microservices']",False
+"In Laravel, how do you handle a resource being managed differently depending on a user role while using policies?",440206,Aridez,340067,119,2022-08-03 16:44:05,0,35,0,5,True,False,"['laravel', 'resources']",False
+How does Spring boot and Postgres handle the concurrent updates?,440205,Spring boot progammer,386651,27,2022-08-03 16:24:39,0,395,0,3,True,False,"['java', 'multithreading', 'concurrency', 'postgres', 'spring-boot']",False
+Domain Driven Design - Aggregate Root and Nested Aggregate Invariants,440202,danwag,418669,129,2022-08-03 14:20:15,2,356,3,2,False,False,"['c#', 'domain-driven-design', 'asp.net-core']",False
+"In a C4 container diagram, should I draw my event message broker or can I define direct relations?",440198,Herr Derb,264141,399,2022-08-03 10:08:26,1,152,1,10,True,True,['diagrams'],False
+High level 'implementation' of a use case in a layered/DDD architecture,440194,Patrick Christie,418672,77,2022-08-03 01:58:02,2,174,2,0,False,False,"['domain-driven-design', 'layers', 'backend', 'onion-architecture']",False
+Handling a numerical value that may be specific or a range in a REST API,440189,jem473,418661,21,2022-08-02 17:47:27,1,113,1,3,False,True,"['rest', 'api', 'api-design', 'json']",False
+"Does it make sense to use ""client sent events"" over HTTP/2?",440183,Archimedes Trajano,42195,691,2022-08-02 14:28:34,0,39,0,2,False,False,"['http', 'https', 'grpc', 'streaming']",False
+Difference between API and protocol?,440182,Katie,359458,219,2022-08-02 13:19:37,4,760,2,0,True,False,"['api', 'api-design', 'terminology', 'web-api', 'protocol']",False
+multiple products db structure in mssql,440175,cal,418613,17,2022-08-01 21:06:06,-1,76,1,0,False,True,['sql-server'],False
+How to share state between microservices,440172,carlo_barth,418600,9,2022-08-01 18:19:40,0,339,1,1,False,False,"['design-patterns', 'microservices', 'state']",False
+Saving REST API IDs into a different microservice,440171,persson,418602,123,2022-08-01 18:14:46,2,148,2,3,True,True,"['rest', 'microservices']",False
+Does it always take the same amount of time to retrieve the same thing from collection?,440170,link2name,414320,21,2022-08-01 18:10:42,1,230,3,2,False,True,"['javascript', 'performance', 'variables']",False
+How can you write unit tests for an opaque/nondeterministic algorithm like Monte Carlo tree search?,440166,Derek Thurn,136491,189,2022-08-01 15:48:45,8,481,3,0,True,False,['unit-testing'],False
+"UI/UX design feels like waterfall, What do you think should be the proper process?",440159,Guiom,418586,31,2022-08-01 12:04:40,-1,186,2,4,True,True,"['agile', 'user-experience', 'ui', 'react', 'waterfall']",False
+UnsupportedOperationException vs Interface Segregation,440155,Stefan Rendevski,304272,376,2022-08-01 10:45:30,8,2000,4,0,False,True,"['design-patterns', 'object-oriented', 'solid']",False
+Should mocks used in unit tests represent entireties or subsets?,440147,pstatix,253431,1037,2022-08-01 02:41:27,0,151,1,1,True,False,"['design', 'java', 'unit-testing']",False
+Block structured iteration and recursion,440138,Steve,292095,5600,2022-07-31 11:03:40,-1,191,4,6,False,True,"['programming-languages', 'functional-programming', 'control-structures']",False
+Simplifying TryGet methods to execute logic,440130,WDUK,303640,2032,2022-07-30 20:20:40,4,156,3,3,True,True,"['design', 'design-patterns']",False
+Multidimensional vs nested arrays,440122,Steve,292095,5600,2022-07-30 11:12:58,4,714,2,4,False,True,"['programming-languages', 'array']",False
+Does using primitive types instead of user-defined types reduce dependencies?,440120,maksim_volodin,347810,31,2022-07-30 08:29:50,2,169,2,1,False,True,['code-smell'],False
+How can I use data from another remote repository without including it in my repository?,440116,Aditya Tomar,418510,93,2022-07-30 04:31:40,-4,65,2,0,False,False,"['git', 'github', 'repository', 'devops']",False
+Android + Kotlin + Hilt: Injecting into static methods classes,440113,Diego Perez,418204,187,2022-07-29 21:42:47,1,181,0,10,False,False,"['dependency-injection', 'android', 'kotlin']",False
+"What is the importance of ""this"" pointer in cpp? [closed]",440105,Ali,418489,15,2022-07-29 17:53:51,-3,124,1,7,False,False,"['object-oriented', 'c++']",True
+Java OOP Philosophy/Design: Mutable classes,440103,iart,418486,119,2022-07-29 17:11:48,1,95,2,4,False,False,"['design', 'java', 'object-oriented-design', 'philosophy']",False
+Is it okay to store ambiguous address information in localStorage?,440101,AttemptedMastery,412645,119,2022-07-29 16:35:00,1,71,2,0,False,False,"['user-experience', 'forms', 'local-storage']",False
+Should docs of extended methods include documentation of the base method?,440099,NonoG,418484,21,2022-07-29 16:26:44,1,110,5,2,False,True,"['coding-style', 'documentation', 'source-code']",False
+When should one utilize Atomic Operations?,440093,Anon,136084,3495,2022-07-29 09:23:11,3,675,2,2,False,False,"['c++', 'multithreading', 'mutex', 'semaphore', 'atom']",False
+Why does linux require that newly added syscalls be supported permanently?,440087,Danila Berezin,418458,29,2022-07-28 16:01:00,1,393,2,17,True,True,"['linux', 'kernel', 'system-architecture']",False
+Best method to differentiate between two REST methods with the same pathparam (in Quarkus),440082,SirHawrk,396100,249,2022-07-28 09:24:59,2,124,1,2,True,True,"['java', 'rest', 'api-design']",False
+MVC: Should View get strings of GUI components directly or should the controller pass strings to View?,440080,Samil,287256,131,2022-07-28 06:57:19,2,90,1,4,False,True,"['mvc', 'gui', 'internationalization', 'localization']",False
+Designing an API for international markets,440078,David Keaveny,47076,267,2022-07-27 23:42:44,4,193,3,10,True,True,"['api-design', 'web-api', 'internationalization']",False
+Design efficient real-time data subscription to reduce service workload,440071,Saiyan,418398,1,2022-07-27 14:39:11,0,39,0,0,False,False,"['design', 'architecture', 'javascript', 'node.js', 'real-time']",False
+Referencing transient class attributes,440069,Tim Kirkwood,418402,141,2022-07-27 14:07:00,3,168,3,1,True,True,"['object-oriented', 'python', 'class-design', 'functions', 'attributes']",False
+When is it practical to design in advance of refactoring?,440065,DaveO,175934,124,2022-07-27 09:48:09,0,221,2,6,True,True,['refactoring'],False
+Guaranteeing different availability requirements,440063,Senne Verhaegen,418230,113,2022-07-27 09:27:16,1,75,1,0,True,True,"['architecture', 'database', 'non-functional']",False
+DDD modeling with subtypes,440061,khalil Berakdar,418361,19,2022-07-27 07:02:02,0,108,0,0,False,False,"['domain-driven-design', 'aggregate']",False
+"Android + Kotlin + Hilt + multi-module app: Should I ""migrate"" all classes with static methods to ""injection""?",440056,Diego Perez,418204,187,2022-07-26 21:33:01,1,199,1,3,True,True,"['dependency-injection', 'android', 'kotlin']",False
+REST API Sub-Resources,440046,m1nkeh,314453,227,2022-07-26 15:58:23,3,260,3,1,False,False,"['rest', 'api-design']",False
+Dispatch based on ENUM/String value,440043,Regyn,374484,157,2022-07-26 14:36:25,0,63,0,2,True,False,"['java', 'object-oriented', 'object-oriented-design']",False
+How can correlation id from a process manager be passed to an integration event?,440041,elli,345306,101,2022-07-26 14:22:08,0,56,0,1,True,False,"['domain-driven-design', 'saga']",False
+How to model your domain when having subtype?,440040,khalil Berakdar,418361,19,2022-07-26 14:04:41,1,89,1,1,False,False,"['domain-driven-design', 'aggregate']",False
+What kind of queue should I use for processing large volume of data?,440032,William,418352,111,2022-07-26 09:44:15,0,88,1,2,False,True,"['queue', 'producer-consumer']",False
+Does my View Model violate the Single Responsibility Principle? Or am I just used to toy examples from tutorials?,440028,Jinx,418329,169,2022-07-25 19:46:51,6,243,1,1,True,False,"['design', 'design-patterns', 'api-design', 'mvvm', 'python-3.x']",False
+Invalidation of cached GET results by other endpoints,440025,Daniel McLaury,213126,342,2022-07-25 15:59:06,1,57,1,1,True,True,"['api-design', 'rpc']",False
+"Is it a bad habit to use other class' ""private"" variables in Javascript",440022,Jesper,400177,143,2022-07-25 13:12:38,1,202,1,0,True,False,"['javascript', 'programming-practices']",False
+Semantic versioning on a dev dependencies change,440018,floatingpurr,418310,137,2022-07-25 11:59:45,1,523,3,3,True,True,"['versioning', 'semantic-versioning']",False
+Should I design a factory that returns a singleton?,440004,Martin Braun,78646,283,2022-07-24 19:10:19,0,385,4,5,True,True,"['java', 'singleton', 'factory']",False
+Dependency resolution of tasks which have crontab information,439993,m0hithreddy,418247,119,2022-07-23 19:01:02,1,101,2,6,True,False,"['algorithms', 'python', 'dependencies', 'graph']",False
+TDD: testing an abstract class. Test all concrete classes or create mock sub-class to test the behavior?,439991,Gabriel Antonio,417156,119,2022-07-23 15:05:48,1,474,6,2,False,False,"['testing', 'tdd', 'use-case', 'clean-architecture', 'typescript']",False
+Direct Database Access for Desktop GUI or via Application Server?,439985,whopkinscom,418226,19,2022-07-23 07:55:45,1,76,1,1,False,False,"['wpf', 'client-server', 'desktop-application']",False
+DI: Injecting interfaces vs actual classes,439977,Diego Perez,418204,187,2022-07-22 19:49:00,1,1000,4,5,True,True,"['interfaces', 'dependency-injection']",False
+Possible to create a git repo that will comprised of files residing in NFS and files in a system directory?,439976,boardrider,174610,113,2022-07-22 19:28:10,1,45,1,3,True,False,"['git', 'gitlab']",False
+const correctness re: reference members,439974,Daniel McLaury,213126,342,2022-07-22 18:10:29,3,142,1,2,False,True,"['c++', 'const']",False
+Android + Kotlin + Hilt: Dependency Injection vs Static Methods,439970,Diego Perez,418204,187,2022-07-22 15:01:01,1,282,1,10,True,True,"['dependency-injection', 'android', 'static-methods', 'kotlin']",False
+"python tkinter GUI design, when to use the withdraw() and when to use the destroy() method",439968,Tim van de Ven,418198,1,2022-07-22 12:42:45,0,294,0,0,False,False,"['python', 'gui']",False
+Working on different release branches at the same time using git flow,439967,Jim Panse,310893,306,2022-07-22 12:38:20,1,175,1,3,False,True,"['branching', 'release-management', 'gitflow', 'branch']",False
+When and how to be more loose when checking for equivalence of two objects?,439960,Tin Nguyen,358325,129,2022-07-22 07:24:29,2,70,1,2,False,False,['python'],False
+Microservice Architecture - Calculating API Request Count and Duration,439957,S7H,418173,119,2022-07-22 05:59:48,0,67,0,0,True,False,"['microservices', 'metrics']",False
+How to generate java class files with framework boilerplate in a project?,439954,Xiang Wei Huang,418170,181,2022-07-22 04:20:02,7,1000,2,0,False,True,"['java', 'templates', 'code-generation']",False
+Best way to manage shared state in parent-child objects where children need to check other children,439953,ErikE,3941,1151,2022-07-22 03:53:18,2,83,1,1,False,True,['object-oriented'],False
+"Is the difference between ""changesets"" and ""snapshots"" in version control primarily a space-time tradeoff?",439951,Lou,127164,336,2022-07-21 22:30:53,2,179,0,3,True,False,"['design', 'version-control']",False
+"If you run a function in a different thread, but you wait for it to finish in your main thread, is that function asynchronous?",439950,Anon,136084,3495,2022-07-21 22:10:03,0,68,0,2,False,False,"['terminology', 'multithreading', 'event-programming', 'synchronization', 'asynchronous-programming']",False
+REST API designing resources for complex entities,439949,J.Paravicini,343759,121,2022-07-21 20:16:47,1,162,1,0,True,False,"['design', 'rest', 'api-design', 'entity-framework', 'asp.net-core']",False
+Should Infrastructural Services Listen to Domain Events,439948,alaboudi,306975,193,2022-07-21 18:43:08,0,52,0,4,True,False,"['architecture', 'domain-driven-design', 'microservices']",False
+Is there a best practice for storing multiple pages of JSON responses from an API?,439945,chrisxfire,418147,121,2022-07-21 15:53:37,0,110,1,0,False,False,"['c#', 'web-api']",False
+Tight coupling between micro services,439940,Renan Cidale,396550,111,2022-07-21 12:52:30,1,115,1,1,True,False,"['microservices', 'cqrs']",False
+When using composition when to favour wrapper methods?,439936,Chryfi,417191,39,2022-07-21 09:46:44,0,108,2,6,False,True,"['design', 'object-oriented', 'composition']",False
+Problem with peer verification on a zero-trust network,439925,drake14w,418123,13,2022-07-20 21:22:32,1,98,1,3,True,True,"['networks', 'cluster', 'p2p']",False
+"One db per microservice, on the same storage engine?",439919,Simple Fellow,67385,271,2022-07-20 10:58:49,2,2000,3,4,False,False,"['architecture', 'database', 'microservices']",False
+DDD Thought Process for Customers & Orders Relationship,439908,Subliminal Hash,294026,147,2022-07-19 16:32:36,-1,150,1,1,False,False,['domain-driven-design'],False
+Store static data in public folder as json file or directly in .js file?,439905,AlePouroullis,417075,113,2022-07-19 15:09:14,0,739,2,0,False,True,"['design', 'javascript', 'programming-practices', 'web-development']",False
+Should you reuse a PHP exception's code when wrapping it?,439904,TravisCarden,90915,217,2022-07-19 15:03:54,1,123,3,10,False,True,"['php', 'exceptions']",False
+The name of this change/refactoring pattern,439894,tia,1384,955,2022-07-19 10:24:08,1,115,2,7,False,False,['refactoring'],False
+Should the intentional absence of a value rather be represented by value-convention or through explicit flag?,439893,Wolfone,263412,103,2022-07-19 09:29:14,0,64,1,4,False,True,"['database-design', 'user-experience']",False
+"Bean objects vs ""functional"" objects",439892,Vinz243,104719,217,2022-07-19 09:24:27,0,73,1,0,False,True,['object-oriented-design'],False
+MVVM - Wrapping Class For ViewModel,439889,lol,245302,113,2022-07-19 00:48:07,0,270,1,2,False,True,"['c#', 'mvvm', 'wpf']",False
+"Disambiguating Python terms, what is the difference between ""type hint"" vs ""type annotations""?",439888,Keto,386949,129,2022-07-18 23:13:26,1,104,1,2,False,True,"['python', 'terminology', 'type-systems', 'definition']",False
+How to handle relationships between resources in Restful API,439884,Antonio Gamiz Delgado,349631,431,2022-07-18 17:49:03,1,419,0,17,True,False,"['rest', 'api-design', 'web-api', 'relationships']",False
+What does function composition being associative even mean?,439878,pro100tom,408555,459,2022-07-18 12:15:47,21,5000,4,2,True,True,"['functions', 'order']",False
+What is the role of scrum master in minimizing the impact of a team member leaving the team? [closed],439876,dotnet developer,418020,21,2022-07-18 10:18:44,-1,108,2,4,False,False,['scrum'],True
+I need help understanding a seemingly broken Git release flow,439874,ChrisK,418017,53,2022-07-18 09:09:12,3,196,1,10,True,True,"['git', 'version-control', 'gitflow']",False
+Using sed/awk to bulk generate static HTML pages off of a template,439871,dakini,198468,165,2022-07-17 20:28:09,0,80,1,0,False,True,"['html', 'front-end', 'scripting', 'code-generation', 'unix']",False
+"Difference between User Requirements, System Requirements, Functional Requirements etc [duplicate]",439869,Marcel,418002,9,2022-07-17 19:08:55,-1,290,1,1,True,False,"['requirements', 'functional-requirements']",False
+Clean Architecture for React App: Component / View / Page,439866,DarkTrick,345246,217,2022-07-17 15:50:38,0,430,1,6,True,False,"['architecture', 'clean-code', 'clean-architecture', 'reactjs']",False
+In what language does a method not return a value and a function does?,439864,houimli manel,417994,39,2022-07-17 13:19:01,2,286,2,0,True,False,"['java', 'c++', 'functional-programming', 'methods']",False
+"If we don't use function composition, does Maybe remain a monad?",439863,pro100tom,408555,459,2022-07-17 12:13:13,0,112,1,0,False,False,"['composition', 'monad']",False
+How big should database adapters/gateways be?,439861,DarkTrick,345246,217,2022-07-17 11:05:38,0,47,0,3,True,False,"['architecture', 'architectural-patterns', 'clean-architecture']",False
+Is branch-per-release trunk-based development incompatible with semantic versioning?,439858,GDF,417973,29,2022-07-17 00:05:37,2,182,0,1,False,False,"['development-process', 'continuous-integration', 'semantic-versioning']",False
+Struggling to find the relation between a Maybe structure and the endofunctor,439856,pro100tom,408555,459,2022-07-16 22:23:03,2,143,1,2,True,True,['monad'],False
+What can be done with closures that would be difficult or impossible to do without closures?,439854,Christopher,274111,2019,2022-07-16 17:52:04,0,151,1,1,True,False,['javascript'],False
+Where should interfaces be used?,439843,The_Sympathizer,219268,323,2022-07-16 01:07:41,16,4000,7,1,False,True,"['object-oriented-design', 'interfaces', 'abstraction', 'coupling']",False
+adding optional code for bad protocol state check,439835,Groostav,76881,267,2022-07-15 18:31:34,2,50,2,2,False,False,"['api-design', 'transaction', 'protocol', 'grpc']",False
+How should I handle routine health checks in a Node.js/Nest.js application?,439832,Michael Jay,389510,131,2022-07-15 16:31:26,1,35,1,1,True,False,"['node.js', 'async']",False
+Design of A Multithreaded Simulator,439831,Nabiel Kandiel,417920,3,2022-07-15 13:15:56,0,114,1,1,True,True,"['design', 'c++', 'multithreading', 'concurrency', 'simulation']",False
+Naming an interface that does something and its opposite,439827,Bipolo TheGod,382474,83,2022-07-15 10:18:25,6,1000,2,0,True,True,"['interfaces', 'naming']",False
+"Standard Maven approach for large, non-Java dependencies needed for build?",439819,AgentOddball,417881,13,2022-07-14 18:58:42,1,99,2,3,True,True,"['java', 'dependency-management', 'maven']",False
+Message queuing systems: sequential processing with dependencies between queues,439816,beater,276411,107,2022-07-14 15:48:18,-1,127,1,5,True,False,"['message-queue', 'rabbitmq']",False
+Database/System design for multiple RPi and main server,439815,rexcision,417875,1,2022-07-14 15:08:54,0,27,0,6,True,False,['database'],False
+How do I make Design Templates like Canva Templates that are unique but can be modified & exported as an image? Should I use Canvas or WebGL?,439814,deadcoder0904,404533,119,2022-07-14 13:57:35,1,29,0,2,False,False,"['web-development', 'canvas', 'webgl']",False
+Foreign key vs string,439812,Accollativo,182520,459,2022-07-14 13:42:16,1,191,1,1,False,True,"['database', 'database-design', 'relational-database']",False
+Combination of SDLC models [closed],439808,LAL,417867,11,2022-07-14 10:41:30,-1,65,2,5,True,False,"['agile', 'development-process', 'software', 'sdlc']",True
+Validation in a simple DDD example,439806,Martin Gonzalez,417864,9,2022-07-14 07:56:39,0,128,1,3,True,False,"['design', 'object-oriented', 'object-oriented-design', 'domain-driven-design']",False
+"Code review turned into rewrite, should I push my changes?",439800,yeerk,368290,490,2022-07-14 03:25:38,5,645,5,2,False,True,"['code-reviews', 'rewrite']",False
+Should I keep the structure of the API request body same in all cases?,439796,vvv,417843,33,2022-07-13 17:49:15,0,86,1,10,True,True,"['design-patterns', 'api', 'api-design', 'http-request']",False
+UML Statecharts,439793,Patrick Wright,400494,387,2022-07-13 16:29:05,0,48,0,0,False,False,"['uml', 'state', 'finite-state-machine']",False
+Releasing a project for multiple languages and package managers,439787,Anna,417827,147,2022-07-13 12:04:33,2,183,1,3,False,True,"['open-source', 'github', 'repository', 'release-management', 'packages']",False
+How to come up with an easy-to-use way of creating quantities with units in C#?,439783,redcurry,326979,133,2022-07-13 11:12:07,2,269,2,2,False,True,"['c#', 'object-oriented', 'measurement']",False
+Do you test your CI/CD scripts? [closed],439782,gebbissimo,326802,231,2022-07-13 10:10:18,-1,90,1,0,True,True,"['unit-testing', 'continuous-integration']",True
+Handling recurring events,439777,user,413012,101,2022-07-13 01:18:54,0,71,0,0,False,False,"['design', 'architecture']",False
+C# - Class creating instances of other classes requiring different services,439770,Union3008,417788,31,2022-07-12 18:34:49,2,162,2,1,False,True,"['c#', 'unit-testing', '.net', 'dependency-injection', 'class-design']",False
+"Modelling an A to B movement controller, split or merge position and movement as state machines",439767,Cédric Moers,378840,151,2022-07-12 14:57:44,1,111,2,3,True,False,['finite-state-machine'],False
+Simple Java Spring Boot Cache for multi-container system,439763,Hindol Dey,380527,1,2022-07-12 07:36:58,0,701,2,2,False,True,"['java', 'caching', 'redis', 'spring-boot']",False
+Prove that an expression can create duplicate,439761,Felice Pollano,15909,103,2022-07-12 06:42:45,0,187,3,0,True,True,"['algorithms', 'computer-science']",False
+Unit test coverage and abundant glue code [duplicate],439759,Gherman,116656,945,2022-07-12 00:19:47,0,78,0,4,True,False,"['unit-testing', 'tdd', 'integration-tests', 'test-coverage']",False
+How to document pass-through parameters,439751,WhoDatBoy,417585,23,2022-07-11 17:07:04,1,211,2,0,False,True,"['python', 'documentation']",False
+Updating data when fetching,439749,Nerdragen,417750,103,2022-07-11 14:52:32,0,134,1,1,True,True,"['design', 'architecture']",False
